@@ -1,0 +1,317 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Partner_Name",
+            "type": "string"
+        },
+        {
+            "name": "_Require_Lv_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Require_Lv",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID1",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID2",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID3",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID4",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID5",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID6",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID7",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID8",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID9",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID10",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID11",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID12",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID13",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID14",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID15",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID16",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID17",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID18",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID19",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID20",
+            "type": "int"
+        },
+        {
+            "name": "_Partner_ID",
+            "type": "int"
+        },
+        {
+            "name": "_Skip_Item1",
+            "type": "int"
+        },
+        {
+            "name": "_Skip_Item2",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Partner_Name": "카르디안",
+            "_Require_Lv_Type": 1,
+            "_Require_Lv": 205,
+            "_QuestID1": 174002000,
+            "_QuestID2": 174002001,
+            "_QuestID3": 174002002,
+            "_QuestID4": 174002003,
+            "_QuestID5": 174002004,
+            "_QuestID6": 174002005,
+            "_QuestID7": 174002006,
+            "_QuestID8": 0,
+            "_QuestID9": 0,
+            "_QuestID10": 0,
+            "_QuestID11": 0,
+            "_QuestID12": 0,
+            "_QuestID13": 0,
+            "_QuestID14": 0,
+            "_QuestID15": 0,
+            "_QuestID16": 0,
+            "_QuestID17": 0,
+            "_QuestID18": 0,
+            "_QuestID19": 0,
+            "_QuestID20": 0,
+            "_Partner_ID": 101,
+            "_Skip_Item1": 190148207,
+            "_Skip_Item2": 190148208
+        },
+        {
+            "_Id": 2,
+            "_Partner_Name": "이레이저",
+            "_Require_Lv_Type": 1,
+            "_Require_Lv": 211,
+            "_QuestID1": 174002007,
+            "_QuestID2": 174002008,
+            "_QuestID3": 174002009,
+            "_QuestID4": 174002010,
+            "_QuestID5": 174002011,
+            "_QuestID6": 174002012,
+            "_QuestID7": 0,
+            "_QuestID8": 0,
+            "_QuestID9": 0,
+            "_QuestID10": 0,
+            "_QuestID11": 0,
+            "_QuestID12": 0,
+            "_QuestID13": 0,
+            "_QuestID14": 0,
+            "_QuestID15": 0,
+            "_QuestID16": 0,
+            "_QuestID17": 0,
+            "_QuestID18": 0,
+            "_QuestID19": 0,
+            "_QuestID20": 0,
+            "_Partner_ID": 201,
+            "_Skip_Item1": 190148207,
+            "_Skip_Item2": 190148208
+        },
+        {
+            "_Id": 3,
+            "_Partner_Name": "초신수",
+            "_Require_Lv_Type": 1,
+            "_Require_Lv": 220,
+            "_QuestID1": 174002013,
+            "_QuestID2": 174002014,
+            "_QuestID3": 174002015,
+            "_QuestID4": 174002016,
+            "_QuestID5": 174002017,
+            "_QuestID6": 174002018,
+            "_QuestID7": 174002019,
+            "_QuestID8": 174002020,
+            "_QuestID9": 0,
+            "_QuestID10": 0,
+            "_QuestID11": 0,
+            "_QuestID12": 0,
+            "_QuestID13": 0,
+            "_QuestID14": 0,
+            "_QuestID15": 0,
+            "_QuestID16": 0,
+            "_QuestID17": 0,
+            "_QuestID18": 0,
+            "_QuestID19": 0,
+            "_QuestID20": 0,
+            "_Partner_ID": 301,
+            "_Skip_Item1": 190148207,
+            "_Skip_Item2": 190148208
+        },
+        {
+            "_Id": 4,
+            "_Partner_Name": "베아트리체",
+            "_Require_Lv_Type": 1,
+            "_Require_Lv": 227,
+            "_QuestID1": 174002021,
+            "_QuestID2": 174002022,
+            "_QuestID3": 174002023,
+            "_QuestID4": 174002024,
+            "_QuestID5": 174002025,
+            "_QuestID6": 174002026,
+            "_QuestID7": 174002027,
+            "_QuestID8": 174002028,
+            "_QuestID9": 174002029,
+            "_QuestID10": 174002030,
+            "_QuestID11": 0,
+            "_QuestID12": 0,
+            "_QuestID13": 0,
+            "_QuestID14": 0,
+            "_QuestID15": 0,
+            "_QuestID16": 0,
+            "_QuestID17": 0,
+            "_QuestID18": 0,
+            "_QuestID19": 0,
+            "_QuestID20": 0,
+            "_Partner_ID": 401,
+            "_Skip_Item1": 190148207,
+            "_Skip_Item2": 190148208
+        },
+        {
+            "_Id": 5,
+            "_Partner_Name": "리치링",
+            "_Require_Lv_Type": 1,
+            "_Require_Lv": 224,
+            "_QuestID1": 184002001,
+            "_QuestID2": 184002002,
+            "_QuestID3": 184002003,
+            "_QuestID4": 184002004,
+            "_QuestID5": 184002005,
+            "_QuestID6": 184002006,
+            "_QuestID7": 184002007,
+            "_QuestID8": 184002008,
+            "_QuestID9": 0,
+            "_QuestID10": 0,
+            "_QuestID11": 0,
+            "_QuestID12": 0,
+            "_QuestID13": 0,
+            "_QuestID14": 0,
+            "_QuestID15": 0,
+            "_QuestID16": 0,
+            "_QuestID17": 0,
+            "_QuestID18": 0,
+            "_QuestID19": 0,
+            "_QuestID20": 0,
+            "_Partner_ID": 501,
+            "_Skip_Item1": 190148207,
+            "_Skip_Item2": 190148208
+        },
+        {
+            "_Id": 6,
+            "_Partner_Name": "유니아",
+            "_Require_Lv_Type": 1,
+            "_Require_Lv": 235,
+            "_QuestID1": 193002001,
+            "_QuestID2": 193002002,
+            "_QuestID3": 193002003,
+            "_QuestID4": 193002004,
+            "_QuestID5": 193002005,
+            "_QuestID6": 193002006,
+            "_QuestID7": 193002007,
+            "_QuestID8": 193002008,
+            "_QuestID9": 0,
+            "_QuestID10": 0,
+            "_QuestID11": 0,
+            "_QuestID12": 0,
+            "_QuestID13": 0,
+            "_QuestID14": 0,
+            "_QuestID15": 0,
+            "_QuestID16": 0,
+            "_QuestID17": 0,
+            "_QuestID18": 0,
+            "_QuestID19": 0,
+            "_QuestID20": 0,
+            "_Partner_ID": 601,
+            "_Skip_Item1": 190148207,
+            "_Skip_Item2": 190148208
+        },
+        {
+            "_Id": 7,
+            "_Partner_Name": "아리아",
+            "_Require_Lv_Type": 1,
+            "_Require_Lv": 235,
+            "_QuestID1": 224007001,
+            "_QuestID2": 224007002,
+            "_QuestID3": 224007003,
+            "_QuestID4": 224007004,
+            "_QuestID5": 224007005,
+            "_QuestID6": 224007006,
+            "_QuestID7": 224007007,
+            "_QuestID8": 224007008,
+            "_QuestID9": 0,
+            "_QuestID10": 0,
+            "_QuestID11": 0,
+            "_QuestID12": 0,
+            "_QuestID13": 0,
+            "_QuestID14": 0,
+            "_QuestID15": 0,
+            "_QuestID16": 0,
+            "_QuestID17": 0,
+            "_QuestID18": 0,
+            "_QuestID19": 0,
+            "_QuestID20": 0,
+            "_Partner_ID": 701,
+            "_Skip_Item1": 190148207,
+            "_Skip_Item2": 190148208
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Class",
+            "type": "int"
+        },
+        {
+            "name": "_Gender",
+            "type": "int"
+        },
+        {
+            "name": "_Default_Hair",
+            "type": "int"
+        },
+        {
+            "name": "_Default_Expression",
+            "type": "int"
+        },
+        {
+            "name": "_Default_Skin",
+            "type": "int"
+        },
+        {
+            "name": "_Default_Blouse",
+            "type": "int"
+        },
+        {
+            "name": "_Default_Pants",
+            "type": "int"
+        },
+        {
+            "name": "_Cap",
+            "type": "int"
+        },
+        {
+            "name": "_Glasses",
+            "type": "int"
+        },
+        {
+            "name": "_Earring",
+            "type": "int"
+        },
+        {
+            "name": "_Blouse",
+            "type": "int"
+        },
+        {
+            "name": "_Pants",
+            "type": "int"
+        },
+        {
+            "name": "_Cloak",
+            "type": "int"
+        },
+        {
+            "name": "_Glove",
+            "type": "int"
+        },
+        {
+            "name": "_Footwear",
+            "type": "int"
+        },
+        {
+            "name": "_Stocking",
+            "type": "int"
+        },
+        {
+            "name": "_Makeup",
+            "type": "int"
+        },
+        {
+            "name": "_Weapon",
+            "type": "int"
+        },
+        {
+            "name": "_Shield",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Class": 1,
+            "_Gender": 1,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        },
+        {
+            "_Id": 2,
+            "_Class": 1,
+            "_Gender": 2,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        },
+        {
+            "_Id": 3,
+            "_Class": 2,
+            "_Gender": 1,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        },
+        {
+            "_Id": 4,
+            "_Class": 2,
+            "_Gender": 2,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        },
+        {
+            "_Id": 5,
+            "_Class": 3,
+            "_Gender": 1,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        },
+        {
+            "_Id": 6,
+            "_Class": 3,
+            "_Gender": 2,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        },
+        {
+            "_Id": 7,
+            "_Class": 4,
+            "_Gender": 1,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        },
+        {
+            "_Id": 8,
+            "_Class": 4,
+            "_Gender": 2,
+            "_Default_Hair": 130299201,
+            "_Default_Expression": 140299201,
+            "_Default_Skin": 150100101,
+            "_Default_Blouse": 20500101,
+            "_Default_Pants": 30200101,
+            "_Cap": 90599201,
+            "_Glasses": 0,
+            "_Earring": 0,
+            "_Blouse": 51599201,
+            "_Pants": 0,
+            "_Cloak": 0,
+            "_Glove": 0,
+            "_Footwear": 70299201,
+            "_Stocking": 0,
+            "_Makeup": 0,
+            "_Weapon": 80999201,
+            "_Shield": 0
+        }
+    ]
+}

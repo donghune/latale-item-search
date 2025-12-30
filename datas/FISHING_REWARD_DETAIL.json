@@ -1,0 +1,1393 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_GroupID",
+            "type": "int"
+        },
+        {
+            "name": "_ItemID",
+            "type": "int"
+        },
+        {
+            "name": "_RareLimit",
+            "type": "int"
+        },
+        {
+            "name": "_PointMin",
+            "type": "int"
+        },
+        {
+            "name": "_PointMax",
+            "type": "int"
+        },
+        {
+            "name": "_Probability",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_GroupID": 10001,
+            "_ItemID": 180400101,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1600
+        },
+        {
+            "_Id": 2,
+            "_GroupID": 10001,
+            "_ItemID": 180400102,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1400
+        },
+        {
+            "_Id": 3,
+            "_GroupID": 10001,
+            "_ItemID": 170194831,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 800
+        },
+        {
+            "_Id": 4,
+            "_GroupID": 10001,
+            "_ItemID": 170194832,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 650
+        },
+        {
+            "_Id": 5,
+            "_GroupID": 10001,
+            "_ItemID": 170194833,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 500
+        },
+        {
+            "_Id": 6,
+            "_GroupID": 10001,
+            "_ItemID": 170194834,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 350
+        },
+        {
+            "_Id": 7,
+            "_GroupID": 10001,
+            "_ItemID": 170194835,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 200
+        },
+        {
+            "_Id": 8,
+            "_GroupID": 10001,
+            "_ItemID": 170194836,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 80
+        },
+        {
+            "_Id": 9,
+            "_GroupID": 10001,
+            "_ItemID": 190190931,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 5
+        },
+        {
+            "_Id": 10,
+            "_GroupID": 10001,
+            "_ItemID": 190171176,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 3
+        },
+        {
+            "_Id": 11,
+            "_GroupID": 10002,
+            "_ItemID": 90652353,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 12,
+            "_GroupID": 10002,
+            "_ItemID": 50352353,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 13,
+            "_GroupID": 10002,
+            "_ItemID": 70252353,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 14,
+            "_GroupID": 20001,
+            "_ItemID": 170194831,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 300
+        },
+        {
+            "_Id": 15,
+            "_GroupID": 20001,
+            "_ItemID": 170194832,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 220
+        },
+        {
+            "_Id": 16,
+            "_GroupID": 20001,
+            "_ItemID": 170194833,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 185
+        },
+        {
+            "_Id": 17,
+            "_GroupID": 20001,
+            "_ItemID": 170194834,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 140
+        },
+        {
+            "_Id": 18,
+            "_GroupID": 20001,
+            "_ItemID": 170194835,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 100
+        },
+        {
+            "_Id": 19,
+            "_GroupID": 20001,
+            "_ItemID": 170194836,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        },
+        {
+            "_Id": 20,
+            "_GroupID": 20001,
+            "_ItemID": 190190931,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 5
+        },
+        {
+            "_Id": 21,
+            "_GroupID": 20002,
+            "_ItemID": 190180070,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 310
+        },
+        {
+            "_Id": 22,
+            "_GroupID": 20002,
+            "_ItemID": 190180071,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 220
+        },
+        {
+            "_Id": 23,
+            "_GroupID": 20002,
+            "_ItemID": 190180072,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 180
+        },
+        {
+            "_Id": 24,
+            "_GroupID": 20002,
+            "_ItemID": 190180073,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 140
+        },
+        {
+            "_Id": 25,
+            "_GroupID": 20002,
+            "_ItemID": 190180074,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 100
+        },
+        {
+            "_Id": 26,
+            "_GroupID": 20002,
+            "_ItemID": 190180075,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        },
+        {
+            "_Id": 27,
+            "_GroupID": 20003,
+            "_ItemID": 170185503,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1000
+        },
+        {
+            "_Id": 28,
+            "_GroupID": 20003,
+            "_ItemID": 170185504,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 850
+        },
+        {
+            "_Id": 29,
+            "_GroupID": 20003,
+            "_ItemID": 170185505,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 700
+        },
+        {
+            "_Id": 30,
+            "_GroupID": 20003,
+            "_ItemID": 170185506,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 550
+        },
+        {
+            "_Id": 31,
+            "_GroupID": 20003,
+            "_ItemID": 170185507,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 400
+        },
+        {
+            "_Id": 32,
+            "_GroupID": 20003,
+            "_ItemID": 170185508,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 200
+        },
+        {
+            "_Id": 33,
+            "_GroupID": 20003,
+            "_ItemID": 170185509,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 34,
+            "_GroupID": 20003,
+            "_ItemID": 170185510,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 35,
+            "_GroupID": 20004,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 36,
+            "_GroupID": 20004,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 37,
+            "_GroupID": 20004,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 38,
+            "_GroupID": 20004,
+            "_ItemID": 180121004,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 39,
+            "_GroupID": 20004,
+            "_ItemID": 190171176,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 40,
+            "_GroupID": 20005,
+            "_ItemID": 190190916,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 41,
+            "_GroupID": 20005,
+            "_ItemID": 70252313,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 42,
+            "_GroupID": 20005,
+            "_ItemID": 700100120,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 43,
+            "_GroupID": 20005,
+            "_ItemID": 170111706,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 10
+        },
+        {
+            "_Id": 44,
+            "_GroupID": 20005,
+            "_ItemID": 170111705,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 10
+        },
+        {
+            "_Id": 45,
+            "_GroupID": 20005,
+            "_ItemID": 160190109,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 10
+        },
+        {
+            "_Id": 46,
+            "_GroupID": 20005,
+            "_ItemID": 90595405,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 10
+        },
+        {
+            "_Id": 47,
+            "_GroupID": 20005,
+            "_ItemID": 170194840,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1000
+        },
+        {
+            "_Id": 48,
+            "_GroupID": 20005,
+            "_ItemID": 170194847,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1400
+        },
+        {
+            "_Id": 49,
+            "_GroupID": 20005,
+            "_ItemID": 170194844,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1500
+        },
+        {
+            "_Id": 50,
+            "_GroupID": 20006,
+            "_ItemID": 170194839,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 309
+        },
+        {
+            "_Id": 51,
+            "_GroupID": 20006,
+            "_ItemID": 170194846,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 309
+        },
+        {
+            "_Id": 52,
+            "_GroupID": 20006,
+            "_ItemID": 170194845,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 309
+        },
+        {
+            "_Id": 53,
+            "_GroupID": 20006,
+            "_ItemID": 170194843,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 309
+        },
+        {
+            "_Id": 54,
+            "_GroupID": 20006,
+            "_ItemID": 170194842,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 309
+        },
+        {
+            "_Id": 55,
+            "_GroupID": 20006,
+            "_ItemID": 170194838,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 800
+        },
+        {
+            "_Id": 56,
+            "_GroupID": 20006,
+            "_ItemID": 170194844,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 800
+        },
+        {
+            "_Id": 57,
+            "_GroupID": 20006,
+            "_ItemID": 170194841,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 800
+        },
+        {
+            "_Id": 58,
+            "_GroupID": 30001,
+            "_ItemID": 190180083,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 59,
+            "_GroupID": 30002,
+            "_ItemID": 190180084,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 60,
+            "_GroupID": 30003,
+            "_ItemID": 190180085,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 61,
+            "_GroupID": 30004,
+            "_ItemID": 190180086,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 62,
+            "_GroupID": 30005,
+            "_ItemID": 190180087,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 63,
+            "_GroupID": 30006,
+            "_ItemID": 190180088,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 64,
+            "_GroupID": 30007,
+            "_ItemID": 190180091,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 65,
+            "_GroupID": 30008,
+            "_ItemID": 190180092,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 66,
+            "_GroupID": 30009,
+            "_ItemID": 190180089,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 67,
+            "_GroupID": 30010,
+            "_ItemID": 190180090,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 68,
+            "_GroupID": 30011,
+            "_ItemID": 90595415,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 69,
+            "_GroupID": 30012,
+            "_ItemID": 190190932,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 70,
+            "_GroupID": 30013,
+            "_ItemID": 190190933,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 71,
+            "_GroupID": 30014,
+            "_ItemID": 190190934,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 72,
+            "_GroupID": 30016,
+            "_ItemID": 190180093,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 73,
+            "_GroupID": 30017,
+            "_ItemID": 190179909,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 74,
+            "_GroupID": 40001,
+            "_ItemID": 180400101,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        },
+        {
+            "_Id": 75,
+            "_GroupID": 40001,
+            "_ItemID": 180400102,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        },
+        {
+            "_Id": 76,
+            "_GroupID": 40001,
+            "_ItemID": 170194844,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 77,
+            "_GroupID": 40001,
+            "_ItemID": 170194843,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 10
+        },
+        {
+            "_Id": 78,
+            "_GroupID": 40001,
+            "_ItemID": 170194842,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 79,
+            "_GroupID": 40001,
+            "_ItemID": 170194841,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        },
+        {
+            "_Id": 80,
+            "_GroupID": 40002,
+            "_ItemID": 190171176,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 81,
+            "_GroupID": 40002,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 82,
+            "_GroupID": 40002,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 83,
+            "_GroupID": 40002,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 84,
+            "_GroupID": 50001,
+            "_ItemID": 190171047,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 5
+        },
+        {
+            "_Id": 85,
+            "_GroupID": 50001,
+            "_ItemID": 190171044,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 5
+        },
+        {
+            "_Id": 86,
+            "_GroupID": 50001,
+            "_ItemID": 170196603,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 40
+        },
+        {
+            "_Id": 87,
+            "_GroupID": 50001,
+            "_ItemID": 120140171,
+            "_RareLimit": 2,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        },
+        {
+            "_Id": 88,
+            "_GroupID": 50002,
+            "_ItemID": 90252811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 625
+        },
+        {
+            "_Id": 89,
+            "_GroupID": 50002,
+            "_ItemID": 20152811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1250
+        },
+        {
+            "_Id": 90,
+            "_GroupID": 50002,
+            "_ItemID": 30452811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1250
+        },
+        {
+            "_Id": 91,
+            "_GroupID": 50002,
+            "_ItemID": 10252811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1250
+        },
+        {
+            "_Id": 92,
+            "_GroupID": 50002,
+            "_ItemID": 70252811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1250
+        },
+        {
+            "_Id": 93,
+            "_GroupID": 50002,
+            "_ItemID": 40152811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1250
+        },
+        {
+            "_Id": 94,
+            "_GroupID": 50002,
+            "_ItemID": 90652313,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 625
+        },
+        {
+            "_Id": 95,
+            "_GroupID": 50002,
+            "_ItemID": 50352313,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1250
+        },
+        {
+            "_Id": 96,
+            "_GroupID": 50002,
+            "_ItemID": 70252313,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1250
+        },
+        {
+            "_Id": 97,
+            "_GroupID": 50003,
+            "_ItemID": 170185510,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 4
+        },
+        {
+            "_Id": 98,
+            "_GroupID": 50003,
+            "_ItemID": 170185509,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 4
+        },
+        {
+            "_Id": 99,
+            "_GroupID": 50003,
+            "_ItemID": 190171045,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 4
+        },
+        {
+            "_Id": 100,
+            "_GroupID": 50003,
+            "_ItemID": 170193999,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 10
+        },
+        {
+            "_Id": 101,
+            "_GroupID": 50003,
+            "_ItemID": 300190606,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 12
+        },
+        {
+            "_Id": 102,
+            "_GroupID": 50003,
+            "_ItemID": 300190606,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 12
+        },
+        {
+            "_Id": 103,
+            "_GroupID": 50003,
+            "_ItemID": 190190931,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 22
+        },
+        {
+            "_Id": 104,
+            "_GroupID": 50003,
+            "_ItemID": 180133715,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 22
+        },
+        {
+            "_Id": 105,
+            "_GroupID": 50004,
+            "_ItemID": 170105004,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 55
+        },
+        {
+            "_Id": 106,
+            "_GroupID": 50004,
+            "_ItemID": 170194888,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 55
+        },
+        {
+            "_Id": 107,
+            "_GroupID": 50004,
+            "_ItemID": 170196601,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 55
+        },
+        {
+            "_Id": 108,
+            "_GroupID": 50004,
+            "_ItemID": 190171131,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 120
+        },
+        {
+            "_Id": 109,
+            "_GroupID": 50004,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 240
+        },
+        {
+            "_Id": 110,
+            "_GroupID": 50004,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 240
+        },
+        {
+            "_Id": 111,
+            "_GroupID": 50004,
+            "_ItemID": 190145849,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 240
+        },
+        {
+            "_Id": 112,
+            "_GroupID": 50005,
+            "_ItemID": 170198422,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 113,
+            "_GroupID": 50005,
+            "_ItemID": 170198438,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 2
+        },
+        {
+            "_Id": 114,
+            "_GroupID": 50005,
+            "_ItemID": 190190936,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 16
+        },
+        {
+            "_Id": 115,
+            "_GroupID": 50005,
+            "_ItemID": 170194216,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 116,
+            "_GroupID": 50005,
+            "_ItemID": 170194218,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 117,
+            "_GroupID": 50005,
+            "_ItemID": 170105706,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 118,
+            "_GroupID": 50005,
+            "_ItemID": 170105708,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 119,
+            "_GroupID": 60001,
+            "_ItemID": 190180629,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 120,
+            "_GroupID": 60001,
+            "_ItemID": 190144092,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 121,
+            "_GroupID": 60001,
+            "_ItemID": 190144174,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 122,
+            "_GroupID": 70001,
+            "_ItemID": 190190413,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 100
+        },
+        {
+            "_Id": 123,
+            "_GroupID": 80001,
+            "_ItemID": 190146050,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 124,
+            "_GroupID": 80002,
+            "_ItemID": 190146051,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 125,
+            "_GroupID": 80003,
+            "_ItemID": 190146052,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 126,
+            "_GroupID": 80004,
+            "_ItemID": 190146053,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 127,
+            "_GroupID": 80005,
+            "_ItemID": 190146054,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 128,
+            "_GroupID": 80006,
+            "_ItemID": 190146055,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 129,
+            "_GroupID": 80007,
+            "_ItemID": 190146056,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 130,
+            "_GroupID": 80008,
+            "_ItemID": 190146057,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 131,
+            "_GroupID": 80009,
+            "_ItemID": 190146058,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 132,
+            "_GroupID": 80010,
+            "_ItemID": 190146059,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 133,
+            "_GroupID": 80011,
+            "_ItemID": 190146060,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 134,
+            "_GroupID": 90001,
+            "_ItemID": 170196759,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 1
+        },
+        {
+            "_Id": 135,
+            "_GroupID": 90001,
+            "_ItemID": 90252811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 11
+        },
+        {
+            "_Id": 136,
+            "_GroupID": 90001,
+            "_ItemID": 20152811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 12
+        },
+        {
+            "_Id": 137,
+            "_GroupID": 90001,
+            "_ItemID": 30452811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 12
+        },
+        {
+            "_Id": 138,
+            "_GroupID": 90001,
+            "_ItemID": 10252811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 12
+        },
+        {
+            "_Id": 139,
+            "_GroupID": 90001,
+            "_ItemID": 70252811,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 12
+        },
+        {
+            "_Id": 140,
+            "_GroupID": 90001,
+            "_ItemID": 50598551,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 141,
+            "_GroupID": 90001,
+            "_ItemID": 50598552,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 20
+        },
+        {
+            "_Id": 142,
+            "_GroupID": 90002,
+            "_ItemID": 170194841,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 30
+        },
+        {
+            "_Id": 143,
+            "_GroupID": 90002,
+            "_ItemID": 170194842,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 30
+        },
+        {
+            "_Id": 144,
+            "_GroupID": 90002,
+            "_ItemID": 170194843,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 25
+        },
+        {
+            "_Id": 145,
+            "_GroupID": 90002,
+            "_ItemID": 170194844,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 15
+        },
+        {
+            "_Id": 146,
+            "_GroupID": 90003,
+            "_ItemID": 170196208,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 15
+        },
+        {
+            "_Id": 147,
+            "_GroupID": 90003,
+            "_ItemID": 170196209,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 25
+        },
+        {
+            "_Id": 148,
+            "_GroupID": 90003,
+            "_ItemID": 170196210,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 30
+        },
+        {
+            "_Id": 149,
+            "_GroupID": 90003,
+            "_ItemID": 170196211,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 30
+        },
+        {
+            "_Id": 150,
+            "_GroupID": 90004,
+            "_ItemID": 170105714,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        },
+        {
+            "_Id": 151,
+            "_GroupID": 90004,
+            "_ItemID": 170105719,
+            "_RareLimit": 1,
+            "_PointMin": 0,
+            "_PointMax": 0,
+            "_Probability": 50
+        }
+    ]
+}

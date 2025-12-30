@@ -1,0 +1,676 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_ChatKey",
+            "type": "string"
+        },
+        {
+            "name": "_ChatType",
+            "type": "int"
+        },
+        {
+            "name": "_ChatTypeID",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_ChatKey": "/전",
+            "_ChatType": 1,
+            "_ChatTypeID": 1
+        },
+        {
+            "_Id": 2,
+            "_ChatKey": "/wjs",
+            "_ChatType": 1,
+            "_ChatTypeID": 1
+        },
+        {
+            "_Id": 3,
+            "_ChatKey": "/s",
+            "_ChatType": 1,
+            "_ChatTypeID": 1
+        },
+        {
+            "_Id": 4,
+            "_ChatKey": "/ㄴ",
+            "_ChatType": 1,
+            "_ChatTypeID": 1
+        },
+        {
+            "_Id": 5,
+            "_ChatKey": "/친",
+            "_ChatType": 1,
+            "_ChatTypeID": 2
+        },
+        {
+            "_Id": 6,
+            "_ChatKey": "/cls",
+            "_ChatType": 1,
+            "_ChatTypeID": 2
+        },
+        {
+            "_Id": 7,
+            "_ChatKey": "/b",
+            "_ChatType": 1,
+            "_ChatTypeID": 2
+        },
+        {
+            "_Id": 8,
+            "_ChatKey": "/ㅠ",
+            "_ChatType": 1,
+            "_ChatTypeID": 2
+        },
+        {
+            "_Id": 9,
+            "_ChatKey": "/길",
+            "_ChatType": 1,
+            "_ChatTypeID": 3
+        },
+        {
+            "_Id": 10,
+            "_ChatKey": "/rlf",
+            "_ChatType": 1,
+            "_ChatTypeID": 3
+        },
+        {
+            "_Id": 11,
+            "_ChatKey": "/g",
+            "_ChatType": 1,
+            "_ChatTypeID": 3
+        },
+        {
+            "_Id": 12,
+            "_ChatKey": "/ㅎ",
+            "_ChatType": 1,
+            "_ChatTypeID": 3
+        },
+        {
+            "_Id": 13,
+            "_ChatKey": "/파",
+            "_ChatType": 1,
+            "_ChatTypeID": 4
+        },
+        {
+            "_Id": 14,
+            "_ChatKey": "/vk",
+            "_ChatType": 1,
+            "_ChatTypeID": 4
+        },
+        {
+            "_Id": 15,
+            "_ChatKey": "/p",
+            "_ChatType": 1,
+            "_ChatTypeID": 4
+        },
+        {
+            "_Id": 16,
+            "_ChatKey": "/ㅔ",
+            "_ChatType": 1,
+            "_ChatTypeID": 4
+        },
+        {
+            "_Id": 17,
+            "_ChatKey": "/귓",
+            "_ChatType": 1,
+            "_ChatTypeID": 5
+        },
+        {
+            "_Id": 18,
+            "_ChatKey": "/rnlt",
+            "_ChatType": 1,
+            "_ChatTypeID": 5
+        },
+        {
+            "_Id": 19,
+            "_ChatKey": "/w",
+            "_ChatType": 1,
+            "_ChatTypeID": 5
+        },
+        {
+            "_Id": 20,
+            "_ChatKey": "/ㅈ",
+            "_ChatType": 1,
+            "_ChatTypeID": 5
+        },
+        {
+            "_Id": 21,
+            "_ChatKey": "/웃음",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000001
+        },
+        {
+            "_Id": 22,
+            "_ChatKey": "/화남",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000002
+        },
+        {
+            "_Id": 23,
+            "_ChatKey": "/슬픔",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000003
+        },
+        {
+            "_Id": 24,
+            "_ChatKey": "/삐침",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000004
+        },
+        {
+            "_Id": 25,
+            "_ChatKey": "/앞",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000005
+        },
+        {
+            "_Id": 26,
+            "_ChatKey": "/위",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000006
+        },
+        {
+            "_Id": 27,
+            "_ChatKey": "/나",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000007
+        },
+        {
+            "_Id": 28,
+            "_ChatKey": "/인사",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000008
+        },
+        {
+            "_Id": 29,
+            "_ChatKey": "/네",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000009
+        },
+        {
+            "_Id": 30,
+            "_ChatKey": "/아니오",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000010
+        },
+        {
+            "_Id": 31,
+            "_ChatKey": "/?",
+            "_ChatType": 3,
+            "_ChatTypeID": 2003
+        },
+        {
+            "_Id": 32,
+            "_ChatKey": "/길드초대",
+            "_ChatType": 8,
+            "_ChatTypeID": 501
+        },
+        {
+            "_Id": 33,
+            "_ChatKey": "/guildadd",
+            "_ChatType": 8,
+            "_ChatTypeID": 501
+        },
+        {
+            "_Id": 34,
+            "_ChatKey": "/길드탈퇴",
+            "_ChatType": 8,
+            "_ChatTypeID": 502
+        },
+        {
+            "_Id": 35,
+            "_ChatKey": "/guildleave",
+            "_ChatType": 8,
+            "_ChatTypeID": 502
+        },
+        {
+            "_Id": 36,
+            "_ChatKey": "/파티초대",
+            "_ChatType": 4,
+            "_ChatTypeID": 201
+        },
+        {
+            "_Id": 37,
+            "_ChatKey": "/partyadd",
+            "_ChatType": 4,
+            "_ChatTypeID": 201
+        },
+        {
+            "_Id": 38,
+            "_ChatKey": "/파티탈퇴",
+            "_ChatType": 4,
+            "_ChatTypeID": 202
+        },
+        {
+            "_Id": 39,
+            "_ChatKey": "/partyleave",
+            "_ChatType": 4,
+            "_ChatTypeID": 202
+        },
+        {
+            "_Id": 40,
+            "_ChatKey": "/친구추가",
+            "_ChatType": 5,
+            "_ChatTypeID": 301
+        },
+        {
+            "_Id": 41,
+            "_ChatKey": "/buddyadd",
+            "_ChatType": 5,
+            "_ChatTypeID": 301
+        },
+        {
+            "_Id": 42,
+            "_ChatKey": "/친구삭제",
+            "_ChatType": 5,
+            "_ChatTypeID": 302
+        },
+        {
+            "_Id": 43,
+            "_ChatKey": "/buddydel",
+            "_ChatType": 5,
+            "_ChatTypeID": 302
+        },
+        {
+            "_Id": 44,
+            "_ChatKey": "/차단추가",
+            "_ChatType": 5,
+            "_ChatTypeID": 303
+        },
+        {
+            "_Id": 45,
+            "_ChatKey": "/blockadd",
+            "_ChatType": 5,
+            "_ChatTypeID": 303
+        },
+        {
+            "_Id": 46,
+            "_ChatKey": "/차단삭제",
+            "_ChatType": 5,
+            "_ChatTypeID": 304
+        },
+        {
+            "_Id": 47,
+            "_ChatKey": "/blockdel",
+            "_ChatType": 5,
+            "_ChatTypeID": 304
+        },
+        {
+            "_Id": 48,
+            "_ChatKey": "/교환",
+            "_ChatType": 6,
+            "_ChatTypeID": 401
+        },
+        {
+            "_Id": 49,
+            "_ChatKey": "/trade",
+            "_ChatType": 6,
+            "_ChatTypeID": 401
+        },
+        {
+            "_Id": 50,
+            "_ChatKey": "/큰웃음",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000011
+        },
+        {
+            "_Id": 51,
+            "_ChatKey": "/울음",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000012
+        },
+        {
+            "_Id": 52,
+            "_ChatKey": "/수줍",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000013
+        },
+        {
+            "_Id": 53,
+            "_ChatKey": "/놀람",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000014
+        },
+        {
+            "_Id": 54,
+            "_ChatKey": "/황당",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000015
+        },
+        {
+            "_Id": 55,
+            "_ChatKey": "/궁금",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000016
+        },
+        {
+            "_Id": 56,
+            "_ChatKey": "/딴청",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000017
+        },
+        {
+            "_Id": 57,
+            "_ChatKey": "/감동",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000018
+        },
+        {
+            "_Id": 58,
+            "_ChatKey": "/윙크",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000019
+        },
+        {
+            "_Id": 59,
+            "_ChatKey": "/메롱",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000020
+        },
+        {
+            "_Id": 60,
+            "_ChatKey": "/사랑",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000021
+        },
+        {
+            "_Id": 61,
+            "_ChatKey": "/졸림",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000022
+        },
+        {
+            "_Id": 62,
+            "_ChatKey": "/뽀뽀",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000023
+        },
+        {
+            "_Id": 63,
+            "_ChatKey": "/춤",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000024
+        },
+        {
+            "_Id": 64,
+            "_ChatKey": "/좌절",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000025
+        },
+        {
+            "_Id": 65,
+            "_ChatKey": "/거만",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000026
+        },
+        {
+            "_Id": 66,
+            "_ChatKey": "/최고",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000027
+        },
+        {
+            "_Id": 67,
+            "_ChatKey": "/헤롱",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000028
+        },
+        {
+            "_Id": 68,
+            "_ChatKey": "/축하",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000029
+        },
+        {
+            "_Id": 69,
+            "_ChatKey": "/썰렁",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000030
+        },
+        {
+            "_Id": 70,
+            "_ChatKey": "/기도",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000031
+        },
+        {
+            "_Id": 71,
+            "_ChatKey": "/박수",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000032
+        },
+        {
+            "_Id": 72,
+            "_ChatKey": "/애교",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000033
+        },
+        {
+            "_Id": 73,
+            "_ChatKey": "/가위",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000034
+        },
+        {
+            "_Id": 74,
+            "_ChatKey": "/바위",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000035
+        },
+        {
+            "_Id": 75,
+            "_ChatKey": "/보",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000036
+        },
+        {
+            "_Id": 76,
+            "_ChatKey": "/짠",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000037
+        },
+        {
+            "_Id": 77,
+            "_ChatKey": "/짜잔",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000038
+        },
+        {
+            "_Id": 78,
+            "_ChatKey": "/열려라참깨",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000039
+        },
+        {
+            "_Id": 79,
+            "_ChatKey": "/마빡이",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000040
+        },
+        {
+            "_Id": 80,
+            "_ChatKey": "/얼빡이",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000041
+        },
+        {
+            "_Id": 81,
+            "_ChatKey": "/대빡이",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000042
+        },
+        {
+            "_Id": 82,
+            "_ChatKey": "/갈빡이",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000043
+        },
+        {
+            "_Id": 83,
+            "_ChatKey": "/방귀",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000044
+        },
+        {
+            "_Id": 84,
+            "_ChatKey": "/복고",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000045
+        },
+        {
+            "_Id": 85,
+            "_ChatKey": "/토끼",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000046
+        },
+        {
+            "_Id": 86,
+            "_ChatKey": "/뽀뽀2",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000047
+        },
+        {
+            "_Id": 87,
+            "_ChatKey": "/건들",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000051
+        },
+        {
+            "_Id": 88,
+            "_ChatKey": "/날개짓",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000052
+        },
+        {
+            "_Id": 89,
+            "_ChatKey": "/매크로",
+            "_ChatType": 9,
+            "_ChatTypeID": 602
+        },
+        {
+            "_Id": 90,
+            "_ChatKey": "/바들",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000054
+        },
+        {
+            "_Id": 91,
+            "_ChatKey": "/아비오1",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000062
+        },
+        {
+            "_Id": 92,
+            "_ChatKey": "/아비오2",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000063
+        },
+        {
+            "_Id": 93,
+            "_ChatKey": "/아비오3",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000064
+        },
+        {
+            "_Id": 94,
+            "_ChatKey": "/포효",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000057
+        },
+        {
+            "_Id": 95,
+            "_ChatKey": "/떼쓰기",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000059
+        },
+        {
+            "_Id": 96,
+            "_ChatKey": "/기침",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000061
+        },
+        {
+            "_Id": 97,
+            "_ChatKey": "/죽은척",
+            "_ChatType": 2,
+            "_ChatTypeID": 4000065
+        },
+        {
+            "_Id": 98,
+            "_ChatKey": "",
+            "_ChatType": 0,
+            "_ChatTypeID": 0
+        },
+        {
+            "_Id": 99,
+            "_ChatKey": "",
+            "_ChatType": 0,
+            "_ChatTypeID": 0
+        },
+        {
+            "_Id": 100,
+            "_ChatKey": "/채널",
+            "_ChatType": 11,
+            "_ChatTypeID": 1101
+        },
+        {
+            "_Id": 101,
+            "_ChatKey": "/ㅊ",
+            "_ChatType": 11,
+            "_ChatTypeID": 1101
+        },
+        {
+            "_Id": 102,
+            "_ChatKey": "/c",
+            "_ChatType": 11,
+            "_ChatTypeID": 1101
+        },
+        {
+            "_Id": 103,
+            "_ChatKey": "/dr",
+            "_ChatType": 12,
+            "_ChatTypeID": 1031
+        },
+        {
+            "_Id": 104,
+            "_ChatKey": "/ㅇㄱ",
+            "_ChatType": 12,
+            "_ChatTypeID": 1031
+        },
+        {
+            "_Id": 105,
+            "_ChatKey": "/pdr",
+            "_ChatType": 13,
+            "_ChatTypeID": 1041
+        },
+        {
+            "_Id": 106,
+            "_ChatKey": "/ㅔㅇㄱ",
+            "_ChatType": 13,
+            "_ChatTypeID": 1041
+        },
+        {
+            "_Id": 107,
+            "_ChatKey": "/DR",
+            "_ChatType": 12,
+            "_ChatTypeID": 1031
+        },
+        {
+            "_Id": 108,
+            "_ChatKey": "/PDR",
+            "_ChatType": 13,
+            "_ChatTypeID": 1041
+        },
+        {
+            "_Id": 109,
+            "_ChatKey": "/C",
+            "_ChatType": 11,
+            "_ChatTypeID": 1101
+        }
+    ]
+}

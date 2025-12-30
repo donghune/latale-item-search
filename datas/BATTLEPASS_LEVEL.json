@@ -1,0 +1,510 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_SeasonID",
+            "type": "int"
+        },
+        {
+            "name": "_Level",
+            "type": "int"
+        },
+        {
+            "name": "_Level_Point",
+            "type": "int"
+        },
+        {
+            "name": "_Normal_Reward",
+            "type": "int"
+        },
+        {
+            "name": "_Premium_Reward",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_SeasonID": 12,
+            "_Level": 1,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032761,
+            "_Premium_Reward": 24032701
+        },
+        {
+            "_Id": 2,
+            "_SeasonID": 12,
+            "_Level": 2,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032762,
+            "_Premium_Reward": 24032702
+        },
+        {
+            "_Id": 3,
+            "_SeasonID": 12,
+            "_Level": 3,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032763,
+            "_Premium_Reward": 24032703
+        },
+        {
+            "_Id": 4,
+            "_SeasonID": 12,
+            "_Level": 4,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032764,
+            "_Premium_Reward": 24032704
+        },
+        {
+            "_Id": 5,
+            "_SeasonID": 12,
+            "_Level": 5,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032765,
+            "_Premium_Reward": 24032705
+        },
+        {
+            "_Id": 6,
+            "_SeasonID": 12,
+            "_Level": 6,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032766,
+            "_Premium_Reward": 24032706
+        },
+        {
+            "_Id": 7,
+            "_SeasonID": 12,
+            "_Level": 7,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032767,
+            "_Premium_Reward": 24032707
+        },
+        {
+            "_Id": 8,
+            "_SeasonID": 12,
+            "_Level": 8,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032768,
+            "_Premium_Reward": 24032708
+        },
+        {
+            "_Id": 9,
+            "_SeasonID": 12,
+            "_Level": 9,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032769,
+            "_Premium_Reward": 24032709
+        },
+        {
+            "_Id": 10,
+            "_SeasonID": 12,
+            "_Level": 10,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032770,
+            "_Premium_Reward": 24032710
+        },
+        {
+            "_Id": 11,
+            "_SeasonID": 12,
+            "_Level": 11,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032771,
+            "_Premium_Reward": 24032711
+        },
+        {
+            "_Id": 12,
+            "_SeasonID": 12,
+            "_Level": 12,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032772,
+            "_Premium_Reward": 24032712
+        },
+        {
+            "_Id": 13,
+            "_SeasonID": 12,
+            "_Level": 13,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032773,
+            "_Premium_Reward": 24032713
+        },
+        {
+            "_Id": 14,
+            "_SeasonID": 12,
+            "_Level": 14,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032774,
+            "_Premium_Reward": 24032714
+        },
+        {
+            "_Id": 15,
+            "_SeasonID": 12,
+            "_Level": 15,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032775,
+            "_Premium_Reward": 24032715
+        },
+        {
+            "_Id": 16,
+            "_SeasonID": 12,
+            "_Level": 16,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032776,
+            "_Premium_Reward": 24032716
+        },
+        {
+            "_Id": 17,
+            "_SeasonID": 12,
+            "_Level": 17,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032777,
+            "_Premium_Reward": 24032717
+        },
+        {
+            "_Id": 18,
+            "_SeasonID": 12,
+            "_Level": 18,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032778,
+            "_Premium_Reward": 24032718
+        },
+        {
+            "_Id": 19,
+            "_SeasonID": 12,
+            "_Level": 19,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032779,
+            "_Premium_Reward": 24032719
+        },
+        {
+            "_Id": 20,
+            "_SeasonID": 12,
+            "_Level": 20,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032780,
+            "_Premium_Reward": 24032720
+        },
+        {
+            "_Id": 21,
+            "_SeasonID": 12,
+            "_Level": 21,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032781,
+            "_Premium_Reward": 24032721
+        },
+        {
+            "_Id": 22,
+            "_SeasonID": 12,
+            "_Level": 22,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032782,
+            "_Premium_Reward": 24032722
+        },
+        {
+            "_Id": 23,
+            "_SeasonID": 12,
+            "_Level": 23,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032783,
+            "_Premium_Reward": 24032723
+        },
+        {
+            "_Id": 24,
+            "_SeasonID": 12,
+            "_Level": 24,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032784,
+            "_Premium_Reward": 24032724
+        },
+        {
+            "_Id": 25,
+            "_SeasonID": 12,
+            "_Level": 25,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032785,
+            "_Premium_Reward": 24032725
+        },
+        {
+            "_Id": 26,
+            "_SeasonID": 12,
+            "_Level": 26,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032786,
+            "_Premium_Reward": 24032726
+        },
+        {
+            "_Id": 27,
+            "_SeasonID": 12,
+            "_Level": 27,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032787,
+            "_Premium_Reward": 24032727
+        },
+        {
+            "_Id": 28,
+            "_SeasonID": 12,
+            "_Level": 28,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032788,
+            "_Premium_Reward": 24032728
+        },
+        {
+            "_Id": 29,
+            "_SeasonID": 12,
+            "_Level": 29,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032789,
+            "_Premium_Reward": 24032729
+        },
+        {
+            "_Id": 30,
+            "_SeasonID": 12,
+            "_Level": 30,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032790,
+            "_Premium_Reward": 24032730
+        },
+        {
+            "_Id": 31,
+            "_SeasonID": 12,
+            "_Level": 31,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032791,
+            "_Premium_Reward": 24032731
+        },
+        {
+            "_Id": 32,
+            "_SeasonID": 12,
+            "_Level": 32,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032792,
+            "_Premium_Reward": 24032732
+        },
+        {
+            "_Id": 33,
+            "_SeasonID": 12,
+            "_Level": 33,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032793,
+            "_Premium_Reward": 24032733
+        },
+        {
+            "_Id": 34,
+            "_SeasonID": 12,
+            "_Level": 34,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032794,
+            "_Premium_Reward": 24032734
+        },
+        {
+            "_Id": 35,
+            "_SeasonID": 12,
+            "_Level": 35,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032795,
+            "_Premium_Reward": 24032735
+        },
+        {
+            "_Id": 36,
+            "_SeasonID": 12,
+            "_Level": 36,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032796,
+            "_Premium_Reward": 24032736
+        },
+        {
+            "_Id": 37,
+            "_SeasonID": 12,
+            "_Level": 37,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032797,
+            "_Premium_Reward": 24032737
+        },
+        {
+            "_Id": 38,
+            "_SeasonID": 12,
+            "_Level": 38,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032798,
+            "_Premium_Reward": 24032738
+        },
+        {
+            "_Id": 39,
+            "_SeasonID": 12,
+            "_Level": 39,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032799,
+            "_Premium_Reward": 24032739
+        },
+        {
+            "_Id": 40,
+            "_SeasonID": 12,
+            "_Level": 40,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032800,
+            "_Premium_Reward": 24032740
+        },
+        {
+            "_Id": 41,
+            "_SeasonID": 12,
+            "_Level": 41,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032801,
+            "_Premium_Reward": 24032741
+        },
+        {
+            "_Id": 42,
+            "_SeasonID": 12,
+            "_Level": 42,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032802,
+            "_Premium_Reward": 24032742
+        },
+        {
+            "_Id": 43,
+            "_SeasonID": 12,
+            "_Level": 43,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032803,
+            "_Premium_Reward": 24032743
+        },
+        {
+            "_Id": 44,
+            "_SeasonID": 12,
+            "_Level": 44,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032804,
+            "_Premium_Reward": 24032744
+        },
+        {
+            "_Id": 45,
+            "_SeasonID": 12,
+            "_Level": 45,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032805,
+            "_Premium_Reward": 24032745
+        },
+        {
+            "_Id": 46,
+            "_SeasonID": 12,
+            "_Level": 46,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032806,
+            "_Premium_Reward": 24032746
+        },
+        {
+            "_Id": 47,
+            "_SeasonID": 12,
+            "_Level": 47,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032807,
+            "_Premium_Reward": 24032747
+        },
+        {
+            "_Id": 48,
+            "_SeasonID": 12,
+            "_Level": 48,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032808,
+            "_Premium_Reward": 24032748
+        },
+        {
+            "_Id": 49,
+            "_SeasonID": 12,
+            "_Level": 49,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032809,
+            "_Premium_Reward": 24032749
+        },
+        {
+            "_Id": 50,
+            "_SeasonID": 12,
+            "_Level": 50,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032810,
+            "_Premium_Reward": 24032750
+        },
+        {
+            "_Id": 51,
+            "_SeasonID": 12,
+            "_Level": 51,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032811,
+            "_Premium_Reward": 24032751
+        },
+        {
+            "_Id": 52,
+            "_SeasonID": 12,
+            "_Level": 52,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032812,
+            "_Premium_Reward": 24032752
+        },
+        {
+            "_Id": 53,
+            "_SeasonID": 12,
+            "_Level": 53,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032813,
+            "_Premium_Reward": 24032753
+        },
+        {
+            "_Id": 54,
+            "_SeasonID": 12,
+            "_Level": 54,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032814,
+            "_Premium_Reward": 24032754
+        },
+        {
+            "_Id": 55,
+            "_SeasonID": 12,
+            "_Level": 55,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032815,
+            "_Premium_Reward": 24032755
+        },
+        {
+            "_Id": 56,
+            "_SeasonID": 12,
+            "_Level": 56,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032816,
+            "_Premium_Reward": 24032756
+        },
+        {
+            "_Id": 57,
+            "_SeasonID": 12,
+            "_Level": 57,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032817,
+            "_Premium_Reward": 24032757
+        },
+        {
+            "_Id": 58,
+            "_SeasonID": 12,
+            "_Level": 58,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032818,
+            "_Premium_Reward": 24032758
+        },
+        {
+            "_Id": 59,
+            "_SeasonID": 12,
+            "_Level": 59,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032819,
+            "_Premium_Reward": 24032759
+        },
+        {
+            "_Id": 60,
+            "_SeasonID": 12,
+            "_Level": 60,
+            "_Level_Point": 1000,
+            "_Normal_Reward": 24032820,
+            "_Premium_Reward": 24032760
+        }
+    ]
+}

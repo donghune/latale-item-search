@@ -1,0 +1,38 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Item_No",
+            "type": "int"
+        },
+        {
+            "name": "_Pet_Exp",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Item_No": 180104101,
+            "_Pet_Exp": 50000
+        },
+        {
+            "_Id": 2,
+            "_Item_No": 190104101,
+            "_Pet_Exp": 140000000
+        },
+        {
+            "_Id": 3,
+            "_Item_No": 180104201,
+            "_Pet_Exp": 100000
+        },
+        {
+            "_Id": 4,
+            "_Item_No": 190104201,
+            "_Pet_Exp": 140000000
+        }
+    ]
+}

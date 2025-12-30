@@ -1,0 +1,94 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_INSTRUCTION",
+            "type": "string"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_INSTRUCTION": "위로 이동"
+        },
+        {
+            "_Id": 2,
+            "_INSTRUCTION": "아래로 이동"
+        },
+        {
+            "_Id": 3,
+            "_INSTRUCTION": "오른쪽으로 이동"
+        },
+        {
+            "_Id": 4,
+            "_INSTRUCTION": "왼쪽으로 이동"
+        },
+        {
+            "_Id": 5,
+            "_INSTRUCTION": "상태창"
+        },
+        {
+            "_Id": 6,
+            "_INSTRUCTION": "아이템창"
+        },
+        {
+            "_Id": 7,
+            "_INSTRUCTION": "장비창"
+        },
+        {
+            "_Id": 8,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 9,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 10,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 11,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 12,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 13,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 14,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 15,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 16,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 17,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 18,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 19,
+            "_INSTRUCTION": ""
+        },
+        {
+            "_Id": 20,
+            "_INSTRUCTION": ""
+        }
+    ]
+}

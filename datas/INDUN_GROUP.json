@@ -1,0 +1,28 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Group_Name",
+            "type": "string"
+        },
+        {
+            "name": "_Ind_Limit_Count",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Group_Name": "재화 던전",
+            "_Ind_Limit_Count": 6
+        },
+        {
+            "_Id": 2,
+            "_Group_Name": "테스트",
+            "_Ind_Limit_Count": 6
+        }
+    ]
+}

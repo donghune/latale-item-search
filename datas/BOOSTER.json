@@ -1,0 +1,40 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Corp_Item_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Corp_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Crop_Booster_Time",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Corp_Item_Id": 190170801,
+            "_Corp_Type": 2,
+            "_Crop_Booster_Time": 86400
+        },
+        {
+            "_Id": 2,
+            "_Corp_Item_Id": 190170821,
+            "_Corp_Type": 2,
+            "_Crop_Booster_Time": 1209600
+        },
+        {
+            "_Id": 3,
+            "_Corp_Item_Id": 190170831,
+            "_Corp_Type": 2,
+            "_Crop_Booster_Time": 1800
+        }
+    ]
+}

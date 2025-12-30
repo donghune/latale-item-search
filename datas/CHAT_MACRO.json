@@ -1,0 +1,128 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Type",
+            "type": "int"
+        },
+        {
+            "name": "_SubType",
+            "type": "int"
+        },
+        {
+            "name": "_Count",
+            "type": "int"
+        },
+        {
+            "name": "_IconFile",
+            "type": "int"
+        },
+        {
+            "name": "_IconIndex",
+            "type": "int"
+        },
+        {
+            "name": "_RequireItem",
+            "type": "int"
+        },
+        {
+            "name": "_FactorType",
+            "type": "string"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Type": 1,
+            "_SubType": 1,
+            "_Count": 10,
+            "_IconFile": 10003050,
+            "_IconIndex": 60,
+            "_RequireItem": 0,
+            "_FactorType": "%d_Normal"
+        },
+        {
+            "_Id": 2,
+            "_Type": 2,
+            "_SubType": 2,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 61,
+            "_RequireItem": 170200207,
+            "_FactorType": "%d_Special_Channel"
+        },
+        {
+            "_Id": 3,
+            "_Type": 2,
+            "_SubType": 3,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 62,
+            "_RequireItem": 170200103,
+            "_FactorType": "%d_Special_Server"
+        },
+        {
+            "_Id": 4,
+            "_Type": 2,
+            "_SubType": 3,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 100,
+            "_RequireItem": 170200301,
+            "_FactorType": "%d_Special_Server_smileface"
+        },
+        {
+            "_Id": 5,
+            "_Type": 2,
+            "_SubType": 3,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 101,
+            "_RequireItem": 170200302,
+            "_FactorType": "%d_Special_Server_cryface"
+        },
+        {
+            "_Id": 6,
+            "_Type": 2,
+            "_SubType": 3,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 102,
+            "_RequireItem": 170200303,
+            "_FactorType": "%d_Special_Server_loveface"
+        },
+        {
+            "_Id": 7,
+            "_Type": 2,
+            "_SubType": 3,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 103,
+            "_RequireItem": 170200304,
+            "_FactorType": "%d_Special_Server_skull"
+        },
+        {
+            "_Id": 8,
+            "_Type": 2,
+            "_SubType": 3,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 104,
+            "_RequireItem": 170200305,
+            "_FactorType": "%d_Special_Server_clover"
+        },
+        {
+            "_Id": 9,
+            "_Type": 2,
+            "_SubType": 3,
+            "_Count": 1,
+            "_IconFile": 10003050,
+            "_IconIndex": 105,
+            "_RequireItem": 170200102,
+            "_FactorType": "%d_Special_Server_love"
+        }
+    ]
+}

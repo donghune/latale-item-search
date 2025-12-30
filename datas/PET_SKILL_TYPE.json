@@ -1,0 +1,397 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Name",
+            "type": "string"
+        },
+        {
+            "name": "_PassiveSkill_Type",
+            "type": "int"
+        },
+        {
+            "name": "_PositionIndex",
+            "type": "int"
+        },
+        {
+            "name": "_Guidebook_ID",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Name": "크리티컬 확률 A",
+            "_PassiveSkill_Type": 1,
+            "_PositionIndex": 1,
+            "_Guidebook_ID": 100
+        },
+        {
+            "_Id": 2,
+            "_Name": "크리티컬 대미지 A",
+            "_PassiveSkill_Type": 2,
+            "_PositionIndex": 2,
+            "_Guidebook_ID": 101
+        },
+        {
+            "_Id": 3,
+            "_Name": "크리티컬 대미지 B",
+            "_PassiveSkill_Type": 3,
+            "_PositionIndex": 3,
+            "_Guidebook_ID": 102
+        },
+        {
+            "_Id": 4,
+            "_Name": "크리티컬 대미지 C",
+            "_PassiveSkill_Type": 4,
+            "_PositionIndex": 4,
+            "_Guidebook_ID": 103
+        },
+        {
+            "_Id": 5,
+            "_Name": "최대 대미지 A",
+            "_PassiveSkill_Type": 5,
+            "_PositionIndex": 5,
+            "_Guidebook_ID": 104
+        },
+        {
+            "_Id": 6,
+            "_Name": "최대 대미지 B",
+            "_PassiveSkill_Type": 6,
+            "_PositionIndex": 6,
+            "_Guidebook_ID": 105
+        },
+        {
+            "_Id": 7,
+            "_Name": "최대 대미지 C",
+            "_PassiveSkill_Type": 7,
+            "_PositionIndex": 7,
+            "_Guidebook_ID": 106
+        },
+        {
+            "_Id": 8,
+            "_Name": "최소 대미지 A",
+            "_PassiveSkill_Type": 8,
+            "_PositionIndex": 8,
+            "_Guidebook_ID": 107
+        },
+        {
+            "_Id": 9,
+            "_Name": "최소 대미지 B",
+            "_PassiveSkill_Type": 9,
+            "_PositionIndex": 9,
+            "_Guidebook_ID": 108
+        },
+        {
+            "_Id": 10,
+            "_Name": "최소 대미지 C",
+            "_PassiveSkill_Type": 10,
+            "_PositionIndex": 10,
+            "_Guidebook_ID": 109
+        },
+        {
+            "_Id": 11,
+            "_Name": "최소/최대 대미지 A",
+            "_PassiveSkill_Type": 11,
+            "_PositionIndex": 11,
+            "_Guidebook_ID": 110
+        },
+        {
+            "_Id": 12,
+            "_Name": "최소/최대 대미지 B",
+            "_PassiveSkill_Type": 12,
+            "_PositionIndex": 12,
+            "_Guidebook_ID": 111
+        },
+        {
+            "_Id": 13,
+            "_Name": "최소/최대 대미지 C",
+            "_PassiveSkill_Type": 55,
+            "_PositionIndex": 13,
+            "_Guidebook_ID": 159
+        },
+        {
+            "_Id": 14,
+            "_Name": "무기 공격력/속성력 A",
+            "_PassiveSkill_Type": 13,
+            "_PositionIndex": 14,
+            "_Guidebook_ID": 112
+        },
+        {
+            "_Id": 15,
+            "_Name": "무기 공격력/속성력 B",
+            "_PassiveSkill_Type": 14,
+            "_PositionIndex": 15,
+            "_Guidebook_ID": 113
+        },
+        {
+            "_Id": 16,
+            "_Name": "무기 공격력/속성력(%) A",
+            "_PassiveSkill_Type": 15,
+            "_PositionIndex": 16,
+            "_Guidebook_ID": 114
+        },
+        {
+            "_Id": 17,
+            "_Name": "무기 공격력/속성력(%) B",
+            "_PassiveSkill_Type": 16,
+            "_PositionIndex": 17,
+            "_Guidebook_ID": 115
+        },
+        {
+            "_Id": 18,
+            "_Name": "일반 몬스터 지배력 A",
+            "_PassiveSkill_Type": 19,
+            "_PositionIndex": 20,
+            "_Guidebook_ID": 118
+        },
+        {
+            "_Id": 19,
+            "_Name": "보스 몬스터 지배력 A",
+            "_PassiveSkill_Type": 20,
+            "_PositionIndex": 21,
+            "_Guidebook_ID": 119
+        },
+        {
+            "_Id": 20,
+            "_Name": "일반/보스 몬스터 지배력 A",
+            "_PassiveSkill_Type": 21,
+            "_PositionIndex": 22,
+            "_Guidebook_ID": 120
+        },
+        {
+            "_Id": 21,
+            "_Name": "스탯 A",
+            "_PassiveSkill_Type": 22,
+            "_PositionIndex": 23,
+            "_Guidebook_ID": 121
+        },
+        {
+            "_Id": 22,
+            "_Name": "스탯 B",
+            "_PassiveSkill_Type": 23,
+            "_PositionIndex": 24,
+            "_Guidebook_ID": 122
+        },
+        {
+            "_Id": 23,
+            "_Name": "스탯(%) A",
+            "_PassiveSkill_Type": 24,
+            "_PositionIndex": 25,
+            "_Guidebook_ID": 123
+        },
+        {
+            "_Id": 24,
+            "_Name": "스탯(%) B",
+            "_PassiveSkill_Type": 25,
+            "_PositionIndex": 26,
+            "_Guidebook_ID": 124
+        },
+        {
+            "_Id": 25,
+            "_Name": "스탯(%) C",
+            "_PassiveSkill_Type": 26,
+            "_PositionIndex": 27,
+            "_Guidebook_ID": 125
+        },
+        {
+            "_Id": 26,
+            "_Name": "스탯/스탯(%) A",
+            "_PassiveSkill_Type": 27,
+            "_PositionIndex": 28,
+            "_Guidebook_ID": 126
+        },
+        {
+            "_Id": 27,
+            "_Name": "스탯(%)/HP(%) A",
+            "_PassiveSkill_Type": 28,
+            "_PositionIndex": 29,
+            "_Guidebook_ID": 127
+        },
+        {
+            "_Id": 28,
+            "_Name": "고정 대미지 A",
+            "_PassiveSkill_Type": 29,
+            "_PositionIndex": 30,
+            "_Guidebook_ID": 128
+        },
+        {
+            "_Id": 29,
+            "_Name": "고정 대미지(%) A",
+            "_PassiveSkill_Type": 30,
+            "_PositionIndex": 31,
+            "_Guidebook_ID": 129
+        },
+        {
+            "_Id": 30,
+            "_Name": "쿨타임 감소 A",
+            "_PassiveSkill_Type": 31,
+            "_PositionIndex": 32,
+            "_Guidebook_ID": 130
+        },
+        {
+            "_Id": 31,
+            "_Name": "관통력 A",
+            "_PassiveSkill_Type": 32,
+            "_PositionIndex": 33,
+            "_Guidebook_ID": 131
+        },
+        {
+            "_Id": 32,
+            "_Name": "회피율 A",
+            "_PassiveSkill_Type": 33,
+            "_PositionIndex": 34,
+            "_Guidebook_ID": 132
+        },
+        {
+            "_Id": 33,
+            "_Name": "명중률 A",
+            "_PassiveSkill_Type": 34,
+            "_PositionIndex": 35,
+            "_Guidebook_ID": 133
+        },
+        {
+            "_Id": 34,
+            "_Name": "HP(%) A",
+            "_PassiveSkill_Type": 35,
+            "_PositionIndex": 36,
+            "_Guidebook_ID": 134
+        },
+        {
+            "_Id": 35,
+            "_Name": "방어력 A",
+            "_PassiveSkill_Type": 36,
+            "_PositionIndex": 37,
+            "_Guidebook_ID": 135
+        },
+        {
+            "_Id": 36,
+            "_Name": "경험치 A",
+            "_PassiveSkill_Type": 37,
+            "_PositionIndex": 38,
+            "_Guidebook_ID": 136
+        },
+        {
+            "_Id": 37,
+            "_Name": "경험치 B",
+            "_PassiveSkill_Type": 38,
+            "_PositionIndex": 39,
+            "_Guidebook_ID": 137
+        },
+        {
+            "_Id": 38,
+            "_Name": "퀘스트 보상 A",
+            "_PassiveSkill_Type": 39,
+            "_PositionIndex": 40,
+            "_Guidebook_ID": 138
+        },
+        {
+            "_Id": 39,
+            "_Name": "경험치/퀘스트 보상 A",
+            "_PassiveSkill_Type": 40,
+            "_PositionIndex": 41,
+            "_Guidebook_ID": 139
+        },
+        {
+            "_Id": 40,
+            "_Name": "엘리 획득/아이템 드랍률 A",
+            "_PassiveSkill_Type": 41,
+            "_PositionIndex": 42,
+            "_Guidebook_ID": 140
+        },
+        {
+            "_Id": 41,
+            "_Name": "엘리 획득/아이템 드랍률 B",
+            "_PassiveSkill_Type": 42,
+            "_PositionIndex": 43,
+            "_Guidebook_ID": 141
+        },
+        {
+            "_Id": 42,
+            "_Name": "엘리 획득/아이템 드랍률 C",
+            "_PassiveSkill_Type": 43,
+            "_PositionIndex": 44,
+            "_Guidebook_ID": 142
+        },
+        {
+            "_Id": 43,
+            "_Name": "초인 포인트 A",
+            "_PassiveSkill_Type": 44,
+            "_PositionIndex": 45,
+            "_Guidebook_ID": 143
+        },
+        {
+            "_Id": 44,
+            "_Name": "이동속도 A",
+            "_PassiveSkill_Type": 45,
+            "_PositionIndex": 46,
+            "_Guidebook_ID": 144
+        },
+        {
+            "_Id": 45,
+            "_Name": "이동속도 B",
+            "_PassiveSkill_Type": 46,
+            "_PositionIndex": 47,
+            "_Guidebook_ID": 145
+        },
+        {
+            "_Id": 46,
+            "_Name": "최종 최대 대미지 A",
+            "_PassiveSkill_Type": 47,
+            "_PositionIndex": 48,
+            "_Guidebook_ID": 150
+        },
+        {
+            "_Id": 47,
+            "_Name": "최종 최소 대미지 A",
+            "_PassiveSkill_Type": 48,
+            "_PositionIndex": 49,
+            "_Guidebook_ID": 151
+        },
+        {
+            "_Id": 48,
+            "_Name": "최종 크리티컬 대미지 A",
+            "_PassiveSkill_Type": 49,
+            "_PositionIndex": 50,
+            "_Guidebook_ID": 152
+        },
+        {
+            "_Id": 49,
+            "_Name": "스탯(%)/HP(%) B",
+            "_PassiveSkill_Type": 50,
+            "_PositionIndex": 51,
+            "_Guidebook_ID": 153
+        },
+        {
+            "_Id": 50,
+            "_Name": "스킬 타겟수 A",
+            "_PassiveSkill_Type": 51,
+            "_PositionIndex": 52,
+            "_Guidebook_ID": 155
+        },
+        {
+            "_Id": 51,
+            "_Name": "별자리 포인트 A",
+            "_PassiveSkill_Type": 52,
+            "_PositionIndex": 53,
+            "_Guidebook_ID": 156
+        },
+        {
+            "_Id": 52,
+            "_Name": "소환수 경험치 A",
+            "_PassiveSkill_Type": 53,
+            "_PositionIndex": 54,
+            "_Guidebook_ID": 157
+        },
+        {
+            "_Id": 53,
+            "_Name": "성물 포인트 A",
+            "_PassiveSkill_Type": 54,
+            "_PositionIndex": 55,
+            "_Guidebook_ID": 158
+        }
+    ]
+}

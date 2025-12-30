@@ -1,0 +1,28 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Hour",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Minute",
+            "type": "int"
+        },
+        {
+            "name": "_Play_Time_Minute",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Start_Hour": 22,
+            "_Start_Minute": 0,
+            "_Play_Time_Minute": 120
+        }
+    ]
+}

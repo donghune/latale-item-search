@@ -1,0 +1,168 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Point",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward1",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability1",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward2",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability2",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward3",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability3",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward4",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability4",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward5",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability5",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward6",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability6",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward7",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability7",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward8",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability8",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward9",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability9",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward10",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability10",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward11",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability11",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward12",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability12",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward13",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability13",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward14",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability14",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Reward15",
+            "type": "int"
+        },
+        {
+            "name": "_Gift_Probability15",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Point": 70000,
+            "_Gift_Reward1": 2047,
+            "_Gift_Probability1": 8,
+            "_Gift_Reward2": 2046,
+            "_Gift_Probability2": 8,
+            "_Gift_Reward3": 2043,
+            "_Gift_Probability3": 8,
+            "_Gift_Reward4": 2031,
+            "_Gift_Probability4": 8,
+            "_Gift_Reward5": 2048,
+            "_Gift_Probability5": 8,
+            "_Gift_Reward6": 2035,
+            "_Gift_Probability6": 8,
+            "_Gift_Reward7": 2026,
+            "_Gift_Probability7": 13,
+            "_Gift_Reward8": 2027,
+            "_Gift_Probability8": 13,
+            "_Gift_Reward9": 2028,
+            "_Gift_Probability9": 13,
+            "_Gift_Reward10": 2053,
+            "_Gift_Probability10": 30,
+            "_Gift_Reward11": 2044,
+            "_Gift_Probability11": 72,
+            "_Gift_Reward12": 2045,
+            "_Gift_Probability12": 72,
+            "_Gift_Reward13": 2010,
+            "_Gift_Probability13": 72,
+            "_Gift_Reward14": 2011,
+            "_Gift_Probability14": 72,
+            "_Gift_Reward15": 2012,
+            "_Gift_Probability15": 72
+        }
+    ]
+}

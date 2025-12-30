@@ -1,0 +1,702 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Option_Description",
+            "type": "string"
+        },
+        {
+            "name": "_Option_Group",
+            "type": "int"
+        },
+        {
+            "name": "_Option_Probability",
+            "type": "int"
+        },
+        {
+            "name": "_Option_Min",
+            "type": "int"
+        },
+        {
+            "name": "_Option_Max",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10101,
+            "_Option_Probability": 35,
+            "_Option_Min": 10,
+            "_Option_Max": 200
+        },
+        {
+            "_Id": 2,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10101,
+            "_Option_Probability": 30,
+            "_Option_Min": 90,
+            "_Option_Max": 350
+        },
+        {
+            "_Id": 3,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10101,
+            "_Option_Probability": 20,
+            "_Option_Min": 180,
+            "_Option_Max": 700
+        },
+        {
+            "_Id": 4,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10101,
+            "_Option_Probability": 10,
+            "_Option_Min": 270,
+            "_Option_Max": 1250
+        },
+        {
+            "_Id": 5,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10101,
+            "_Option_Probability": 5,
+            "_Option_Min": 350,
+            "_Option_Max": 2600
+        },
+        {
+            "_Id": 6,
+            "_Option_Description": "최대HP %",
+            "_Option_Group": 10111,
+            "_Option_Probability": 70,
+            "_Option_Min": 0,
+            "_Option_Max": 0
+        },
+        {
+            "_Id": 7,
+            "_Option_Description": "최대HP %",
+            "_Option_Group": 10111,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 8,
+            "_Option_Description": "최대HP %",
+            "_Option_Group": 10111,
+            "_Option_Probability": 5,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 9,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10201,
+            "_Option_Probability": 35,
+            "_Option_Min": 10,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 10,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10201,
+            "_Option_Probability": 30,
+            "_Option_Min": 50,
+            "_Option_Max": 200
+        },
+        {
+            "_Id": 11,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10201,
+            "_Option_Probability": 20,
+            "_Option_Min": 100,
+            "_Option_Max": 400
+        },
+        {
+            "_Id": 12,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10201,
+            "_Option_Probability": 10,
+            "_Option_Min": 160,
+            "_Option_Max": 750
+        },
+        {
+            "_Id": 13,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10201,
+            "_Option_Probability": 5,
+            "_Option_Min": 220,
+            "_Option_Max": 1600
+        },
+        {
+            "_Id": 14,
+            "_Option_Description": "올스탯 %",
+            "_Option_Group": 10211,
+            "_Option_Probability": 70,
+            "_Option_Min": 0,
+            "_Option_Max": 0
+        },
+        {
+            "_Id": 15,
+            "_Option_Description": "올스탯 %",
+            "_Option_Group": 10211,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 16,
+            "_Option_Description": "올스탯 %",
+            "_Option_Group": 10211,
+            "_Option_Probability": 5,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 17,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10301,
+            "_Option_Probability": 35,
+            "_Option_Min": 1,
+            "_Option_Max": 4
+        },
+        {
+            "_Id": 18,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10301,
+            "_Option_Probability": 30,
+            "_Option_Min": 2,
+            "_Option_Max": 7
+        },
+        {
+            "_Id": 19,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10301,
+            "_Option_Probability": 20,
+            "_Option_Min": 3,
+            "_Option_Max": 14
+        },
+        {
+            "_Id": 20,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10301,
+            "_Option_Probability": 10,
+            "_Option_Min": 5,
+            "_Option_Max": 25
+        },
+        {
+            "_Id": 21,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10301,
+            "_Option_Probability": 5,
+            "_Option_Min": 7,
+            "_Option_Max": 55
+        },
+        {
+            "_Id": 22,
+            "_Option_Description": "무기공격력/속성력 %",
+            "_Option_Group": 10311,
+            "_Option_Probability": 70,
+            "_Option_Min": 0,
+            "_Option_Max": 0
+        },
+        {
+            "_Id": 23,
+            "_Option_Description": "무기공격력/속성력 %",
+            "_Option_Group": 10311,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 24,
+            "_Option_Description": "무기공격력/속성력 %",
+            "_Option_Group": 10311,
+            "_Option_Probability": 5,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 25,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10401,
+            "_Option_Probability": 35,
+            "_Option_Min": 15,
+            "_Option_Max": 140
+        },
+        {
+            "_Id": 26,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10401,
+            "_Option_Probability": 30,
+            "_Option_Min": 70,
+            "_Option_Max": 250
+        },
+        {
+            "_Id": 27,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10401,
+            "_Option_Probability": 20,
+            "_Option_Min": 150,
+            "_Option_Max": 550
+        },
+        {
+            "_Id": 28,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10401,
+            "_Option_Probability": 10,
+            "_Option_Min": 200,
+            "_Option_Max": 950
+        },
+        {
+            "_Id": 29,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10401,
+            "_Option_Probability": 5,
+            "_Option_Min": 270,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 30,
+            "_Option_Description": "근력/마법력 %",
+            "_Option_Group": 10411,
+            "_Option_Probability": 70,
+            "_Option_Min": 0,
+            "_Option_Max": 0
+        },
+        {
+            "_Id": 31,
+            "_Option_Description": "근력/마법력 %",
+            "_Option_Group": 10411,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 32,
+            "_Option_Description": "근력/마법력 %",
+            "_Option_Group": 10411,
+            "_Option_Probability": 5,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 33,
+            "_Option_Description": "보스 몬스터 대미지+",
+            "_Option_Group": 10501,
+            "_Option_Probability": 35,
+            "_Option_Min": 30,
+            "_Option_Max": 270
+        },
+        {
+            "_Id": 34,
+            "_Option_Description": "보스 몬스터 대미지+",
+            "_Option_Group": 10501,
+            "_Option_Probability": 30,
+            "_Option_Min": 130,
+            "_Option_Max": 550
+        },
+        {
+            "_Id": 35,
+            "_Option_Description": "보스 몬스터 대미지+",
+            "_Option_Group": 10501,
+            "_Option_Probability": 20,
+            "_Option_Min": 270,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 36,
+            "_Option_Description": "보스 몬스터 대미지+",
+            "_Option_Group": 10501,
+            "_Option_Probability": 10,
+            "_Option_Min": 400,
+            "_Option_Max": 1900
+        },
+        {
+            "_Id": 37,
+            "_Option_Description": "보스 몬스터 대미지+",
+            "_Option_Group": 10501,
+            "_Option_Probability": 5,
+            "_Option_Min": 550,
+            "_Option_Max": 4000
+        },
+        {
+            "_Id": 38,
+            "_Option_Description": "보스 몬스터 지배력",
+            "_Option_Group": 10511,
+            "_Option_Probability": 35,
+            "_Option_Min": 0,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 39,
+            "_Option_Description": "보스 몬스터 지배력",
+            "_Option_Group": 10511,
+            "_Option_Probability": 30,
+            "_Option_Min": 0,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 40,
+            "_Option_Description": "보스 몬스터 지배력",
+            "_Option_Group": 10511,
+            "_Option_Probability": 20,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 41,
+            "_Option_Description": "보스 몬스터 지배력",
+            "_Option_Group": 10511,
+            "_Option_Probability": 10,
+            "_Option_Min": 1,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 42,
+            "_Option_Description": "보스 몬스터 지배력",
+            "_Option_Group": 10511,
+            "_Option_Probability": 5,
+            "_Option_Min": 2,
+            "_Option_Max": 6
+        },
+        {
+            "_Id": 43,
+            "_Option_Description": "일반 몬스터 대미지+",
+            "_Option_Group": 10601,
+            "_Option_Probability": 35,
+            "_Option_Min": 30,
+            "_Option_Max": 270
+        },
+        {
+            "_Id": 44,
+            "_Option_Description": "일반 몬스터 대미지+",
+            "_Option_Group": 10601,
+            "_Option_Probability": 30,
+            "_Option_Min": 130,
+            "_Option_Max": 550
+        },
+        {
+            "_Id": 45,
+            "_Option_Description": "일반 몬스터 대미지+",
+            "_Option_Group": 10601,
+            "_Option_Probability": 20,
+            "_Option_Min": 270,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 46,
+            "_Option_Description": "일반 몬스터 대미지+",
+            "_Option_Group": 10601,
+            "_Option_Probability": 10,
+            "_Option_Min": 400,
+            "_Option_Max": 1900
+        },
+        {
+            "_Id": 47,
+            "_Option_Description": "일반 몬스터 대미지+",
+            "_Option_Group": 10601,
+            "_Option_Probability": 5,
+            "_Option_Min": 550,
+            "_Option_Max": 4000
+        },
+        {
+            "_Id": 48,
+            "_Option_Description": "일반 몬스터 지배력",
+            "_Option_Group": 10611,
+            "_Option_Probability": 35,
+            "_Option_Min": 0,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 49,
+            "_Option_Description": "일반 몬스터 지배력",
+            "_Option_Group": 10611,
+            "_Option_Probability": 30,
+            "_Option_Min": 0,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 50,
+            "_Option_Description": "일반 몬스터 지배력",
+            "_Option_Group": 10611,
+            "_Option_Probability": 20,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 51,
+            "_Option_Description": "일반 몬스터 지배력",
+            "_Option_Group": 10611,
+            "_Option_Probability": 10,
+            "_Option_Min": 1,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 52,
+            "_Option_Description": "일반 몬스터 지배력",
+            "_Option_Group": 10611,
+            "_Option_Probability": 5,
+            "_Option_Min": 2,
+            "_Option_Max": 6
+        },
+        {
+            "_Id": 53,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10103,
+            "_Option_Probability": 35,
+            "_Option_Min": 40,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 54,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10103,
+            "_Option_Probability": 30,
+            "_Option_Min": 360,
+            "_Option_Max": 1400
+        },
+        {
+            "_Id": 55,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10103,
+            "_Option_Probability": 20,
+            "_Option_Min": 720,
+            "_Option_Max": 2800
+        },
+        {
+            "_Id": 56,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10103,
+            "_Option_Probability": 10,
+            "_Option_Min": 1080,
+            "_Option_Max": 5000
+        },
+        {
+            "_Id": 57,
+            "_Option_Description": "물리/마법 고정대미지",
+            "_Option_Group": 10103,
+            "_Option_Probability": 5,
+            "_Option_Min": 1400,
+            "_Option_Max": 10400
+        },
+        {
+            "_Id": 58,
+            "_Option_Description": "최대HP %",
+            "_Option_Group": 10113,
+            "_Option_Probability": 70,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 59,
+            "_Option_Description": "최대HP %",
+            "_Option_Group": 10113,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 60,
+            "_Option_Description": "최대HP %",
+            "_Option_Group": 10113,
+            "_Option_Probability": 5,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 61,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10203,
+            "_Option_Probability": 35,
+            "_Option_Min": 40,
+            "_Option_Max": 400
+        },
+        {
+            "_Id": 62,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10203,
+            "_Option_Probability": 30,
+            "_Option_Min": 200,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 63,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10203,
+            "_Option_Probability": 20,
+            "_Option_Min": 400,
+            "_Option_Max": 1600
+        },
+        {
+            "_Id": 64,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10203,
+            "_Option_Probability": 10,
+            "_Option_Min": 640,
+            "_Option_Max": 3000
+        },
+        {
+            "_Id": 65,
+            "_Option_Description": "올스탯 +",
+            "_Option_Group": 10203,
+            "_Option_Probability": 5,
+            "_Option_Min": 880,
+            "_Option_Max": 6400
+        },
+        {
+            "_Id": 66,
+            "_Option_Description": "올스탯 %",
+            "_Option_Group": 10213,
+            "_Option_Probability": 70,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 67,
+            "_Option_Description": "올스탯 %",
+            "_Option_Group": 10213,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 68,
+            "_Option_Description": "올스탯 %",
+            "_Option_Group": 10213,
+            "_Option_Probability": 5,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 69,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10303,
+            "_Option_Probability": 35,
+            "_Option_Min": 4,
+            "_Option_Max": 16
+        },
+        {
+            "_Id": 70,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10303,
+            "_Option_Probability": 30,
+            "_Option_Min": 8,
+            "_Option_Max": 28
+        },
+        {
+            "_Id": 71,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10303,
+            "_Option_Probability": 20,
+            "_Option_Min": 12,
+            "_Option_Max": 56
+        },
+        {
+            "_Id": 72,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10303,
+            "_Option_Probability": 10,
+            "_Option_Min": 20,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 73,
+            "_Option_Description": "무기공격력/속성력 +",
+            "_Option_Group": 10303,
+            "_Option_Probability": 5,
+            "_Option_Min": 28,
+            "_Option_Max": 220
+        },
+        {
+            "_Id": 74,
+            "_Option_Description": "무기공격력/속성력 %",
+            "_Option_Group": 10313,
+            "_Option_Probability": 70,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 75,
+            "_Option_Description": "무기공격력/속성력 %",
+            "_Option_Group": 10313,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 76,
+            "_Option_Description": "무기공격력/속성력 %",
+            "_Option_Group": 10313,
+            "_Option_Probability": 5,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 77,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10402,
+            "_Option_Probability": 35,
+            "_Option_Min": 30,
+            "_Option_Max": 280
+        },
+        {
+            "_Id": 78,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10402,
+            "_Option_Probability": 30,
+            "_Option_Min": 140,
+            "_Option_Max": 500
+        },
+        {
+            "_Id": 79,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10402,
+            "_Option_Probability": 20,
+            "_Option_Min": 300,
+            "_Option_Max": 1100
+        },
+        {
+            "_Id": 80,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10402,
+            "_Option_Probability": 10,
+            "_Option_Min": 400,
+            "_Option_Max": 1900
+        },
+        {
+            "_Id": 81,
+            "_Option_Description": "근력/마법력 +",
+            "_Option_Group": 10402,
+            "_Option_Probability": 5,
+            "_Option_Min": 540,
+            "_Option_Max": 4000
+        },
+        {
+            "_Id": 82,
+            "_Option_Description": "근력/마법력 %",
+            "_Option_Group": 10412,
+            "_Option_Probability": 70,
+            "_Option_Min": 0,
+            "_Option_Max": 0
+        },
+        {
+            "_Id": 83,
+            "_Option_Description": "근력/마법력 %",
+            "_Option_Group": 10412,
+            "_Option_Probability": 25,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 84,
+            "_Option_Description": "근력/마법력 %",
+            "_Option_Group": 10412,
+            "_Option_Probability": 5,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        }
+    ]
+}

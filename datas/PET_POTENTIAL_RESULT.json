@@ -1,0 +1,1854 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_GroupID",
+            "type": "int"
+        },
+        {
+            "name": "_Grade",
+            "type": "int"
+        },
+        {
+            "name": "_Stat_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Option_Min",
+            "type": "int"
+        },
+        {
+            "name": "_Option_Max",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 14,
+            "_Option_Min": 1,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 2,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 14,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 3,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 14,
+            "_Option_Min": 70,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 4,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 14,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 5,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 14,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 6,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 26,
+            "_Option_Min": 1,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 7,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 26,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 8,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 26,
+            "_Option_Min": 70,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 9,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 26,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 10,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 26,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 11,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 22,
+            "_Option_Min": 1,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 12,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 22,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 13,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 22,
+            "_Option_Min": 70,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 14,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 22,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 15,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 22,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 16,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 18,
+            "_Option_Min": 1,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 17,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 18,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 18,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 18,
+            "_Option_Min": 70,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 19,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 18,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 20,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 18,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 21,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 124,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 22,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 124,
+            "_Option_Min": 3,
+            "_Option_Max": 4
+        },
+        {
+            "_Id": 23,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 124,
+            "_Option_Min": 5,
+            "_Option_Max": 7
+        },
+        {
+            "_Id": 24,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 124,
+            "_Option_Min": 10,
+            "_Option_Max": 15
+        },
+        {
+            "_Id": 25,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 124,
+            "_Option_Min": 20,
+            "_Option_Max": 25
+        },
+        {
+            "_Id": 26,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 128,
+            "_Option_Min": 1,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 27,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 128,
+            "_Option_Min": 3,
+            "_Option_Max": 4
+        },
+        {
+            "_Id": 28,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 128,
+            "_Option_Min": 5,
+            "_Option_Max": 7
+        },
+        {
+            "_Id": 29,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 128,
+            "_Option_Min": 10,
+            "_Option_Max": 15
+        },
+        {
+            "_Id": 30,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 128,
+            "_Option_Min": 20,
+            "_Option_Max": 25
+        },
+        {
+            "_Id": 31,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 132,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 32,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 132,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 33,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 132,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 34,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 132,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 35,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 132,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 36,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 106,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 37,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 106,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 38,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 106,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 39,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 106,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 40,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 106,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 41,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 461,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 42,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 461,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 43,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 461,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 44,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 461,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 45,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 461,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 46,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 462,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 47,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 462,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 48,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 462,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 49,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 462,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 50,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 462,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 51,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 464,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 52,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 464,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 53,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 464,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 54,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 464,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 55,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 464,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 56,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 463,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 57,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 463,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 58,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 463,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 59,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 463,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 60,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 463,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 61,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 30,
+            "_Option_Min": 1,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 62,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 30,
+            "_Option_Min": 60,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 63,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 30,
+            "_Option_Min": 150,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 64,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 30,
+            "_Option_Min": 500,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 65,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 30,
+            "_Option_Min": 1500,
+            "_Option_Max": 3000
+        },
+        {
+            "_Id": 66,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 216,
+            "_Option_Min": 1,
+            "_Option_Max": 30
+        },
+        {
+            "_Id": 67,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 216,
+            "_Option_Min": 40,
+            "_Option_Max": 70
+        },
+        {
+            "_Id": 68,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 216,
+            "_Option_Min": 100,
+            "_Option_Max": 200
+        },
+        {
+            "_Id": 69,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 216,
+            "_Option_Min": 300,
+            "_Option_Max": 500
+        },
+        {
+            "_Id": 70,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 216,
+            "_Option_Min": 500,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 71,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 458,
+            "_Option_Min": 1,
+            "_Option_Max": 30
+        },
+        {
+            "_Id": 72,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 458,
+            "_Option_Min": 40,
+            "_Option_Max": 70
+        },
+        {
+            "_Id": 73,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 458,
+            "_Option_Min": 100,
+            "_Option_Max": 200
+        },
+        {
+            "_Id": 74,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 458,
+            "_Option_Min": 300,
+            "_Option_Max": 500
+        },
+        {
+            "_Id": 75,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 458,
+            "_Option_Min": 500,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 76,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 496,
+            "_Option_Min": 1,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 77,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 496,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 78,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 496,
+            "_Option_Min": 70,
+            "_Option_Max": 100
+        },
+        {
+            "_Id": 79,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 496,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 80,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 496,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 81,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 465,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 82,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 492,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 83,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 492,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 84,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 492,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 85,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 492,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 86,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 492,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 87,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 38,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 88,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 38,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 89,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 38,
+            "_Option_Min": 3,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 90,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 38,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 91,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 38,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 92,
+            "_GroupID": 100101,
+            "_Grade": 1,
+            "_Stat_Type": 455,
+            "_Option_Min": 1,
+            "_Option_Max": 16
+        },
+        {
+            "_Id": 93,
+            "_GroupID": 100101,
+            "_Grade": 2,
+            "_Stat_Type": 455,
+            "_Option_Min": 24,
+            "_Option_Max": 40
+        },
+        {
+            "_Id": 94,
+            "_GroupID": 100101,
+            "_Grade": 3,
+            "_Stat_Type": 455,
+            "_Option_Min": 56,
+            "_Option_Max": 80
+        },
+        {
+            "_Id": 95,
+            "_GroupID": 100101,
+            "_Grade": 4,
+            "_Stat_Type": 455,
+            "_Option_Min": 160,
+            "_Option_Max": 240
+        },
+        {
+            "_Id": 96,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 455,
+            "_Option_Min": 320,
+            "_Option_Max": 640
+        },
+        {
+            "_Id": 97,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 15,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 98,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 27,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 99,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 23,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 100,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 19,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 101,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 456,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 102,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 493,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 103,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 39,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 104,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 217,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 105,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 31,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 106,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 573,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 107,
+            "_GroupID": 100101,
+            "_Grade": 5,
+            "_Stat_Type": 574,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 108,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 14,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 109,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 26,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 110,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 22,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 111,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 18,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 112,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 124,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 113,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 128,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 114,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 132,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 115,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 106,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 116,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 461,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 117,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 462,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 118,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 464,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 119,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 463,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 120,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 30,
+            "_Option_Min": 4000,
+            "_Option_Max": 6000
+        },
+        {
+            "_Id": 121,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 216,
+            "_Option_Min": 1200,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 122,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 458,
+            "_Option_Min": 1200,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 123,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 496,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 124,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 465,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 125,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 455,
+            "_Option_Min": 800,
+            "_Option_Max": 1600
+        },
+        {
+            "_Id": 126,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 492,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 127,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 38,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 128,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 15,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 129,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 27,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 130,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 23,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 131,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 19,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 132,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 456,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 133,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 493,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 134,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 39,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 135,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 217,
+            "_Option_Min": 3,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 136,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 31,
+            "_Option_Min": 3,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 137,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 573,
+            "_Option_Min": 2,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 138,
+            "_GroupID": 100101,
+            "_Grade": 6,
+            "_Stat_Type": 574,
+            "_Option_Min": 2,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 139,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 14,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 140,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 26,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 141,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 22,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 142,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 18,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 143,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 124,
+            "_Option_Min": 10,
+            "_Option_Max": 15
+        },
+        {
+            "_Id": 144,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 128,
+            "_Option_Min": 10,
+            "_Option_Max": 15
+        },
+        {
+            "_Id": 145,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 132,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 146,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 106,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 147,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 461,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 148,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 462,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 149,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 464,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 150,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 463,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 151,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 30,
+            "_Option_Min": 500,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 152,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 216,
+            "_Option_Min": 300,
+            "_Option_Max": 500
+        },
+        {
+            "_Id": 153,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 458,
+            "_Option_Min": 300,
+            "_Option_Max": 500
+        },
+        {
+            "_Id": 154,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 496,
+            "_Option_Min": 200,
+            "_Option_Max": 300
+        },
+        {
+            "_Id": 155,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 492,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 156,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 38,
+            "_Option_Min": 4,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 157,
+            "_GroupID": 200101,
+            "_Grade": 4,
+            "_Stat_Type": 455,
+            "_Option_Min": 160,
+            "_Option_Max": 240
+        },
+        {
+            "_Id": 158,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 14,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 159,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 26,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 160,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 22,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 161,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 18,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 162,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 124,
+            "_Option_Min": 20,
+            "_Option_Max": 25
+        },
+        {
+            "_Id": 163,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 128,
+            "_Option_Min": 20,
+            "_Option_Max": 25
+        },
+        {
+            "_Id": 164,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 132,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 165,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 106,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 166,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 461,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 167,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 462,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 168,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 464,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 169,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 463,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 170,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 30,
+            "_Option_Min": 1500,
+            "_Option_Max": 3000
+        },
+        {
+            "_Id": 171,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 216,
+            "_Option_Min": 500,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 172,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 458,
+            "_Option_Min": 500,
+            "_Option_Max": 1000
+        },
+        {
+            "_Id": 173,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 496,
+            "_Option_Min": 400,
+            "_Option_Max": 800
+        },
+        {
+            "_Id": 174,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 465,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 175,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 492,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 176,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 38,
+            "_Option_Min": 6,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 177,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 455,
+            "_Option_Min": 320,
+            "_Option_Max": 640
+        },
+        {
+            "_Id": 178,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 15,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 179,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 27,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 180,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 23,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 181,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 19,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 182,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 456,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 183,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 493,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 184,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 39,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 185,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 217,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 186,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 31,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 187,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 573,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 188,
+            "_GroupID": 200101,
+            "_Grade": 5,
+            "_Stat_Type": 574,
+            "_Option_Min": 1,
+            "_Option_Max": 1
+        },
+        {
+            "_Id": 189,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 14,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 190,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 26,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 191,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 22,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 192,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 18,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 193,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 124,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 194,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 128,
+            "_Option_Min": 30,
+            "_Option_Max": 50
+        },
+        {
+            "_Id": 195,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 132,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 196,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 106,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 197,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 461,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 198,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 462,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 199,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 464,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 200,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 463,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 201,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 30,
+            "_Option_Min": 4000,
+            "_Option_Max": 6000
+        },
+        {
+            "_Id": 202,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 216,
+            "_Option_Min": 1200,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 203,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 458,
+            "_Option_Min": 1200,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 204,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 496,
+            "_Option_Min": 1000,
+            "_Option_Max": 2000
+        },
+        {
+            "_Id": 205,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 465,
+            "_Option_Min": 2,
+            "_Option_Max": 2
+        },
+        {
+            "_Id": 206,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 455,
+            "_Option_Min": 800,
+            "_Option_Max": 1600
+        },
+        {
+            "_Id": 207,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 492,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 208,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 38,
+            "_Option_Min": 12,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 209,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 15,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 210,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 27,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 211,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 23,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 212,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 19,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 213,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 456,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 214,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 493,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 215,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 39,
+            "_Option_Min": 2,
+            "_Option_Max": 3
+        },
+        {
+            "_Id": 216,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 217,
+            "_Option_Min": 3,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 217,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 31,
+            "_Option_Min": 3,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 218,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 573,
+            "_Option_Min": 2,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 219,
+            "_GroupID": 200101,
+            "_Grade": 6,
+            "_Stat_Type": 574,
+            "_Option_Min": 2,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 220,
+            "_GroupID": 300101,
+            "_Grade": 4,
+            "_Stat_Type": 461,
+            "_Option_Min": 5,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 221,
+            "_GroupID": 300102,
+            "_Grade": 5,
+            "_Stat_Type": 461,
+            "_Option_Min": 10,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 222,
+            "_GroupID": 300103,
+            "_Grade": 6,
+            "_Stat_Type": 461,
+            "_Option_Min": 20,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 223,
+            "_GroupID": 300104,
+            "_Grade": 4,
+            "_Stat_Type": 462,
+            "_Option_Min": 5,
+            "_Option_Max": 5
+        },
+        {
+            "_Id": 224,
+            "_GroupID": 300105,
+            "_Grade": 5,
+            "_Stat_Type": 462,
+            "_Option_Min": 10,
+            "_Option_Max": 10
+        },
+        {
+            "_Id": 225,
+            "_GroupID": 300106,
+            "_Grade": 6,
+            "_Stat_Type": 462,
+            "_Option_Min": 20,
+            "_Option_Max": 20
+        },
+        {
+            "_Id": 226,
+            "_GroupID": 300107,
+            "_Grade": 4,
+            "_Stat_Type": 455,
+            "_Option_Min": 240,
+            "_Option_Max": 240
+        },
+        {
+            "_Id": 227,
+            "_GroupID": 300108,
+            "_Grade": 5,
+            "_Stat_Type": 455,
+            "_Option_Min": 640,
+            "_Option_Max": 640
+        },
+        {
+            "_Id": 228,
+            "_GroupID": 300109,
+            "_Grade": 6,
+            "_Stat_Type": 455,
+            "_Option_Min": 1600,
+            "_Option_Max": 1600
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_WorldID",
+            "type": "int"
+        },
+        {
+            "name": "_ServerID",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Year",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Month",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Day",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Hour",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Minute",
+            "type": "int"
+        },
+        {
+            "name": "_End_Year",
+            "type": "int"
+        },
+        {
+            "name": "_End_Month",
+            "type": "int"
+        },
+        {
+            "name": "_End_Day",
+            "type": "int"
+        },
+        {
+            "name": "_End_Hour",
+            "type": "int"
+        },
+        {
+            "name": "_End_Minute",
+            "type": "int"
+        },
+        {
+            "name": "_EveryDay",
+            "type": "bool"
+        },
+        {
+            "name": "_Exp",
+            "type": "int"
+        },
+        {
+            "name": "_Item",
+            "type": "int"
+        },
+        {
+            "name": "_Ely",
+            "type": "int"
+        },
+        {
+            "name": "_Rare",
+            "type": "int"
+        },
+        {
+            "name": "_Quest_Rew",
+            "type": "int"
+        },
+        {
+            "name": "_Allstat",
+            "type": "int"
+        },
+        {
+            "name": "_Attack",
+            "type": "int"
+        },
+        {
+            "name": "_Mhp",
+            "type": "int"
+        },
+        {
+            "name": "_Critical_Probability",
+            "type": "int"
+        },
+        {
+            "name": "_Critical_Damage",
+            "type": "int"
+        },
+        {
+            "name": "_Portal",
+            "type": "int"
+        },
+        {
+            "name": "_Portal_Limit",
+            "type": "int"
+        },
+        {
+            "name": "_Npc",
+            "type": "int"
+        },
+        {
+            "name": "_Mob",
+            "type": "int"
+        },
+        {
+            "name": "_Notice",
+            "type": "string"
+        },
+        {
+            "name": "_Notice_Before",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_WorldID": 0,
+            "_ServerID": 0,
+            "_Start_Year": 2024,
+            "_Start_Month": 6,
+            "_Start_Day": 1,
+            "_Start_Hour": 5,
+            "_Start_Minute": 0,
+            "_End_Year": 2024,
+            "_End_Month": 6,
+            "_End_Day": 3,
+            "_End_Hour": 0,
+            "_End_Minute": 0,
+            "_EveryDay": false,
+            "_Exp": 0,
+            "_Item": 0,
+            "_Ely": 0,
+            "_Rare": 0,
+            "_Quest_Rew": 0,
+            "_Allstat": 0,
+            "_Attack": 0,
+            "_Mhp": 0,
+            "_Critical_Probability": 0,
+            "_Critical_Damage": 0,
+            "_Portal": 0,
+            "_Portal_Limit": 0,
+            "_Npc": 8234,
+            "_Mob": 0,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 2,
+            "_WorldID": 0,
+            "_ServerID": 0,
+            "_Start_Year": 2024,
+            "_Start_Month": 6,
+            "_Start_Day": 8,
+            "_Start_Hour": 5,
+            "_Start_Minute": 0,
+            "_End_Year": 2024,
+            "_End_Month": 6,
+            "_End_Day": 10,
+            "_End_Hour": 0,
+            "_End_Minute": 0,
+            "_EveryDay": false,
+            "_Exp": 0,
+            "_Item": 0,
+            "_Ely": 0,
+            "_Rare": 0,
+            "_Quest_Rew": 0,
+            "_Allstat": 0,
+            "_Attack": 0,
+            "_Mhp": 0,
+            "_Critical_Probability": 0,
+            "_Critical_Damage": 0,
+            "_Portal": 0,
+            "_Portal_Limit": 0,
+            "_Npc": 8234,
+            "_Mob": 0,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 3,
+            "_WorldID": 0,
+            "_ServerID": 0,
+            "_Start_Year": 2024,
+            "_Start_Month": 6,
+            "_Start_Day": 15,
+            "_Start_Hour": 5,
+            "_Start_Minute": 0,
+            "_End_Year": 2024,
+            "_End_Month": 6,
+            "_End_Day": 17,
+            "_End_Hour": 0,
+            "_End_Minute": 0,
+            "_EveryDay": false,
+            "_Exp": 0,
+            "_Item": 0,
+            "_Ely": 0,
+            "_Rare": 0,
+            "_Quest_Rew": 0,
+            "_Allstat": 0,
+            "_Attack": 0,
+            "_Mhp": 0,
+            "_Critical_Probability": 0,
+            "_Critical_Damage": 0,
+            "_Portal": 0,
+            "_Portal_Limit": 0,
+            "_Npc": 8234,
+            "_Mob": 0,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 4,
+            "_WorldID": 0,
+            "_ServerID": 0,
+            "_Start_Year": 2024,
+            "_Start_Month": 6,
+            "_Start_Day": 22,
+            "_Start_Hour": 5,
+            "_Start_Minute": 0,
+            "_End_Year": 2024,
+            "_End_Month": 6,
+            "_End_Day": 24,
+            "_End_Hour": 0,
+            "_End_Minute": 0,
+            "_EveryDay": false,
+            "_Exp": 0,
+            "_Item": 0,
+            "_Ely": 0,
+            "_Rare": 0,
+            "_Quest_Rew": 0,
+            "_Allstat": 0,
+            "_Attack": 0,
+            "_Mhp": 0,
+            "_Critical_Probability": 0,
+            "_Critical_Damage": 0,
+            "_Portal": 0,
+            "_Portal_Limit": 0,
+            "_Npc": 8234,
+            "_Mob": 0,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 5,
+            "_WorldID": 2,
+            "_ServerID": 0,
+            "_Start_Year": 2023,
+            "_Start_Month": 12,
+            "_Start_Day": 26,
+            "_Start_Hour": 0,
+            "_Start_Minute": 0,
+            "_End_Year": 2025,
+            "_End_Month": 12,
+            "_End_Day": 31,
+            "_End_Hour": 23,
+            "_End_Minute": 59,
+            "_EveryDay": false,
+            "_Exp": 500,
+            "_Item": 100,
+            "_Ely": 50,
+            "_Rare": 0,
+            "_Quest_Rew": 100,
+            "_Allstat": 10,
+            "_Attack": 10,
+            "_Mhp": 10,
+            "_Critical_Probability": 0,
+            "_Critical_Damage": 100,
+            "_Portal": 0,
+            "_Portal_Limit": 0,
+            "_Npc": 0,
+            "_Mob": 0,
+            "_Notice": "",
+            "_Notice_Before": 0
+        }
+    ]
+}

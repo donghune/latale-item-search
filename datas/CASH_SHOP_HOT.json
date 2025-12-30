@@ -1,0 +1,38 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_ShopID",
+            "type": "int"
+        },
+        {
+            "name": "_Description",
+            "type": "string"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_ShopID": 0,
+            "_Description": ""
+        },
+        {
+            "_Id": 2,
+            "_ShopID": 0,
+            "_Description": ""
+        },
+        {
+            "_Id": 3,
+            "_ShopID": 0,
+            "_Description": ""
+        },
+        {
+            "_Id": 4,
+            "_ShopID": 0,
+            "_Description": ""
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "item-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple static server for the item search page",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

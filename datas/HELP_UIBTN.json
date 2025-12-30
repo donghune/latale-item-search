@@ -1,0 +1,143 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_HelpmenuID",
+            "type": "int"
+        },
+        {
+            "name": "_HelpmenuTxt",
+            "type": "string"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 805351479,
+            "_HelpmenuID": 600,
+            "_HelpmenuTxt": "퀘스트"
+        },
+        {
+            "_Id": 805839017,
+            "_HelpmenuID": 1600,
+            "_HelpmenuTxt": "경매"
+        },
+        {
+            "_Id": 805533017,
+            "_HelpmenuID": 1400,
+            "_HelpmenuTxt": "우체통"
+        },
+        {
+            "_Id": 805404689,
+            "_HelpmenuID": 1300,
+            "_HelpmenuTxt": "창고"
+        },
+        {
+            "_Id": 839061515,
+            "_HelpmenuID": 2400,
+            "_HelpmenuTxt": "아이템잠금"
+        },
+        {
+            "_Id": 822112279,
+            "_HelpmenuID": 2300,
+            "_HelpmenuTxt": "옵션 재분배"
+        },
+        {
+            "_Id": 805933151,
+            "_HelpmenuID": 1900,
+            "_HelpmenuTxt": "아이템 인챈트"
+        },
+        {
+            "_Id": 805541940,
+            "_HelpmenuID": 500,
+            "_HelpmenuTxt": "맵보기"
+        },
+        {
+            "_Id": 805355771,
+            "_HelpmenuID": 800,
+            "_HelpmenuTxt": "파티"
+        },
+        {
+            "_Id": 805638245,
+            "_HelpmenuID": 3000,
+            "_HelpmenuTxt": "길드"
+        },
+        {
+            "_Id": 822096397,
+            "_HelpmenuID": 2900,
+            "_HelpmenuTxt": "커플"
+        },
+        {
+            "_Id": 805765127,
+            "_HelpmenuID": 700,
+            "_HelpmenuTxt": "스킬"
+        },
+        {
+            "_Id": 805605478,
+            "_HelpmenuID": 1800,
+            "_HelpmenuTxt": "애완동물"
+        },
+        {
+            "_Id": 805429269,
+            "_HelpmenuID": 2800,
+            "_HelpmenuTxt": "친구"
+        },
+        {
+            "_Id": 805716339,
+            "_HelpmenuID": 2200,
+            "_HelpmenuTxt": "조합"
+        },
+        {
+            "_Id": 805835534,
+            "_HelpmenuID": 2700,
+            "_HelpmenuTxt": "대화방"
+        },
+        {
+            "_Id": 822104365,
+            "_HelpmenuID": 1800,
+            "_HelpmenuTxt": "애완동물 관리"
+        },
+        {
+            "_Id": 839118884,
+            "_HelpmenuID": 3600,
+            "_HelpmenuTxt": "아이템 봉인"
+        },
+        {
+            "_Id": 805990418,
+            "_HelpmenuID": 3700,
+            "_HelpmenuTxt": "별을 먹는 나무"
+        },
+        {
+            "_Id": 805918555,
+            "_HelpmenuID": 3300,
+            "_HelpmenuTxt": "아이템도감 등록"
+        },
+        {
+            "_Id": 805916921,
+            "_HelpmenuID": 3300,
+            "_HelpmenuTxt": "아이템도감 확인"
+        },
+        {
+            "_Id": 805912877,
+            "_HelpmenuID": 3300,
+            "_HelpmenuTxt": "몬스터도감 확인"
+        },
+        {
+            "_Id": 805994499,
+            "_HelpmenuID": 3800,
+            "_HelpmenuTxt": "문양"
+        },
+        {
+            "_Id": 806006787,
+            "_HelpmenuID": 3900,
+            "_HelpmenuTxt": "업적"
+        },
+        {
+            "_Id": 805597484,
+            "_HelpmenuID": 4100,
+            "_HelpmenuTxt": "웨이포인트"
+        }
+    ]
+}

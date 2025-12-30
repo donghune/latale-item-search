@@ -1,0 +1,4018 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Point",
+            "type": "int"
+        },
+        {
+            "name": "_Exp_Factor",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Point": 1,
+            "_Exp_Factor": 480
+        },
+        {
+            "_Id": 2,
+            "_Point": 2,
+            "_Exp_Factor": 960
+        },
+        {
+            "_Id": 3,
+            "_Point": 3,
+            "_Exp_Factor": 1440
+        },
+        {
+            "_Id": 4,
+            "_Point": 4,
+            "_Exp_Factor": 1920
+        },
+        {
+            "_Id": 5,
+            "_Point": 5,
+            "_Exp_Factor": 2400
+        },
+        {
+            "_Id": 6,
+            "_Point": 6,
+            "_Exp_Factor": 2880
+        },
+        {
+            "_Id": 7,
+            "_Point": 7,
+            "_Exp_Factor": 3360
+        },
+        {
+            "_Id": 8,
+            "_Point": 8,
+            "_Exp_Factor": 3840
+        },
+        {
+            "_Id": 9,
+            "_Point": 9,
+            "_Exp_Factor": 4320
+        },
+        {
+            "_Id": 10,
+            "_Point": 10,
+            "_Exp_Factor": 4800
+        },
+        {
+            "_Id": 11,
+            "_Point": 11,
+            "_Exp_Factor": 5280
+        },
+        {
+            "_Id": 12,
+            "_Point": 12,
+            "_Exp_Factor": 5760
+        },
+        {
+            "_Id": 13,
+            "_Point": 13,
+            "_Exp_Factor": 6240
+        },
+        {
+            "_Id": 14,
+            "_Point": 14,
+            "_Exp_Factor": 6720
+        },
+        {
+            "_Id": 15,
+            "_Point": 15,
+            "_Exp_Factor": 7200
+        },
+        {
+            "_Id": 16,
+            "_Point": 16,
+            "_Exp_Factor": 7680
+        },
+        {
+            "_Id": 17,
+            "_Point": 17,
+            "_Exp_Factor": 8160
+        },
+        {
+            "_Id": 18,
+            "_Point": 18,
+            "_Exp_Factor": 8640
+        },
+        {
+            "_Id": 19,
+            "_Point": 19,
+            "_Exp_Factor": 9120
+        },
+        {
+            "_Id": 20,
+            "_Point": 20,
+            "_Exp_Factor": 9600
+        },
+        {
+            "_Id": 21,
+            "_Point": 21,
+            "_Exp_Factor": 10080
+        },
+        {
+            "_Id": 22,
+            "_Point": 22,
+            "_Exp_Factor": 10560
+        },
+        {
+            "_Id": 23,
+            "_Point": 23,
+            "_Exp_Factor": 11040
+        },
+        {
+            "_Id": 24,
+            "_Point": 24,
+            "_Exp_Factor": 11520
+        },
+        {
+            "_Id": 25,
+            "_Point": 25,
+            "_Exp_Factor": 12000
+        },
+        {
+            "_Id": 26,
+            "_Point": 26,
+            "_Exp_Factor": 12480
+        },
+        {
+            "_Id": 27,
+            "_Point": 27,
+            "_Exp_Factor": 12960
+        },
+        {
+            "_Id": 28,
+            "_Point": 28,
+            "_Exp_Factor": 13440
+        },
+        {
+            "_Id": 29,
+            "_Point": 29,
+            "_Exp_Factor": 13920
+        },
+        {
+            "_Id": 30,
+            "_Point": 30,
+            "_Exp_Factor": 14400
+        },
+        {
+            "_Id": 31,
+            "_Point": 31,
+            "_Exp_Factor": 14880
+        },
+        {
+            "_Id": 32,
+            "_Point": 32,
+            "_Exp_Factor": 15360
+        },
+        {
+            "_Id": 33,
+            "_Point": 33,
+            "_Exp_Factor": 15840
+        },
+        {
+            "_Id": 34,
+            "_Point": 34,
+            "_Exp_Factor": 16320
+        },
+        {
+            "_Id": 35,
+            "_Point": 35,
+            "_Exp_Factor": 16800
+        },
+        {
+            "_Id": 36,
+            "_Point": 36,
+            "_Exp_Factor": 17280
+        },
+        {
+            "_Id": 37,
+            "_Point": 37,
+            "_Exp_Factor": 17760
+        },
+        {
+            "_Id": 38,
+            "_Point": 38,
+            "_Exp_Factor": 18240
+        },
+        {
+            "_Id": 39,
+            "_Point": 39,
+            "_Exp_Factor": 18720
+        },
+        {
+            "_Id": 40,
+            "_Point": 40,
+            "_Exp_Factor": 19200
+        },
+        {
+            "_Id": 41,
+            "_Point": 41,
+            "_Exp_Factor": 19680
+        },
+        {
+            "_Id": 42,
+            "_Point": 42,
+            "_Exp_Factor": 20160
+        },
+        {
+            "_Id": 43,
+            "_Point": 43,
+            "_Exp_Factor": 20640
+        },
+        {
+            "_Id": 44,
+            "_Point": 44,
+            "_Exp_Factor": 21120
+        },
+        {
+            "_Id": 45,
+            "_Point": 45,
+            "_Exp_Factor": 21600
+        },
+        {
+            "_Id": 46,
+            "_Point": 46,
+            "_Exp_Factor": 22080
+        },
+        {
+            "_Id": 47,
+            "_Point": 47,
+            "_Exp_Factor": 22560
+        },
+        {
+            "_Id": 48,
+            "_Point": 48,
+            "_Exp_Factor": 23040
+        },
+        {
+            "_Id": 49,
+            "_Point": 49,
+            "_Exp_Factor": 23520
+        },
+        {
+            "_Id": 50,
+            "_Point": 50,
+            "_Exp_Factor": 36000
+        },
+        {
+            "_Id": 51,
+            "_Point": 51,
+            "_Exp_Factor": 36720
+        },
+        {
+            "_Id": 52,
+            "_Point": 52,
+            "_Exp_Factor": 37440
+        },
+        {
+            "_Id": 53,
+            "_Point": 53,
+            "_Exp_Factor": 38160
+        },
+        {
+            "_Id": 54,
+            "_Point": 54,
+            "_Exp_Factor": 38880
+        },
+        {
+            "_Id": 55,
+            "_Point": 55,
+            "_Exp_Factor": 39600
+        },
+        {
+            "_Id": 56,
+            "_Point": 56,
+            "_Exp_Factor": 40320
+        },
+        {
+            "_Id": 57,
+            "_Point": 57,
+            "_Exp_Factor": 41040
+        },
+        {
+            "_Id": 58,
+            "_Point": 58,
+            "_Exp_Factor": 41760
+        },
+        {
+            "_Id": 59,
+            "_Point": 59,
+            "_Exp_Factor": 42480
+        },
+        {
+            "_Id": 60,
+            "_Point": 60,
+            "_Exp_Factor": 43200
+        },
+        {
+            "_Id": 61,
+            "_Point": 61,
+            "_Exp_Factor": 43920
+        },
+        {
+            "_Id": 62,
+            "_Point": 62,
+            "_Exp_Factor": 44640
+        },
+        {
+            "_Id": 63,
+            "_Point": 63,
+            "_Exp_Factor": 45360
+        },
+        {
+            "_Id": 64,
+            "_Point": 64,
+            "_Exp_Factor": 46080
+        },
+        {
+            "_Id": 65,
+            "_Point": 65,
+            "_Exp_Factor": 46800
+        },
+        {
+            "_Id": 66,
+            "_Point": 66,
+            "_Exp_Factor": 47520
+        },
+        {
+            "_Id": 67,
+            "_Point": 67,
+            "_Exp_Factor": 48240
+        },
+        {
+            "_Id": 68,
+            "_Point": 68,
+            "_Exp_Factor": 48960
+        },
+        {
+            "_Id": 69,
+            "_Point": 69,
+            "_Exp_Factor": 49680
+        },
+        {
+            "_Id": 70,
+            "_Point": 70,
+            "_Exp_Factor": 50400
+        },
+        {
+            "_Id": 71,
+            "_Point": 71,
+            "_Exp_Factor": 51120
+        },
+        {
+            "_Id": 72,
+            "_Point": 72,
+            "_Exp_Factor": 51840
+        },
+        {
+            "_Id": 73,
+            "_Point": 73,
+            "_Exp_Factor": 52560
+        },
+        {
+            "_Id": 74,
+            "_Point": 74,
+            "_Exp_Factor": 53280
+        },
+        {
+            "_Id": 75,
+            "_Point": 75,
+            "_Exp_Factor": 54000
+        },
+        {
+            "_Id": 76,
+            "_Point": 76,
+            "_Exp_Factor": 54720
+        },
+        {
+            "_Id": 77,
+            "_Point": 77,
+            "_Exp_Factor": 55440
+        },
+        {
+            "_Id": 78,
+            "_Point": 78,
+            "_Exp_Factor": 56160
+        },
+        {
+            "_Id": 79,
+            "_Point": 79,
+            "_Exp_Factor": 56880
+        },
+        {
+            "_Id": 80,
+            "_Point": 80,
+            "_Exp_Factor": 57600
+        },
+        {
+            "_Id": 81,
+            "_Point": 81,
+            "_Exp_Factor": 58320
+        },
+        {
+            "_Id": 82,
+            "_Point": 82,
+            "_Exp_Factor": 59040
+        },
+        {
+            "_Id": 83,
+            "_Point": 83,
+            "_Exp_Factor": 59760
+        },
+        {
+            "_Id": 84,
+            "_Point": 84,
+            "_Exp_Factor": 60480
+        },
+        {
+            "_Id": 85,
+            "_Point": 85,
+            "_Exp_Factor": 61200
+        },
+        {
+            "_Id": 86,
+            "_Point": 86,
+            "_Exp_Factor": 61920
+        },
+        {
+            "_Id": 87,
+            "_Point": 87,
+            "_Exp_Factor": 62640
+        },
+        {
+            "_Id": 88,
+            "_Point": 88,
+            "_Exp_Factor": 63360
+        },
+        {
+            "_Id": 89,
+            "_Point": 89,
+            "_Exp_Factor": 64080
+        },
+        {
+            "_Id": 90,
+            "_Point": 90,
+            "_Exp_Factor": 64800
+        },
+        {
+            "_Id": 91,
+            "_Point": 91,
+            "_Exp_Factor": 65520
+        },
+        {
+            "_Id": 92,
+            "_Point": 92,
+            "_Exp_Factor": 66240
+        },
+        {
+            "_Id": 93,
+            "_Point": 93,
+            "_Exp_Factor": 66960
+        },
+        {
+            "_Id": 94,
+            "_Point": 94,
+            "_Exp_Factor": 67680
+        },
+        {
+            "_Id": 95,
+            "_Point": 95,
+            "_Exp_Factor": 68400
+        },
+        {
+            "_Id": 96,
+            "_Point": 96,
+            "_Exp_Factor": 69120
+        },
+        {
+            "_Id": 97,
+            "_Point": 97,
+            "_Exp_Factor": 69840
+        },
+        {
+            "_Id": 98,
+            "_Point": 98,
+            "_Exp_Factor": 70560
+        },
+        {
+            "_Id": 99,
+            "_Point": 99,
+            "_Exp_Factor": 71280
+        },
+        {
+            "_Id": 100,
+            "_Point": 100,
+            "_Exp_Factor": 72000
+        },
+        {
+            "_Id": 101,
+            "_Point": 101,
+            "_Exp_Factor": 77580
+        },
+        {
+            "_Id": 102,
+            "_Point": 102,
+            "_Exp_Factor": 78360
+        },
+        {
+            "_Id": 103,
+            "_Point": 103,
+            "_Exp_Factor": 79080
+        },
+        {
+            "_Id": 104,
+            "_Point": 104,
+            "_Exp_Factor": 79860
+        },
+        {
+            "_Id": 105,
+            "_Point": 105,
+            "_Exp_Factor": 80640
+        },
+        {
+            "_Id": 106,
+            "_Point": 106,
+            "_Exp_Factor": 81420
+        },
+        {
+            "_Id": 107,
+            "_Point": 107,
+            "_Exp_Factor": 82200
+        },
+        {
+            "_Id": 108,
+            "_Point": 108,
+            "_Exp_Factor": 82920
+        },
+        {
+            "_Id": 109,
+            "_Point": 109,
+            "_Exp_Factor": 83700
+        },
+        {
+            "_Id": 110,
+            "_Point": 110,
+            "_Exp_Factor": 84480
+        },
+        {
+            "_Id": 111,
+            "_Point": 111,
+            "_Exp_Factor": 85260
+        },
+        {
+            "_Id": 112,
+            "_Point": 112,
+            "_Exp_Factor": 86040
+        },
+        {
+            "_Id": 113,
+            "_Point": 113,
+            "_Exp_Factor": 86760
+        },
+        {
+            "_Id": 114,
+            "_Point": 114,
+            "_Exp_Factor": 87540
+        },
+        {
+            "_Id": 115,
+            "_Point": 115,
+            "_Exp_Factor": 88320
+        },
+        {
+            "_Id": 116,
+            "_Point": 116,
+            "_Exp_Factor": 89100
+        },
+        {
+            "_Id": 117,
+            "_Point": 117,
+            "_Exp_Factor": 89880
+        },
+        {
+            "_Id": 118,
+            "_Point": 118,
+            "_Exp_Factor": 90600
+        },
+        {
+            "_Id": 119,
+            "_Point": 119,
+            "_Exp_Factor": 91380
+        },
+        {
+            "_Id": 120,
+            "_Point": 120,
+            "_Exp_Factor": 92160
+        },
+        {
+            "_Id": 121,
+            "_Point": 121,
+            "_Exp_Factor": 92940
+        },
+        {
+            "_Id": 122,
+            "_Point": 122,
+            "_Exp_Factor": 93720
+        },
+        {
+            "_Id": 123,
+            "_Point": 123,
+            "_Exp_Factor": 94440
+        },
+        {
+            "_Id": 124,
+            "_Point": 124,
+            "_Exp_Factor": 95220
+        },
+        {
+            "_Id": 125,
+            "_Point": 125,
+            "_Exp_Factor": 96000
+        },
+        {
+            "_Id": 126,
+            "_Point": 126,
+            "_Exp_Factor": 96780
+        },
+        {
+            "_Id": 127,
+            "_Point": 127,
+            "_Exp_Factor": 97560
+        },
+        {
+            "_Id": 128,
+            "_Point": 128,
+            "_Exp_Factor": 98280
+        },
+        {
+            "_Id": 129,
+            "_Point": 129,
+            "_Exp_Factor": 99060
+        },
+        {
+            "_Id": 130,
+            "_Point": 130,
+            "_Exp_Factor": 99840
+        },
+        {
+            "_Id": 131,
+            "_Point": 131,
+            "_Exp_Factor": 100620
+        },
+        {
+            "_Id": 132,
+            "_Point": 132,
+            "_Exp_Factor": 101400
+        },
+        {
+            "_Id": 133,
+            "_Point": 133,
+            "_Exp_Factor": 102120
+        },
+        {
+            "_Id": 134,
+            "_Point": 134,
+            "_Exp_Factor": 102900
+        },
+        {
+            "_Id": 135,
+            "_Point": 135,
+            "_Exp_Factor": 103680
+        },
+        {
+            "_Id": 136,
+            "_Point": 136,
+            "_Exp_Factor": 104460
+        },
+        {
+            "_Id": 137,
+            "_Point": 137,
+            "_Exp_Factor": 105240
+        },
+        {
+            "_Id": 138,
+            "_Point": 138,
+            "_Exp_Factor": 105960
+        },
+        {
+            "_Id": 139,
+            "_Point": 139,
+            "_Exp_Factor": 106740
+        },
+        {
+            "_Id": 140,
+            "_Point": 140,
+            "_Exp_Factor": 107520
+        },
+        {
+            "_Id": 141,
+            "_Point": 141,
+            "_Exp_Factor": 108300
+        },
+        {
+            "_Id": 142,
+            "_Point": 142,
+            "_Exp_Factor": 109080
+        },
+        {
+            "_Id": 143,
+            "_Point": 143,
+            "_Exp_Factor": 109800
+        },
+        {
+            "_Id": 144,
+            "_Point": 144,
+            "_Exp_Factor": 110580
+        },
+        {
+            "_Id": 145,
+            "_Point": 145,
+            "_Exp_Factor": 111360
+        },
+        {
+            "_Id": 146,
+            "_Point": 146,
+            "_Exp_Factor": 112140
+        },
+        {
+            "_Id": 147,
+            "_Point": 147,
+            "_Exp_Factor": 112920
+        },
+        {
+            "_Id": 148,
+            "_Point": 148,
+            "_Exp_Factor": 113640
+        },
+        {
+            "_Id": 149,
+            "_Point": 149,
+            "_Exp_Factor": 114420
+        },
+        {
+            "_Id": 150,
+            "_Point": 150,
+            "_Exp_Factor": 115200
+        },
+        {
+            "_Id": 151,
+            "_Point": 151,
+            "_Exp_Factor": 115980
+        },
+        {
+            "_Id": 152,
+            "_Point": 152,
+            "_Exp_Factor": 116760
+        },
+        {
+            "_Id": 153,
+            "_Point": 153,
+            "_Exp_Factor": 117480
+        },
+        {
+            "_Id": 154,
+            "_Point": 154,
+            "_Exp_Factor": 118260
+        },
+        {
+            "_Id": 155,
+            "_Point": 155,
+            "_Exp_Factor": 119040
+        },
+        {
+            "_Id": 156,
+            "_Point": 156,
+            "_Exp_Factor": 119820
+        },
+        {
+            "_Id": 157,
+            "_Point": 157,
+            "_Exp_Factor": 120600
+        },
+        {
+            "_Id": 158,
+            "_Point": 158,
+            "_Exp_Factor": 121320
+        },
+        {
+            "_Id": 159,
+            "_Point": 159,
+            "_Exp_Factor": 122100
+        },
+        {
+            "_Id": 160,
+            "_Point": 160,
+            "_Exp_Factor": 122880
+        },
+        {
+            "_Id": 161,
+            "_Point": 161,
+            "_Exp_Factor": 123660
+        },
+        {
+            "_Id": 162,
+            "_Point": 162,
+            "_Exp_Factor": 124440
+        },
+        {
+            "_Id": 163,
+            "_Point": 163,
+            "_Exp_Factor": 125160
+        },
+        {
+            "_Id": 164,
+            "_Point": 164,
+            "_Exp_Factor": 125940
+        },
+        {
+            "_Id": 165,
+            "_Point": 165,
+            "_Exp_Factor": 126720
+        },
+        {
+            "_Id": 166,
+            "_Point": 166,
+            "_Exp_Factor": 127500
+        },
+        {
+            "_Id": 167,
+            "_Point": 167,
+            "_Exp_Factor": 128280
+        },
+        {
+            "_Id": 168,
+            "_Point": 168,
+            "_Exp_Factor": 129000
+        },
+        {
+            "_Id": 169,
+            "_Point": 169,
+            "_Exp_Factor": 129780
+        },
+        {
+            "_Id": 170,
+            "_Point": 170,
+            "_Exp_Factor": 130560
+        },
+        {
+            "_Id": 171,
+            "_Point": 171,
+            "_Exp_Factor": 131340
+        },
+        {
+            "_Id": 172,
+            "_Point": 172,
+            "_Exp_Factor": 132120
+        },
+        {
+            "_Id": 173,
+            "_Point": 173,
+            "_Exp_Factor": 132840
+        },
+        {
+            "_Id": 174,
+            "_Point": 174,
+            "_Exp_Factor": 133620
+        },
+        {
+            "_Id": 175,
+            "_Point": 175,
+            "_Exp_Factor": 134400
+        },
+        {
+            "_Id": 176,
+            "_Point": 176,
+            "_Exp_Factor": 135180
+        },
+        {
+            "_Id": 177,
+            "_Point": 177,
+            "_Exp_Factor": 135960
+        },
+        {
+            "_Id": 178,
+            "_Point": 178,
+            "_Exp_Factor": 136680
+        },
+        {
+            "_Id": 179,
+            "_Point": 179,
+            "_Exp_Factor": 137460
+        },
+        {
+            "_Id": 180,
+            "_Point": 180,
+            "_Exp_Factor": 138240
+        },
+        {
+            "_Id": 181,
+            "_Point": 181,
+            "_Exp_Factor": 139020
+        },
+        {
+            "_Id": 182,
+            "_Point": 182,
+            "_Exp_Factor": 139800
+        },
+        {
+            "_Id": 183,
+            "_Point": 183,
+            "_Exp_Factor": 140520
+        },
+        {
+            "_Id": 184,
+            "_Point": 184,
+            "_Exp_Factor": 141300
+        },
+        {
+            "_Id": 185,
+            "_Point": 185,
+            "_Exp_Factor": 142080
+        },
+        {
+            "_Id": 186,
+            "_Point": 186,
+            "_Exp_Factor": 142860
+        },
+        {
+            "_Id": 187,
+            "_Point": 187,
+            "_Exp_Factor": 143640
+        },
+        {
+            "_Id": 188,
+            "_Point": 188,
+            "_Exp_Factor": 144360
+        },
+        {
+            "_Id": 189,
+            "_Point": 189,
+            "_Exp_Factor": 145140
+        },
+        {
+            "_Id": 190,
+            "_Point": 190,
+            "_Exp_Factor": 145920
+        },
+        {
+            "_Id": 191,
+            "_Point": 191,
+            "_Exp_Factor": 146700
+        },
+        {
+            "_Id": 192,
+            "_Point": 192,
+            "_Exp_Factor": 147480
+        },
+        {
+            "_Id": 193,
+            "_Point": 193,
+            "_Exp_Factor": 148200
+        },
+        {
+            "_Id": 194,
+            "_Point": 194,
+            "_Exp_Factor": 148980
+        },
+        {
+            "_Id": 195,
+            "_Point": 195,
+            "_Exp_Factor": 149760
+        },
+        {
+            "_Id": 196,
+            "_Point": 196,
+            "_Exp_Factor": 150540
+        },
+        {
+            "_Id": 197,
+            "_Point": 197,
+            "_Exp_Factor": 151320
+        },
+        {
+            "_Id": 198,
+            "_Point": 198,
+            "_Exp_Factor": 152040
+        },
+        {
+            "_Id": 199,
+            "_Point": 199,
+            "_Exp_Factor": 152820
+        },
+        {
+            "_Id": 200,
+            "_Point": 200,
+            "_Exp_Factor": 153600
+        },
+        {
+            "_Id": 201,
+            "_Point": 201,
+            "_Exp_Factor": 164040
+        },
+        {
+            "_Id": 202,
+            "_Point": 202,
+            "_Exp_Factor": 164820
+        },
+        {
+            "_Id": 203,
+            "_Point": 203,
+            "_Exp_Factor": 165660
+        },
+        {
+            "_Id": 204,
+            "_Point": 204,
+            "_Exp_Factor": 166440
+        },
+        {
+            "_Id": 205,
+            "_Point": 205,
+            "_Exp_Factor": 167280
+        },
+        {
+            "_Id": 206,
+            "_Point": 206,
+            "_Exp_Factor": 168120
+        },
+        {
+            "_Id": 207,
+            "_Point": 207,
+            "_Exp_Factor": 168900
+        },
+        {
+            "_Id": 208,
+            "_Point": 208,
+            "_Exp_Factor": 169740
+        },
+        {
+            "_Id": 209,
+            "_Point": 209,
+            "_Exp_Factor": 170520
+        },
+        {
+            "_Id": 210,
+            "_Point": 210,
+            "_Exp_Factor": 171360
+        },
+        {
+            "_Id": 211,
+            "_Point": 211,
+            "_Exp_Factor": 172200
+        },
+        {
+            "_Id": 212,
+            "_Point": 212,
+            "_Exp_Factor": 172980
+        },
+        {
+            "_Id": 213,
+            "_Point": 213,
+            "_Exp_Factor": 173820
+        },
+        {
+            "_Id": 214,
+            "_Point": 214,
+            "_Exp_Factor": 174600
+        },
+        {
+            "_Id": 215,
+            "_Point": 215,
+            "_Exp_Factor": 175440
+        },
+        {
+            "_Id": 216,
+            "_Point": 216,
+            "_Exp_Factor": 176280
+        },
+        {
+            "_Id": 217,
+            "_Point": 217,
+            "_Exp_Factor": 177060
+        },
+        {
+            "_Id": 218,
+            "_Point": 218,
+            "_Exp_Factor": 177900
+        },
+        {
+            "_Id": 219,
+            "_Point": 219,
+            "_Exp_Factor": 178680
+        },
+        {
+            "_Id": 220,
+            "_Point": 220,
+            "_Exp_Factor": 179520
+        },
+        {
+            "_Id": 221,
+            "_Point": 221,
+            "_Exp_Factor": 180360
+        },
+        {
+            "_Id": 222,
+            "_Point": 222,
+            "_Exp_Factor": 181140
+        },
+        {
+            "_Id": 223,
+            "_Point": 223,
+            "_Exp_Factor": 181980
+        },
+        {
+            "_Id": 224,
+            "_Point": 224,
+            "_Exp_Factor": 182760
+        },
+        {
+            "_Id": 225,
+            "_Point": 225,
+            "_Exp_Factor": 183600
+        },
+        {
+            "_Id": 226,
+            "_Point": 226,
+            "_Exp_Factor": 184440
+        },
+        {
+            "_Id": 227,
+            "_Point": 227,
+            "_Exp_Factor": 185220
+        },
+        {
+            "_Id": 228,
+            "_Point": 228,
+            "_Exp_Factor": 186060
+        },
+        {
+            "_Id": 229,
+            "_Point": 229,
+            "_Exp_Factor": 186840
+        },
+        {
+            "_Id": 230,
+            "_Point": 230,
+            "_Exp_Factor": 187680
+        },
+        {
+            "_Id": 231,
+            "_Point": 231,
+            "_Exp_Factor": 188520
+        },
+        {
+            "_Id": 232,
+            "_Point": 232,
+            "_Exp_Factor": 189300
+        },
+        {
+            "_Id": 233,
+            "_Point": 233,
+            "_Exp_Factor": 190140
+        },
+        {
+            "_Id": 234,
+            "_Point": 234,
+            "_Exp_Factor": 190920
+        },
+        {
+            "_Id": 235,
+            "_Point": 235,
+            "_Exp_Factor": 191760
+        },
+        {
+            "_Id": 236,
+            "_Point": 236,
+            "_Exp_Factor": 192600
+        },
+        {
+            "_Id": 237,
+            "_Point": 237,
+            "_Exp_Factor": 193380
+        },
+        {
+            "_Id": 238,
+            "_Point": 238,
+            "_Exp_Factor": 194220
+        },
+        {
+            "_Id": 239,
+            "_Point": 239,
+            "_Exp_Factor": 195000
+        },
+        {
+            "_Id": 240,
+            "_Point": 240,
+            "_Exp_Factor": 195840
+        },
+        {
+            "_Id": 241,
+            "_Point": 241,
+            "_Exp_Factor": 196680
+        },
+        {
+            "_Id": 242,
+            "_Point": 242,
+            "_Exp_Factor": 197460
+        },
+        {
+            "_Id": 243,
+            "_Point": 243,
+            "_Exp_Factor": 198300
+        },
+        {
+            "_Id": 244,
+            "_Point": 244,
+            "_Exp_Factor": 199080
+        },
+        {
+            "_Id": 245,
+            "_Point": 245,
+            "_Exp_Factor": 199920
+        },
+        {
+            "_Id": 246,
+            "_Point": 246,
+            "_Exp_Factor": 200760
+        },
+        {
+            "_Id": 247,
+            "_Point": 247,
+            "_Exp_Factor": 201540
+        },
+        {
+            "_Id": 248,
+            "_Point": 248,
+            "_Exp_Factor": 202380
+        },
+        {
+            "_Id": 249,
+            "_Point": 249,
+            "_Exp_Factor": 203160
+        },
+        {
+            "_Id": 250,
+            "_Point": 250,
+            "_Exp_Factor": 204000
+        },
+        {
+            "_Id": 251,
+            "_Point": 251,
+            "_Exp_Factor": 204840
+        },
+        {
+            "_Id": 252,
+            "_Point": 252,
+            "_Exp_Factor": 205620
+        },
+        {
+            "_Id": 253,
+            "_Point": 253,
+            "_Exp_Factor": 206460
+        },
+        {
+            "_Id": 254,
+            "_Point": 254,
+            "_Exp_Factor": 207240
+        },
+        {
+            "_Id": 255,
+            "_Point": 255,
+            "_Exp_Factor": 208080
+        },
+        {
+            "_Id": 256,
+            "_Point": 256,
+            "_Exp_Factor": 208920
+        },
+        {
+            "_Id": 257,
+            "_Point": 257,
+            "_Exp_Factor": 209700
+        },
+        {
+            "_Id": 258,
+            "_Point": 258,
+            "_Exp_Factor": 210540
+        },
+        {
+            "_Id": 259,
+            "_Point": 259,
+            "_Exp_Factor": 211320
+        },
+        {
+            "_Id": 260,
+            "_Point": 260,
+            "_Exp_Factor": 212160
+        },
+        {
+            "_Id": 261,
+            "_Point": 261,
+            "_Exp_Factor": 213000
+        },
+        {
+            "_Id": 262,
+            "_Point": 262,
+            "_Exp_Factor": 213780
+        },
+        {
+            "_Id": 263,
+            "_Point": 263,
+            "_Exp_Factor": 214620
+        },
+        {
+            "_Id": 264,
+            "_Point": 264,
+            "_Exp_Factor": 215400
+        },
+        {
+            "_Id": 265,
+            "_Point": 265,
+            "_Exp_Factor": 216240
+        },
+        {
+            "_Id": 266,
+            "_Point": 266,
+            "_Exp_Factor": 217080
+        },
+        {
+            "_Id": 267,
+            "_Point": 267,
+            "_Exp_Factor": 217860
+        },
+        {
+            "_Id": 268,
+            "_Point": 268,
+            "_Exp_Factor": 218700
+        },
+        {
+            "_Id": 269,
+            "_Point": 269,
+            "_Exp_Factor": 219480
+        },
+        {
+            "_Id": 270,
+            "_Point": 270,
+            "_Exp_Factor": 220320
+        },
+        {
+            "_Id": 271,
+            "_Point": 271,
+            "_Exp_Factor": 221160
+        },
+        {
+            "_Id": 272,
+            "_Point": 272,
+            "_Exp_Factor": 221940
+        },
+        {
+            "_Id": 273,
+            "_Point": 273,
+            "_Exp_Factor": 222780
+        },
+        {
+            "_Id": 274,
+            "_Point": 274,
+            "_Exp_Factor": 223560
+        },
+        {
+            "_Id": 275,
+            "_Point": 275,
+            "_Exp_Factor": 224400
+        },
+        {
+            "_Id": 276,
+            "_Point": 276,
+            "_Exp_Factor": 225240
+        },
+        {
+            "_Id": 277,
+            "_Point": 277,
+            "_Exp_Factor": 226020
+        },
+        {
+            "_Id": 278,
+            "_Point": 278,
+            "_Exp_Factor": 226860
+        },
+        {
+            "_Id": 279,
+            "_Point": 279,
+            "_Exp_Factor": 227640
+        },
+        {
+            "_Id": 280,
+            "_Point": 280,
+            "_Exp_Factor": 228480
+        },
+        {
+            "_Id": 281,
+            "_Point": 281,
+            "_Exp_Factor": 229320
+        },
+        {
+            "_Id": 282,
+            "_Point": 282,
+            "_Exp_Factor": 230100
+        },
+        {
+            "_Id": 283,
+            "_Point": 283,
+            "_Exp_Factor": 230940
+        },
+        {
+            "_Id": 284,
+            "_Point": 284,
+            "_Exp_Factor": 231720
+        },
+        {
+            "_Id": 285,
+            "_Point": 285,
+            "_Exp_Factor": 232560
+        },
+        {
+            "_Id": 286,
+            "_Point": 286,
+            "_Exp_Factor": 233400
+        },
+        {
+            "_Id": 287,
+            "_Point": 287,
+            "_Exp_Factor": 234180
+        },
+        {
+            "_Id": 288,
+            "_Point": 288,
+            "_Exp_Factor": 235020
+        },
+        {
+            "_Id": 289,
+            "_Point": 289,
+            "_Exp_Factor": 235800
+        },
+        {
+            "_Id": 290,
+            "_Point": 290,
+            "_Exp_Factor": 236640
+        },
+        {
+            "_Id": 291,
+            "_Point": 291,
+            "_Exp_Factor": 237480
+        },
+        {
+            "_Id": 292,
+            "_Point": 292,
+            "_Exp_Factor": 238260
+        },
+        {
+            "_Id": 293,
+            "_Point": 293,
+            "_Exp_Factor": 239100
+        },
+        {
+            "_Id": 294,
+            "_Point": 294,
+            "_Exp_Factor": 239880
+        },
+        {
+            "_Id": 295,
+            "_Point": 295,
+            "_Exp_Factor": 240720
+        },
+        {
+            "_Id": 296,
+            "_Point": 296,
+            "_Exp_Factor": 241560
+        },
+        {
+            "_Id": 297,
+            "_Point": 297,
+            "_Exp_Factor": 242340
+        },
+        {
+            "_Id": 298,
+            "_Point": 298,
+            "_Exp_Factor": 243180
+        },
+        {
+            "_Id": 299,
+            "_Point": 299,
+            "_Exp_Factor": 243960
+        },
+        {
+            "_Id": 300,
+            "_Point": 300,
+            "_Exp_Factor": 244800
+        },
+        {
+            "_Id": 301,
+            "_Point": 301,
+            "_Exp_Factor": 260040
+        },
+        {
+            "_Id": 302,
+            "_Point": 302,
+            "_Exp_Factor": 260940
+        },
+        {
+            "_Id": 303,
+            "_Point": 303,
+            "_Exp_Factor": 261780
+        },
+        {
+            "_Id": 304,
+            "_Point": 304,
+            "_Exp_Factor": 262680
+        },
+        {
+            "_Id": 305,
+            "_Point": 305,
+            "_Exp_Factor": 263520
+        },
+        {
+            "_Id": 306,
+            "_Point": 306,
+            "_Exp_Factor": 264360
+        },
+        {
+            "_Id": 307,
+            "_Point": 307,
+            "_Exp_Factor": 265260
+        },
+        {
+            "_Id": 308,
+            "_Point": 308,
+            "_Exp_Factor": 266100
+        },
+        {
+            "_Id": 309,
+            "_Point": 309,
+            "_Exp_Factor": 267000
+        },
+        {
+            "_Id": 310,
+            "_Point": 310,
+            "_Exp_Factor": 267840
+        },
+        {
+            "_Id": 311,
+            "_Point": 311,
+            "_Exp_Factor": 268680
+        },
+        {
+            "_Id": 312,
+            "_Point": 312,
+            "_Exp_Factor": 269580
+        },
+        {
+            "_Id": 313,
+            "_Point": 313,
+            "_Exp_Factor": 270420
+        },
+        {
+            "_Id": 314,
+            "_Point": 314,
+            "_Exp_Factor": 271320
+        },
+        {
+            "_Id": 315,
+            "_Point": 315,
+            "_Exp_Factor": 272160
+        },
+        {
+            "_Id": 316,
+            "_Point": 316,
+            "_Exp_Factor": 273000
+        },
+        {
+            "_Id": 317,
+            "_Point": 317,
+            "_Exp_Factor": 273900
+        },
+        {
+            "_Id": 318,
+            "_Point": 318,
+            "_Exp_Factor": 274740
+        },
+        {
+            "_Id": 319,
+            "_Point": 319,
+            "_Exp_Factor": 275640
+        },
+        {
+            "_Id": 320,
+            "_Point": 320,
+            "_Exp_Factor": 276480
+        },
+        {
+            "_Id": 321,
+            "_Point": 321,
+            "_Exp_Factor": 277320
+        },
+        {
+            "_Id": 322,
+            "_Point": 322,
+            "_Exp_Factor": 278220
+        },
+        {
+            "_Id": 323,
+            "_Point": 323,
+            "_Exp_Factor": 279060
+        },
+        {
+            "_Id": 324,
+            "_Point": 324,
+            "_Exp_Factor": 279960
+        },
+        {
+            "_Id": 325,
+            "_Point": 325,
+            "_Exp_Factor": 280800
+        },
+        {
+            "_Id": 326,
+            "_Point": 326,
+            "_Exp_Factor": 281640
+        },
+        {
+            "_Id": 327,
+            "_Point": 327,
+            "_Exp_Factor": 282540
+        },
+        {
+            "_Id": 328,
+            "_Point": 328,
+            "_Exp_Factor": 283380
+        },
+        {
+            "_Id": 329,
+            "_Point": 329,
+            "_Exp_Factor": 284280
+        },
+        {
+            "_Id": 330,
+            "_Point": 330,
+            "_Exp_Factor": 285120
+        },
+        {
+            "_Id": 331,
+            "_Point": 331,
+            "_Exp_Factor": 285960
+        },
+        {
+            "_Id": 332,
+            "_Point": 332,
+            "_Exp_Factor": 286860
+        },
+        {
+            "_Id": 333,
+            "_Point": 333,
+            "_Exp_Factor": 287700
+        },
+        {
+            "_Id": 334,
+            "_Point": 334,
+            "_Exp_Factor": 288600
+        },
+        {
+            "_Id": 335,
+            "_Point": 335,
+            "_Exp_Factor": 289440
+        },
+        {
+            "_Id": 336,
+            "_Point": 336,
+            "_Exp_Factor": 290280
+        },
+        {
+            "_Id": 337,
+            "_Point": 337,
+            "_Exp_Factor": 291180
+        },
+        {
+            "_Id": 338,
+            "_Point": 338,
+            "_Exp_Factor": 292020
+        },
+        {
+            "_Id": 339,
+            "_Point": 339,
+            "_Exp_Factor": 292920
+        },
+        {
+            "_Id": 340,
+            "_Point": 340,
+            "_Exp_Factor": 293760
+        },
+        {
+            "_Id": 341,
+            "_Point": 341,
+            "_Exp_Factor": 294600
+        },
+        {
+            "_Id": 342,
+            "_Point": 342,
+            "_Exp_Factor": 295500
+        },
+        {
+            "_Id": 343,
+            "_Point": 343,
+            "_Exp_Factor": 296340
+        },
+        {
+            "_Id": 344,
+            "_Point": 344,
+            "_Exp_Factor": 297240
+        },
+        {
+            "_Id": 345,
+            "_Point": 345,
+            "_Exp_Factor": 298080
+        },
+        {
+            "_Id": 346,
+            "_Point": 346,
+            "_Exp_Factor": 298920
+        },
+        {
+            "_Id": 347,
+            "_Point": 347,
+            "_Exp_Factor": 299820
+        },
+        {
+            "_Id": 348,
+            "_Point": 348,
+            "_Exp_Factor": 300660
+        },
+        {
+            "_Id": 349,
+            "_Point": 349,
+            "_Exp_Factor": 301560
+        },
+        {
+            "_Id": 350,
+            "_Point": 350,
+            "_Exp_Factor": 302400
+        },
+        {
+            "_Id": 351,
+            "_Point": 351,
+            "_Exp_Factor": 303240
+        },
+        {
+            "_Id": 352,
+            "_Point": 352,
+            "_Exp_Factor": 304140
+        },
+        {
+            "_Id": 353,
+            "_Point": 353,
+            "_Exp_Factor": 304980
+        },
+        {
+            "_Id": 354,
+            "_Point": 354,
+            "_Exp_Factor": 305880
+        },
+        {
+            "_Id": 355,
+            "_Point": 355,
+            "_Exp_Factor": 306720
+        },
+        {
+            "_Id": 356,
+            "_Point": 356,
+            "_Exp_Factor": 307560
+        },
+        {
+            "_Id": 357,
+            "_Point": 357,
+            "_Exp_Factor": 308460
+        },
+        {
+            "_Id": 358,
+            "_Point": 358,
+            "_Exp_Factor": 309300
+        },
+        {
+            "_Id": 359,
+            "_Point": 359,
+            "_Exp_Factor": 310200
+        },
+        {
+            "_Id": 360,
+            "_Point": 360,
+            "_Exp_Factor": 311040
+        },
+        {
+            "_Id": 361,
+            "_Point": 361,
+            "_Exp_Factor": 311880
+        },
+        {
+            "_Id": 362,
+            "_Point": 362,
+            "_Exp_Factor": 312780
+        },
+        {
+            "_Id": 363,
+            "_Point": 363,
+            "_Exp_Factor": 313620
+        },
+        {
+            "_Id": 364,
+            "_Point": 364,
+            "_Exp_Factor": 314520
+        },
+        {
+            "_Id": 365,
+            "_Point": 365,
+            "_Exp_Factor": 315360
+        },
+        {
+            "_Id": 366,
+            "_Point": 366,
+            "_Exp_Factor": 316200
+        },
+        {
+            "_Id": 367,
+            "_Point": 367,
+            "_Exp_Factor": 317100
+        },
+        {
+            "_Id": 368,
+            "_Point": 368,
+            "_Exp_Factor": 317940
+        },
+        {
+            "_Id": 369,
+            "_Point": 369,
+            "_Exp_Factor": 318840
+        },
+        {
+            "_Id": 370,
+            "_Point": 370,
+            "_Exp_Factor": 319680
+        },
+        {
+            "_Id": 371,
+            "_Point": 371,
+            "_Exp_Factor": 320520
+        },
+        {
+            "_Id": 372,
+            "_Point": 372,
+            "_Exp_Factor": 321420
+        },
+        {
+            "_Id": 373,
+            "_Point": 373,
+            "_Exp_Factor": 322260
+        },
+        {
+            "_Id": 374,
+            "_Point": 374,
+            "_Exp_Factor": 323160
+        },
+        {
+            "_Id": 375,
+            "_Point": 375,
+            "_Exp_Factor": 324000
+        },
+        {
+            "_Id": 376,
+            "_Point": 376,
+            "_Exp_Factor": 324840
+        },
+        {
+            "_Id": 377,
+            "_Point": 377,
+            "_Exp_Factor": 325740
+        },
+        {
+            "_Id": 378,
+            "_Point": 378,
+            "_Exp_Factor": 326580
+        },
+        {
+            "_Id": 379,
+            "_Point": 379,
+            "_Exp_Factor": 327480
+        },
+        {
+            "_Id": 380,
+            "_Point": 380,
+            "_Exp_Factor": 328320
+        },
+        {
+            "_Id": 381,
+            "_Point": 381,
+            "_Exp_Factor": 329160
+        },
+        {
+            "_Id": 382,
+            "_Point": 382,
+            "_Exp_Factor": 330060
+        },
+        {
+            "_Id": 383,
+            "_Point": 383,
+            "_Exp_Factor": 330900
+        },
+        {
+            "_Id": 384,
+            "_Point": 384,
+            "_Exp_Factor": 331800
+        },
+        {
+            "_Id": 385,
+            "_Point": 385,
+            "_Exp_Factor": 332640
+        },
+        {
+            "_Id": 386,
+            "_Point": 386,
+            "_Exp_Factor": 333480
+        },
+        {
+            "_Id": 387,
+            "_Point": 387,
+            "_Exp_Factor": 334380
+        },
+        {
+            "_Id": 388,
+            "_Point": 388,
+            "_Exp_Factor": 335220
+        },
+        {
+            "_Id": 389,
+            "_Point": 389,
+            "_Exp_Factor": 336120
+        },
+        {
+            "_Id": 390,
+            "_Point": 390,
+            "_Exp_Factor": 336960
+        },
+        {
+            "_Id": 391,
+            "_Point": 391,
+            "_Exp_Factor": 337800
+        },
+        {
+            "_Id": 392,
+            "_Point": 392,
+            "_Exp_Factor": 338700
+        },
+        {
+            "_Id": 393,
+            "_Point": 393,
+            "_Exp_Factor": 339540
+        },
+        {
+            "_Id": 394,
+            "_Point": 394,
+            "_Exp_Factor": 340440
+        },
+        {
+            "_Id": 395,
+            "_Point": 395,
+            "_Exp_Factor": 341280
+        },
+        {
+            "_Id": 396,
+            "_Point": 396,
+            "_Exp_Factor": 342120
+        },
+        {
+            "_Id": 397,
+            "_Point": 397,
+            "_Exp_Factor": 343020
+        },
+        {
+            "_Id": 398,
+            "_Point": 398,
+            "_Exp_Factor": 343860
+        },
+        {
+            "_Id": 399,
+            "_Point": 399,
+            "_Exp_Factor": 344760
+        },
+        {
+            "_Id": 400,
+            "_Point": 400,
+            "_Exp_Factor": 345600
+        },
+        {
+            "_Id": 401,
+            "_Point": 401,
+            "_Exp_Factor": 365700
+        },
+        {
+            "_Id": 402,
+            "_Point": 402,
+            "_Exp_Factor": 366600
+        },
+        {
+            "_Id": 403,
+            "_Point": 403,
+            "_Exp_Factor": 367560
+        },
+        {
+            "_Id": 404,
+            "_Point": 404,
+            "_Exp_Factor": 368460
+        },
+        {
+            "_Id": 405,
+            "_Point": 405,
+            "_Exp_Factor": 369360
+        },
+        {
+            "_Id": 406,
+            "_Point": 406,
+            "_Exp_Factor": 370260
+        },
+        {
+            "_Id": 407,
+            "_Point": 407,
+            "_Exp_Factor": 371160
+        },
+        {
+            "_Id": 408,
+            "_Point": 408,
+            "_Exp_Factor": 372120
+        },
+        {
+            "_Id": 409,
+            "_Point": 409,
+            "_Exp_Factor": 373020
+        },
+        {
+            "_Id": 410,
+            "_Point": 410,
+            "_Exp_Factor": 373920
+        },
+        {
+            "_Id": 411,
+            "_Point": 411,
+            "_Exp_Factor": 374820
+        },
+        {
+            "_Id": 412,
+            "_Point": 412,
+            "_Exp_Factor": 375720
+        },
+        {
+            "_Id": 413,
+            "_Point": 413,
+            "_Exp_Factor": 376680
+        },
+        {
+            "_Id": 414,
+            "_Point": 414,
+            "_Exp_Factor": 377580
+        },
+        {
+            "_Id": 415,
+            "_Point": 415,
+            "_Exp_Factor": 378480
+        },
+        {
+            "_Id": 416,
+            "_Point": 416,
+            "_Exp_Factor": 379380
+        },
+        {
+            "_Id": 417,
+            "_Point": 417,
+            "_Exp_Factor": 380280
+        },
+        {
+            "_Id": 418,
+            "_Point": 418,
+            "_Exp_Factor": 381240
+        },
+        {
+            "_Id": 419,
+            "_Point": 419,
+            "_Exp_Factor": 382140
+        },
+        {
+            "_Id": 420,
+            "_Point": 420,
+            "_Exp_Factor": 383040
+        },
+        {
+            "_Id": 421,
+            "_Point": 421,
+            "_Exp_Factor": 383940
+        },
+        {
+            "_Id": 422,
+            "_Point": 422,
+            "_Exp_Factor": 384840
+        },
+        {
+            "_Id": 423,
+            "_Point": 423,
+            "_Exp_Factor": 385800
+        },
+        {
+            "_Id": 424,
+            "_Point": 424,
+            "_Exp_Factor": 386700
+        },
+        {
+            "_Id": 425,
+            "_Point": 425,
+            "_Exp_Factor": 387600
+        },
+        {
+            "_Id": 426,
+            "_Point": 426,
+            "_Exp_Factor": 388500
+        },
+        {
+            "_Id": 427,
+            "_Point": 427,
+            "_Exp_Factor": 389400
+        },
+        {
+            "_Id": 428,
+            "_Point": 428,
+            "_Exp_Factor": 390360
+        },
+        {
+            "_Id": 429,
+            "_Point": 429,
+            "_Exp_Factor": 391260
+        },
+        {
+            "_Id": 430,
+            "_Point": 430,
+            "_Exp_Factor": 392160
+        },
+        {
+            "_Id": 431,
+            "_Point": 431,
+            "_Exp_Factor": 393060
+        },
+        {
+            "_Id": 432,
+            "_Point": 432,
+            "_Exp_Factor": 393960
+        },
+        {
+            "_Id": 433,
+            "_Point": 433,
+            "_Exp_Factor": 394920
+        },
+        {
+            "_Id": 434,
+            "_Point": 434,
+            "_Exp_Factor": 395820
+        },
+        {
+            "_Id": 435,
+            "_Point": 435,
+            "_Exp_Factor": 396720
+        },
+        {
+            "_Id": 436,
+            "_Point": 436,
+            "_Exp_Factor": 397620
+        },
+        {
+            "_Id": 437,
+            "_Point": 437,
+            "_Exp_Factor": 398520
+        },
+        {
+            "_Id": 438,
+            "_Point": 438,
+            "_Exp_Factor": 399480
+        },
+        {
+            "_Id": 439,
+            "_Point": 439,
+            "_Exp_Factor": 400380
+        },
+        {
+            "_Id": 440,
+            "_Point": 440,
+            "_Exp_Factor": 401280
+        },
+        {
+            "_Id": 441,
+            "_Point": 441,
+            "_Exp_Factor": 402180
+        },
+        {
+            "_Id": 442,
+            "_Point": 442,
+            "_Exp_Factor": 403080
+        },
+        {
+            "_Id": 443,
+            "_Point": 443,
+            "_Exp_Factor": 404040
+        },
+        {
+            "_Id": 444,
+            "_Point": 444,
+            "_Exp_Factor": 404940
+        },
+        {
+            "_Id": 445,
+            "_Point": 445,
+            "_Exp_Factor": 405840
+        },
+        {
+            "_Id": 446,
+            "_Point": 446,
+            "_Exp_Factor": 406740
+        },
+        {
+            "_Id": 447,
+            "_Point": 447,
+            "_Exp_Factor": 407640
+        },
+        {
+            "_Id": 448,
+            "_Point": 448,
+            "_Exp_Factor": 408600
+        },
+        {
+            "_Id": 449,
+            "_Point": 449,
+            "_Exp_Factor": 409500
+        },
+        {
+            "_Id": 450,
+            "_Point": 450,
+            "_Exp_Factor": 410400
+        },
+        {
+            "_Id": 451,
+            "_Point": 451,
+            "_Exp_Factor": 411300
+        },
+        {
+            "_Id": 452,
+            "_Point": 452,
+            "_Exp_Factor": 412200
+        },
+        {
+            "_Id": 453,
+            "_Point": 453,
+            "_Exp_Factor": 413160
+        },
+        {
+            "_Id": 454,
+            "_Point": 454,
+            "_Exp_Factor": 414060
+        },
+        {
+            "_Id": 455,
+            "_Point": 455,
+            "_Exp_Factor": 414960
+        },
+        {
+            "_Id": 456,
+            "_Point": 456,
+            "_Exp_Factor": 415860
+        },
+        {
+            "_Id": 457,
+            "_Point": 457,
+            "_Exp_Factor": 416760
+        },
+        {
+            "_Id": 458,
+            "_Point": 458,
+            "_Exp_Factor": 417720
+        },
+        {
+            "_Id": 459,
+            "_Point": 459,
+            "_Exp_Factor": 418620
+        },
+        {
+            "_Id": 460,
+            "_Point": 460,
+            "_Exp_Factor": 419520
+        },
+        {
+            "_Id": 461,
+            "_Point": 461,
+            "_Exp_Factor": 420420
+        },
+        {
+            "_Id": 462,
+            "_Point": 462,
+            "_Exp_Factor": 421320
+        },
+        {
+            "_Id": 463,
+            "_Point": 463,
+            "_Exp_Factor": 422280
+        },
+        {
+            "_Id": 464,
+            "_Point": 464,
+            "_Exp_Factor": 423180
+        },
+        {
+            "_Id": 465,
+            "_Point": 465,
+            "_Exp_Factor": 424080
+        },
+        {
+            "_Id": 466,
+            "_Point": 466,
+            "_Exp_Factor": 424980
+        },
+        {
+            "_Id": 467,
+            "_Point": 467,
+            "_Exp_Factor": 425880
+        },
+        {
+            "_Id": 468,
+            "_Point": 468,
+            "_Exp_Factor": 426840
+        },
+        {
+            "_Id": 469,
+            "_Point": 469,
+            "_Exp_Factor": 427740
+        },
+        {
+            "_Id": 470,
+            "_Point": 470,
+            "_Exp_Factor": 428640
+        },
+        {
+            "_Id": 471,
+            "_Point": 471,
+            "_Exp_Factor": 429540
+        },
+        {
+            "_Id": 472,
+            "_Point": 472,
+            "_Exp_Factor": 430440
+        },
+        {
+            "_Id": 473,
+            "_Point": 473,
+            "_Exp_Factor": 431400
+        },
+        {
+            "_Id": 474,
+            "_Point": 474,
+            "_Exp_Factor": 432300
+        },
+        {
+            "_Id": 475,
+            "_Point": 475,
+            "_Exp_Factor": 433200
+        },
+        {
+            "_Id": 476,
+            "_Point": 476,
+            "_Exp_Factor": 434100
+        },
+        {
+            "_Id": 477,
+            "_Point": 477,
+            "_Exp_Factor": 435000
+        },
+        {
+            "_Id": 478,
+            "_Point": 478,
+            "_Exp_Factor": 435960
+        },
+        {
+            "_Id": 479,
+            "_Point": 479,
+            "_Exp_Factor": 436860
+        },
+        {
+            "_Id": 480,
+            "_Point": 480,
+            "_Exp_Factor": 437760
+        },
+        {
+            "_Id": 481,
+            "_Point": 481,
+            "_Exp_Factor": 438660
+        },
+        {
+            "_Id": 482,
+            "_Point": 482,
+            "_Exp_Factor": 439560
+        },
+        {
+            "_Id": 483,
+            "_Point": 483,
+            "_Exp_Factor": 440520
+        },
+        {
+            "_Id": 484,
+            "_Point": 484,
+            "_Exp_Factor": 441420
+        },
+        {
+            "_Id": 485,
+            "_Point": 485,
+            "_Exp_Factor": 442320
+        },
+        {
+            "_Id": 486,
+            "_Point": 486,
+            "_Exp_Factor": 443220
+        },
+        {
+            "_Id": 487,
+            "_Point": 487,
+            "_Exp_Factor": 444120
+        },
+        {
+            "_Id": 488,
+            "_Point": 488,
+            "_Exp_Factor": 445080
+        },
+        {
+            "_Id": 489,
+            "_Point": 489,
+            "_Exp_Factor": 445980
+        },
+        {
+            "_Id": 490,
+            "_Point": 490,
+            "_Exp_Factor": 446880
+        },
+        {
+            "_Id": 491,
+            "_Point": 491,
+            "_Exp_Factor": 447780
+        },
+        {
+            "_Id": 492,
+            "_Point": 492,
+            "_Exp_Factor": 448680
+        },
+        {
+            "_Id": 493,
+            "_Point": 493,
+            "_Exp_Factor": 449640
+        },
+        {
+            "_Id": 494,
+            "_Point": 494,
+            "_Exp_Factor": 450540
+        },
+        {
+            "_Id": 495,
+            "_Point": 495,
+            "_Exp_Factor": 451440
+        },
+        {
+            "_Id": 496,
+            "_Point": 496,
+            "_Exp_Factor": 452340
+        },
+        {
+            "_Id": 497,
+            "_Point": 497,
+            "_Exp_Factor": 453240
+        },
+        {
+            "_Id": 498,
+            "_Point": 498,
+            "_Exp_Factor": 454200
+        },
+        {
+            "_Id": 499,
+            "_Point": 499,
+            "_Exp_Factor": 455100
+        },
+        {
+            "_Id": 500,
+            "_Point": 500,
+            "_Exp_Factor": 456000
+        },
+        {
+            "_Id": 501,
+            "_Point": 501,
+            "_Exp_Factor": 480960
+        },
+        {
+            "_Id": 502,
+            "_Point": 502,
+            "_Exp_Factor": 481920
+        },
+        {
+            "_Id": 503,
+            "_Point": 503,
+            "_Exp_Factor": 482880
+        },
+        {
+            "_Id": 504,
+            "_Point": 504,
+            "_Exp_Factor": 483840
+        },
+        {
+            "_Id": 505,
+            "_Point": 505,
+            "_Exp_Factor": 484800
+        },
+        {
+            "_Id": 506,
+            "_Point": 506,
+            "_Exp_Factor": 485760
+        },
+        {
+            "_Id": 507,
+            "_Point": 507,
+            "_Exp_Factor": 486720
+        },
+        {
+            "_Id": 508,
+            "_Point": 508,
+            "_Exp_Factor": 487680
+        },
+        {
+            "_Id": 509,
+            "_Point": 509,
+            "_Exp_Factor": 488640
+        },
+        {
+            "_Id": 510,
+            "_Point": 510,
+            "_Exp_Factor": 489600
+        },
+        {
+            "_Id": 511,
+            "_Point": 511,
+            "_Exp_Factor": 490560
+        },
+        {
+            "_Id": 512,
+            "_Point": 512,
+            "_Exp_Factor": 491520
+        },
+        {
+            "_Id": 513,
+            "_Point": 513,
+            "_Exp_Factor": 492480
+        },
+        {
+            "_Id": 514,
+            "_Point": 514,
+            "_Exp_Factor": 493440
+        },
+        {
+            "_Id": 515,
+            "_Point": 515,
+            "_Exp_Factor": 494400
+        },
+        {
+            "_Id": 516,
+            "_Point": 516,
+            "_Exp_Factor": 495360
+        },
+        {
+            "_Id": 517,
+            "_Point": 517,
+            "_Exp_Factor": 496320
+        },
+        {
+            "_Id": 518,
+            "_Point": 518,
+            "_Exp_Factor": 497280
+        },
+        {
+            "_Id": 519,
+            "_Point": 519,
+            "_Exp_Factor": 498240
+        },
+        {
+            "_Id": 520,
+            "_Point": 520,
+            "_Exp_Factor": 499200
+        },
+        {
+            "_Id": 521,
+            "_Point": 521,
+            "_Exp_Factor": 500160
+        },
+        {
+            "_Id": 522,
+            "_Point": 522,
+            "_Exp_Factor": 501120
+        },
+        {
+            "_Id": 523,
+            "_Point": 523,
+            "_Exp_Factor": 502080
+        },
+        {
+            "_Id": 524,
+            "_Point": 524,
+            "_Exp_Factor": 503040
+        },
+        {
+            "_Id": 525,
+            "_Point": 525,
+            "_Exp_Factor": 504000
+        },
+        {
+            "_Id": 526,
+            "_Point": 526,
+            "_Exp_Factor": 504960
+        },
+        {
+            "_Id": 527,
+            "_Point": 527,
+            "_Exp_Factor": 505920
+        },
+        {
+            "_Id": 528,
+            "_Point": 528,
+            "_Exp_Factor": 506880
+        },
+        {
+            "_Id": 529,
+            "_Point": 529,
+            "_Exp_Factor": 507840
+        },
+        {
+            "_Id": 530,
+            "_Point": 530,
+            "_Exp_Factor": 508800
+        },
+        {
+            "_Id": 531,
+            "_Point": 531,
+            "_Exp_Factor": 509760
+        },
+        {
+            "_Id": 532,
+            "_Point": 532,
+            "_Exp_Factor": 510720
+        },
+        {
+            "_Id": 533,
+            "_Point": 533,
+            "_Exp_Factor": 511680
+        },
+        {
+            "_Id": 534,
+            "_Point": 534,
+            "_Exp_Factor": 512640
+        },
+        {
+            "_Id": 535,
+            "_Point": 535,
+            "_Exp_Factor": 513600
+        },
+        {
+            "_Id": 536,
+            "_Point": 536,
+            "_Exp_Factor": 514560
+        },
+        {
+            "_Id": 537,
+            "_Point": 537,
+            "_Exp_Factor": 515520
+        },
+        {
+            "_Id": 538,
+            "_Point": 538,
+            "_Exp_Factor": 516480
+        },
+        {
+            "_Id": 539,
+            "_Point": 539,
+            "_Exp_Factor": 517440
+        },
+        {
+            "_Id": 540,
+            "_Point": 540,
+            "_Exp_Factor": 518400
+        },
+        {
+            "_Id": 541,
+            "_Point": 541,
+            "_Exp_Factor": 519360
+        },
+        {
+            "_Id": 542,
+            "_Point": 542,
+            "_Exp_Factor": 520320
+        },
+        {
+            "_Id": 543,
+            "_Point": 543,
+            "_Exp_Factor": 521280
+        },
+        {
+            "_Id": 544,
+            "_Point": 544,
+            "_Exp_Factor": 522240
+        },
+        {
+            "_Id": 545,
+            "_Point": 545,
+            "_Exp_Factor": 523200
+        },
+        {
+            "_Id": 546,
+            "_Point": 546,
+            "_Exp_Factor": 524160
+        },
+        {
+            "_Id": 547,
+            "_Point": 547,
+            "_Exp_Factor": 525120
+        },
+        {
+            "_Id": 548,
+            "_Point": 548,
+            "_Exp_Factor": 526080
+        },
+        {
+            "_Id": 549,
+            "_Point": 549,
+            "_Exp_Factor": 527040
+        },
+        {
+            "_Id": 550,
+            "_Point": 550,
+            "_Exp_Factor": 528000
+        },
+        {
+            "_Id": 551,
+            "_Point": 551,
+            "_Exp_Factor": 528960
+        },
+        {
+            "_Id": 552,
+            "_Point": 552,
+            "_Exp_Factor": 529920
+        },
+        {
+            "_Id": 553,
+            "_Point": 553,
+            "_Exp_Factor": 530880
+        },
+        {
+            "_Id": 554,
+            "_Point": 554,
+            "_Exp_Factor": 531840
+        },
+        {
+            "_Id": 555,
+            "_Point": 555,
+            "_Exp_Factor": 532800
+        },
+        {
+            "_Id": 556,
+            "_Point": 556,
+            "_Exp_Factor": 533760
+        },
+        {
+            "_Id": 557,
+            "_Point": 557,
+            "_Exp_Factor": 534720
+        },
+        {
+            "_Id": 558,
+            "_Point": 558,
+            "_Exp_Factor": 535680
+        },
+        {
+            "_Id": 559,
+            "_Point": 559,
+            "_Exp_Factor": 536640
+        },
+        {
+            "_Id": 560,
+            "_Point": 560,
+            "_Exp_Factor": 537600
+        },
+        {
+            "_Id": 561,
+            "_Point": 561,
+            "_Exp_Factor": 538560
+        },
+        {
+            "_Id": 562,
+            "_Point": 562,
+            "_Exp_Factor": 539520
+        },
+        {
+            "_Id": 563,
+            "_Point": 563,
+            "_Exp_Factor": 540480
+        },
+        {
+            "_Id": 564,
+            "_Point": 564,
+            "_Exp_Factor": 541440
+        },
+        {
+            "_Id": 565,
+            "_Point": 565,
+            "_Exp_Factor": 542400
+        },
+        {
+            "_Id": 566,
+            "_Point": 566,
+            "_Exp_Factor": 543360
+        },
+        {
+            "_Id": 567,
+            "_Point": 567,
+            "_Exp_Factor": 544320
+        },
+        {
+            "_Id": 568,
+            "_Point": 568,
+            "_Exp_Factor": 545280
+        },
+        {
+            "_Id": 569,
+            "_Point": 569,
+            "_Exp_Factor": 546240
+        },
+        {
+            "_Id": 570,
+            "_Point": 570,
+            "_Exp_Factor": 547200
+        },
+        {
+            "_Id": 571,
+            "_Point": 571,
+            "_Exp_Factor": 548160
+        },
+        {
+            "_Id": 572,
+            "_Point": 572,
+            "_Exp_Factor": 549120
+        },
+        {
+            "_Id": 573,
+            "_Point": 573,
+            "_Exp_Factor": 550080
+        },
+        {
+            "_Id": 574,
+            "_Point": 574,
+            "_Exp_Factor": 551040
+        },
+        {
+            "_Id": 575,
+            "_Point": 575,
+            "_Exp_Factor": 552000
+        },
+        {
+            "_Id": 576,
+            "_Point": 576,
+            "_Exp_Factor": 552960
+        },
+        {
+            "_Id": 577,
+            "_Point": 577,
+            "_Exp_Factor": 553920
+        },
+        {
+            "_Id": 578,
+            "_Point": 578,
+            "_Exp_Factor": 554880
+        },
+        {
+            "_Id": 579,
+            "_Point": 579,
+            "_Exp_Factor": 555840
+        },
+        {
+            "_Id": 580,
+            "_Point": 580,
+            "_Exp_Factor": 556800
+        },
+        {
+            "_Id": 581,
+            "_Point": 581,
+            "_Exp_Factor": 557760
+        },
+        {
+            "_Id": 582,
+            "_Point": 582,
+            "_Exp_Factor": 558720
+        },
+        {
+            "_Id": 583,
+            "_Point": 583,
+            "_Exp_Factor": 559680
+        },
+        {
+            "_Id": 584,
+            "_Point": 584,
+            "_Exp_Factor": 560640
+        },
+        {
+            "_Id": 585,
+            "_Point": 585,
+            "_Exp_Factor": 561600
+        },
+        {
+            "_Id": 586,
+            "_Point": 586,
+            "_Exp_Factor": 562560
+        },
+        {
+            "_Id": 587,
+            "_Point": 587,
+            "_Exp_Factor": 563520
+        },
+        {
+            "_Id": 588,
+            "_Point": 588,
+            "_Exp_Factor": 564480
+        },
+        {
+            "_Id": 589,
+            "_Point": 589,
+            "_Exp_Factor": 565440
+        },
+        {
+            "_Id": 590,
+            "_Point": 590,
+            "_Exp_Factor": 566400
+        },
+        {
+            "_Id": 591,
+            "_Point": 591,
+            "_Exp_Factor": 567360
+        },
+        {
+            "_Id": 592,
+            "_Point": 592,
+            "_Exp_Factor": 568320
+        },
+        {
+            "_Id": 593,
+            "_Point": 593,
+            "_Exp_Factor": 569280
+        },
+        {
+            "_Id": 594,
+            "_Point": 594,
+            "_Exp_Factor": 570240
+        },
+        {
+            "_Id": 595,
+            "_Point": 595,
+            "_Exp_Factor": 571200
+        },
+        {
+            "_Id": 596,
+            "_Point": 596,
+            "_Exp_Factor": 572160
+        },
+        {
+            "_Id": 597,
+            "_Point": 597,
+            "_Exp_Factor": 573120
+        },
+        {
+            "_Id": 598,
+            "_Point": 598,
+            "_Exp_Factor": 574080
+        },
+        {
+            "_Id": 599,
+            "_Point": 599,
+            "_Exp_Factor": 575040
+        },
+        {
+            "_Id": 600,
+            "_Point": 600,
+            "_Exp_Factor": 576000
+        },
+        {
+            "_Id": 601,
+            "_Point": 601,
+            "_Exp_Factor": 720000
+        },
+        {
+            "_Id": 602,
+            "_Point": 602,
+            "_Exp_Factor": 721120
+        },
+        {
+            "_Id": 603,
+            "_Point": 603,
+            "_Exp_Factor": 722240
+        },
+        {
+            "_Id": 604,
+            "_Point": 604,
+            "_Exp_Factor": 723360
+        },
+        {
+            "_Id": 605,
+            "_Point": 605,
+            "_Exp_Factor": 724480
+        },
+        {
+            "_Id": 606,
+            "_Point": 606,
+            "_Exp_Factor": 725600
+        },
+        {
+            "_Id": 607,
+            "_Point": 607,
+            "_Exp_Factor": 726720
+        },
+        {
+            "_Id": 608,
+            "_Point": 608,
+            "_Exp_Factor": 727840
+        },
+        {
+            "_Id": 609,
+            "_Point": 609,
+            "_Exp_Factor": 728960
+        },
+        {
+            "_Id": 610,
+            "_Point": 610,
+            "_Exp_Factor": 730080
+        },
+        {
+            "_Id": 611,
+            "_Point": 611,
+            "_Exp_Factor": 731200
+        },
+        {
+            "_Id": 612,
+            "_Point": 612,
+            "_Exp_Factor": 732320
+        },
+        {
+            "_Id": 613,
+            "_Point": 613,
+            "_Exp_Factor": 733440
+        },
+        {
+            "_Id": 614,
+            "_Point": 614,
+            "_Exp_Factor": 734560
+        },
+        {
+            "_Id": 615,
+            "_Point": 615,
+            "_Exp_Factor": 735680
+        },
+        {
+            "_Id": 616,
+            "_Point": 616,
+            "_Exp_Factor": 736800
+        },
+        {
+            "_Id": 617,
+            "_Point": 617,
+            "_Exp_Factor": 737920
+        },
+        {
+            "_Id": 618,
+            "_Point": 618,
+            "_Exp_Factor": 739040
+        },
+        {
+            "_Id": 619,
+            "_Point": 619,
+            "_Exp_Factor": 740160
+        },
+        {
+            "_Id": 620,
+            "_Point": 620,
+            "_Exp_Factor": 741280
+        },
+        {
+            "_Id": 621,
+            "_Point": 621,
+            "_Exp_Factor": 742400
+        },
+        {
+            "_Id": 622,
+            "_Point": 622,
+            "_Exp_Factor": 743520
+        },
+        {
+            "_Id": 623,
+            "_Point": 623,
+            "_Exp_Factor": 744640
+        },
+        {
+            "_Id": 624,
+            "_Point": 624,
+            "_Exp_Factor": 745760
+        },
+        {
+            "_Id": 625,
+            "_Point": 625,
+            "_Exp_Factor": 746880
+        },
+        {
+            "_Id": 626,
+            "_Point": 626,
+            "_Exp_Factor": 748000
+        },
+        {
+            "_Id": 627,
+            "_Point": 627,
+            "_Exp_Factor": 749120
+        },
+        {
+            "_Id": 628,
+            "_Point": 628,
+            "_Exp_Factor": 750240
+        },
+        {
+            "_Id": 629,
+            "_Point": 629,
+            "_Exp_Factor": 751360
+        },
+        {
+            "_Id": 630,
+            "_Point": 630,
+            "_Exp_Factor": 752480
+        },
+        {
+            "_Id": 631,
+            "_Point": 631,
+            "_Exp_Factor": 753600
+        },
+        {
+            "_Id": 632,
+            "_Point": 632,
+            "_Exp_Factor": 754720
+        },
+        {
+            "_Id": 633,
+            "_Point": 633,
+            "_Exp_Factor": 755840
+        },
+        {
+            "_Id": 634,
+            "_Point": 634,
+            "_Exp_Factor": 756960
+        },
+        {
+            "_Id": 635,
+            "_Point": 635,
+            "_Exp_Factor": 758080
+        },
+        {
+            "_Id": 636,
+            "_Point": 636,
+            "_Exp_Factor": 759200
+        },
+        {
+            "_Id": 637,
+            "_Point": 637,
+            "_Exp_Factor": 760320
+        },
+        {
+            "_Id": 638,
+            "_Point": 638,
+            "_Exp_Factor": 761440
+        },
+        {
+            "_Id": 639,
+            "_Point": 639,
+            "_Exp_Factor": 762560
+        },
+        {
+            "_Id": 640,
+            "_Point": 640,
+            "_Exp_Factor": 763680
+        },
+        {
+            "_Id": 641,
+            "_Point": 641,
+            "_Exp_Factor": 764800
+        },
+        {
+            "_Id": 642,
+            "_Point": 642,
+            "_Exp_Factor": 765920
+        },
+        {
+            "_Id": 643,
+            "_Point": 643,
+            "_Exp_Factor": 767040
+        },
+        {
+            "_Id": 644,
+            "_Point": 644,
+            "_Exp_Factor": 768160
+        },
+        {
+            "_Id": 645,
+            "_Point": 645,
+            "_Exp_Factor": 769280
+        },
+        {
+            "_Id": 646,
+            "_Point": 646,
+            "_Exp_Factor": 770400
+        },
+        {
+            "_Id": 647,
+            "_Point": 647,
+            "_Exp_Factor": 771520
+        },
+        {
+            "_Id": 648,
+            "_Point": 648,
+            "_Exp_Factor": 772640
+        },
+        {
+            "_Id": 649,
+            "_Point": 649,
+            "_Exp_Factor": 773760
+        },
+        {
+            "_Id": 650,
+            "_Point": 650,
+            "_Exp_Factor": 774880
+        },
+        {
+            "_Id": 651,
+            "_Point": 651,
+            "_Exp_Factor": 776000
+        },
+        {
+            "_Id": 652,
+            "_Point": 652,
+            "_Exp_Factor": 777120
+        },
+        {
+            "_Id": 653,
+            "_Point": 653,
+            "_Exp_Factor": 778240
+        },
+        {
+            "_Id": 654,
+            "_Point": 654,
+            "_Exp_Factor": 779360
+        },
+        {
+            "_Id": 655,
+            "_Point": 655,
+            "_Exp_Factor": 780480
+        },
+        {
+            "_Id": 656,
+            "_Point": 656,
+            "_Exp_Factor": 781600
+        },
+        {
+            "_Id": 657,
+            "_Point": 657,
+            "_Exp_Factor": 782720
+        },
+        {
+            "_Id": 658,
+            "_Point": 658,
+            "_Exp_Factor": 783840
+        },
+        {
+            "_Id": 659,
+            "_Point": 659,
+            "_Exp_Factor": 784960
+        },
+        {
+            "_Id": 660,
+            "_Point": 660,
+            "_Exp_Factor": 786080
+        },
+        {
+            "_Id": 661,
+            "_Point": 661,
+            "_Exp_Factor": 787200
+        },
+        {
+            "_Id": 662,
+            "_Point": 662,
+            "_Exp_Factor": 788320
+        },
+        {
+            "_Id": 663,
+            "_Point": 663,
+            "_Exp_Factor": 789440
+        },
+        {
+            "_Id": 664,
+            "_Point": 664,
+            "_Exp_Factor": 790560
+        },
+        {
+            "_Id": 665,
+            "_Point": 665,
+            "_Exp_Factor": 791680
+        },
+        {
+            "_Id": 666,
+            "_Point": 666,
+            "_Exp_Factor": 792800
+        },
+        {
+            "_Id": 667,
+            "_Point": 667,
+            "_Exp_Factor": 793920
+        },
+        {
+            "_Id": 668,
+            "_Point": 668,
+            "_Exp_Factor": 795040
+        },
+        {
+            "_Id": 669,
+            "_Point": 669,
+            "_Exp_Factor": 796160
+        },
+        {
+            "_Id": 670,
+            "_Point": 670,
+            "_Exp_Factor": 797280
+        },
+        {
+            "_Id": 671,
+            "_Point": 671,
+            "_Exp_Factor": 798400
+        },
+        {
+            "_Id": 672,
+            "_Point": 672,
+            "_Exp_Factor": 799520
+        },
+        {
+            "_Id": 673,
+            "_Point": 673,
+            "_Exp_Factor": 800640
+        },
+        {
+            "_Id": 674,
+            "_Point": 674,
+            "_Exp_Factor": 801760
+        },
+        {
+            "_Id": 675,
+            "_Point": 675,
+            "_Exp_Factor": 802880
+        },
+        {
+            "_Id": 676,
+            "_Point": 676,
+            "_Exp_Factor": 804000
+        },
+        {
+            "_Id": 677,
+            "_Point": 677,
+            "_Exp_Factor": 805120
+        },
+        {
+            "_Id": 678,
+            "_Point": 678,
+            "_Exp_Factor": 806240
+        },
+        {
+            "_Id": 679,
+            "_Point": 679,
+            "_Exp_Factor": 807360
+        },
+        {
+            "_Id": 680,
+            "_Point": 680,
+            "_Exp_Factor": 808480
+        },
+        {
+            "_Id": 681,
+            "_Point": 681,
+            "_Exp_Factor": 809600
+        },
+        {
+            "_Id": 682,
+            "_Point": 682,
+            "_Exp_Factor": 810720
+        },
+        {
+            "_Id": 683,
+            "_Point": 683,
+            "_Exp_Factor": 811840
+        },
+        {
+            "_Id": 684,
+            "_Point": 684,
+            "_Exp_Factor": 812960
+        },
+        {
+            "_Id": 685,
+            "_Point": 685,
+            "_Exp_Factor": 814080
+        },
+        {
+            "_Id": 686,
+            "_Point": 686,
+            "_Exp_Factor": 815200
+        },
+        {
+            "_Id": 687,
+            "_Point": 687,
+            "_Exp_Factor": 816320
+        },
+        {
+            "_Id": 688,
+            "_Point": 688,
+            "_Exp_Factor": 817440
+        },
+        {
+            "_Id": 689,
+            "_Point": 689,
+            "_Exp_Factor": 818560
+        },
+        {
+            "_Id": 690,
+            "_Point": 690,
+            "_Exp_Factor": 819680
+        },
+        {
+            "_Id": 691,
+            "_Point": 691,
+            "_Exp_Factor": 820800
+        },
+        {
+            "_Id": 692,
+            "_Point": 692,
+            "_Exp_Factor": 821920
+        },
+        {
+            "_Id": 693,
+            "_Point": 693,
+            "_Exp_Factor": 823040
+        },
+        {
+            "_Id": 694,
+            "_Point": 694,
+            "_Exp_Factor": 824160
+        },
+        {
+            "_Id": 695,
+            "_Point": 695,
+            "_Exp_Factor": 825280
+        },
+        {
+            "_Id": 696,
+            "_Point": 696,
+            "_Exp_Factor": 826400
+        },
+        {
+            "_Id": 697,
+            "_Point": 697,
+            "_Exp_Factor": 827520
+        },
+        {
+            "_Id": 698,
+            "_Point": 698,
+            "_Exp_Factor": 828640
+        },
+        {
+            "_Id": 699,
+            "_Point": 699,
+            "_Exp_Factor": 829760
+        },
+        {
+            "_Id": 700,
+            "_Point": 700,
+            "_Exp_Factor": 830880
+        },
+        {
+            "_Id": 701,
+            "_Point": 701,
+            "_Exp_Factor": 900000
+        },
+        {
+            "_Id": 702,
+            "_Point": 702,
+            "_Exp_Factor": 901120
+        },
+        {
+            "_Id": 703,
+            "_Point": 703,
+            "_Exp_Factor": 902240
+        },
+        {
+            "_Id": 704,
+            "_Point": 704,
+            "_Exp_Factor": 903360
+        },
+        {
+            "_Id": 705,
+            "_Point": 705,
+            "_Exp_Factor": 904480
+        },
+        {
+            "_Id": 706,
+            "_Point": 706,
+            "_Exp_Factor": 905600
+        },
+        {
+            "_Id": 707,
+            "_Point": 707,
+            "_Exp_Factor": 906720
+        },
+        {
+            "_Id": 708,
+            "_Point": 708,
+            "_Exp_Factor": 907840
+        },
+        {
+            "_Id": 709,
+            "_Point": 709,
+            "_Exp_Factor": 908960
+        },
+        {
+            "_Id": 710,
+            "_Point": 710,
+            "_Exp_Factor": 910080
+        },
+        {
+            "_Id": 711,
+            "_Point": 711,
+            "_Exp_Factor": 911200
+        },
+        {
+            "_Id": 712,
+            "_Point": 712,
+            "_Exp_Factor": 912320
+        },
+        {
+            "_Id": 713,
+            "_Point": 713,
+            "_Exp_Factor": 913440
+        },
+        {
+            "_Id": 714,
+            "_Point": 714,
+            "_Exp_Factor": 914560
+        },
+        {
+            "_Id": 715,
+            "_Point": 715,
+            "_Exp_Factor": 915680
+        },
+        {
+            "_Id": 716,
+            "_Point": 716,
+            "_Exp_Factor": 916800
+        },
+        {
+            "_Id": 717,
+            "_Point": 717,
+            "_Exp_Factor": 917920
+        },
+        {
+            "_Id": 718,
+            "_Point": 718,
+            "_Exp_Factor": 919040
+        },
+        {
+            "_Id": 719,
+            "_Point": 719,
+            "_Exp_Factor": 920160
+        },
+        {
+            "_Id": 720,
+            "_Point": 720,
+            "_Exp_Factor": 921280
+        },
+        {
+            "_Id": 721,
+            "_Point": 721,
+            "_Exp_Factor": 922400
+        },
+        {
+            "_Id": 722,
+            "_Point": 722,
+            "_Exp_Factor": 923520
+        },
+        {
+            "_Id": 723,
+            "_Point": 723,
+            "_Exp_Factor": 924640
+        },
+        {
+            "_Id": 724,
+            "_Point": 724,
+            "_Exp_Factor": 925760
+        },
+        {
+            "_Id": 725,
+            "_Point": 725,
+            "_Exp_Factor": 926880
+        },
+        {
+            "_Id": 726,
+            "_Point": 726,
+            "_Exp_Factor": 928000
+        },
+        {
+            "_Id": 727,
+            "_Point": 727,
+            "_Exp_Factor": 929120
+        },
+        {
+            "_Id": 728,
+            "_Point": 728,
+            "_Exp_Factor": 930240
+        },
+        {
+            "_Id": 729,
+            "_Point": 729,
+            "_Exp_Factor": 931360
+        },
+        {
+            "_Id": 730,
+            "_Point": 730,
+            "_Exp_Factor": 932480
+        },
+        {
+            "_Id": 731,
+            "_Point": 731,
+            "_Exp_Factor": 933600
+        },
+        {
+            "_Id": 732,
+            "_Point": 732,
+            "_Exp_Factor": 934720
+        },
+        {
+            "_Id": 733,
+            "_Point": 733,
+            "_Exp_Factor": 935840
+        },
+        {
+            "_Id": 734,
+            "_Point": 734,
+            "_Exp_Factor": 936960
+        },
+        {
+            "_Id": 735,
+            "_Point": 735,
+            "_Exp_Factor": 938080
+        },
+        {
+            "_Id": 736,
+            "_Point": 736,
+            "_Exp_Factor": 939200
+        },
+        {
+            "_Id": 737,
+            "_Point": 737,
+            "_Exp_Factor": 940320
+        },
+        {
+            "_Id": 738,
+            "_Point": 738,
+            "_Exp_Factor": 941440
+        },
+        {
+            "_Id": 739,
+            "_Point": 739,
+            "_Exp_Factor": 942560
+        },
+        {
+            "_Id": 740,
+            "_Point": 740,
+            "_Exp_Factor": 943680
+        },
+        {
+            "_Id": 741,
+            "_Point": 741,
+            "_Exp_Factor": 944800
+        },
+        {
+            "_Id": 742,
+            "_Point": 742,
+            "_Exp_Factor": 945920
+        },
+        {
+            "_Id": 743,
+            "_Point": 743,
+            "_Exp_Factor": 947040
+        },
+        {
+            "_Id": 744,
+            "_Point": 744,
+            "_Exp_Factor": 948160
+        },
+        {
+            "_Id": 745,
+            "_Point": 745,
+            "_Exp_Factor": 949280
+        },
+        {
+            "_Id": 746,
+            "_Point": 746,
+            "_Exp_Factor": 950400
+        },
+        {
+            "_Id": 747,
+            "_Point": 747,
+            "_Exp_Factor": 951520
+        },
+        {
+            "_Id": 748,
+            "_Point": 748,
+            "_Exp_Factor": 952640
+        },
+        {
+            "_Id": 749,
+            "_Point": 749,
+            "_Exp_Factor": 953760
+        },
+        {
+            "_Id": 750,
+            "_Point": 750,
+            "_Exp_Factor": 954880
+        },
+        {
+            "_Id": 751,
+            "_Point": 751,
+            "_Exp_Factor": 956000
+        },
+        {
+            "_Id": 752,
+            "_Point": 752,
+            "_Exp_Factor": 957120
+        },
+        {
+            "_Id": 753,
+            "_Point": 753,
+            "_Exp_Factor": 958240
+        },
+        {
+            "_Id": 754,
+            "_Point": 754,
+            "_Exp_Factor": 959360
+        },
+        {
+            "_Id": 755,
+            "_Point": 755,
+            "_Exp_Factor": 960480
+        },
+        {
+            "_Id": 756,
+            "_Point": 756,
+            "_Exp_Factor": 961600
+        },
+        {
+            "_Id": 757,
+            "_Point": 757,
+            "_Exp_Factor": 962720
+        },
+        {
+            "_Id": 758,
+            "_Point": 758,
+            "_Exp_Factor": 963840
+        },
+        {
+            "_Id": 759,
+            "_Point": 759,
+            "_Exp_Factor": 964960
+        },
+        {
+            "_Id": 760,
+            "_Point": 760,
+            "_Exp_Factor": 966080
+        },
+        {
+            "_Id": 761,
+            "_Point": 761,
+            "_Exp_Factor": 967200
+        },
+        {
+            "_Id": 762,
+            "_Point": 762,
+            "_Exp_Factor": 968320
+        },
+        {
+            "_Id": 763,
+            "_Point": 763,
+            "_Exp_Factor": 969440
+        },
+        {
+            "_Id": 764,
+            "_Point": 764,
+            "_Exp_Factor": 970560
+        },
+        {
+            "_Id": 765,
+            "_Point": 765,
+            "_Exp_Factor": 971680
+        },
+        {
+            "_Id": 766,
+            "_Point": 766,
+            "_Exp_Factor": 972800
+        },
+        {
+            "_Id": 767,
+            "_Point": 767,
+            "_Exp_Factor": 973920
+        },
+        {
+            "_Id": 768,
+            "_Point": 768,
+            "_Exp_Factor": 975040
+        },
+        {
+            "_Id": 769,
+            "_Point": 769,
+            "_Exp_Factor": 976160
+        },
+        {
+            "_Id": 770,
+            "_Point": 770,
+            "_Exp_Factor": 977280
+        },
+        {
+            "_Id": 771,
+            "_Point": 771,
+            "_Exp_Factor": 978400
+        },
+        {
+            "_Id": 772,
+            "_Point": 772,
+            "_Exp_Factor": 979520
+        },
+        {
+            "_Id": 773,
+            "_Point": 773,
+            "_Exp_Factor": 980640
+        },
+        {
+            "_Id": 774,
+            "_Point": 774,
+            "_Exp_Factor": 981760
+        },
+        {
+            "_Id": 775,
+            "_Point": 775,
+            "_Exp_Factor": 982880
+        },
+        {
+            "_Id": 776,
+            "_Point": 776,
+            "_Exp_Factor": 984000
+        },
+        {
+            "_Id": 777,
+            "_Point": 777,
+            "_Exp_Factor": 985120
+        },
+        {
+            "_Id": 778,
+            "_Point": 778,
+            "_Exp_Factor": 986240
+        },
+        {
+            "_Id": 779,
+            "_Point": 779,
+            "_Exp_Factor": 987360
+        },
+        {
+            "_Id": 780,
+            "_Point": 780,
+            "_Exp_Factor": 988480
+        },
+        {
+            "_Id": 781,
+            "_Point": 781,
+            "_Exp_Factor": 989600
+        },
+        {
+            "_Id": 782,
+            "_Point": 782,
+            "_Exp_Factor": 990720
+        },
+        {
+            "_Id": 783,
+            "_Point": 783,
+            "_Exp_Factor": 991840
+        },
+        {
+            "_Id": 784,
+            "_Point": 784,
+            "_Exp_Factor": 992960
+        },
+        {
+            "_Id": 785,
+            "_Point": 785,
+            "_Exp_Factor": 994080
+        },
+        {
+            "_Id": 786,
+            "_Point": 786,
+            "_Exp_Factor": 995200
+        },
+        {
+            "_Id": 787,
+            "_Point": 787,
+            "_Exp_Factor": 996320
+        },
+        {
+            "_Id": 788,
+            "_Point": 788,
+            "_Exp_Factor": 997440
+        },
+        {
+            "_Id": 789,
+            "_Point": 789,
+            "_Exp_Factor": 998560
+        },
+        {
+            "_Id": 790,
+            "_Point": 790,
+            "_Exp_Factor": 999680
+        },
+        {
+            "_Id": 791,
+            "_Point": 791,
+            "_Exp_Factor": 1000800
+        },
+        {
+            "_Id": 792,
+            "_Point": 792,
+            "_Exp_Factor": 1001920
+        },
+        {
+            "_Id": 793,
+            "_Point": 793,
+            "_Exp_Factor": 1003040
+        },
+        {
+            "_Id": 794,
+            "_Point": 794,
+            "_Exp_Factor": 1004160
+        },
+        {
+            "_Id": 795,
+            "_Point": 795,
+            "_Exp_Factor": 1005280
+        },
+        {
+            "_Id": 796,
+            "_Point": 796,
+            "_Exp_Factor": 1006400
+        },
+        {
+            "_Id": 797,
+            "_Point": 797,
+            "_Exp_Factor": 1007520
+        },
+        {
+            "_Id": 798,
+            "_Point": 798,
+            "_Exp_Factor": 1008640
+        },
+        {
+            "_Id": 799,
+            "_Point": 799,
+            "_Exp_Factor": 1009760
+        },
+        {
+            "_Id": 800,
+            "_Point": 800,
+            "_Exp_Factor": 1010880
+        }
+    ]
+}

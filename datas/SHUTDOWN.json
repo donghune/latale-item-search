@@ -1,0 +1,78 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Hour",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Minute",
+            "type": "int"
+        },
+        {
+            "name": "_Stringchat",
+            "type": "string"
+        },
+        {
+            "name": "_StringUI",
+            "type": "string"
+        },
+        {
+            "name": "_TYPE",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Start_Hour": 23,
+            "_Start_Minute": 30,
+            "_Stringchat": "셧다운 제도로 인해 밤 12시부터 새벽 6시까지는 만16세 미만 가족님들의  게임 이용이 제한되오니, 안전한 곳으로 이동하신 후 게임을 종료하여 주시기 바랍니다.",
+            "_StringUI": "약 30분 후 게임이 종료 됩니다.",
+            "_TYPE": 0
+        },
+        {
+            "_Id": 2,
+            "_Start_Hour": 23,
+            "_Start_Minute": 40,
+            "_Stringchat": "셧다운 제도로 인해 밤 12시부터 새벽 6시까지는 만16세 미만 가족님들의  게임 이용이 제한되오니, 안전한 곳으로 이동하신 후 게임을 종료하여 주시기 바랍니다.",
+            "_StringUI": "약 20분 후 게임이 종료 됩니다.",
+            "_TYPE": 0
+        },
+        {
+            "_Id": 3,
+            "_Start_Hour": 23,
+            "_Start_Minute": 50,
+            "_Stringchat": "셧다운 제도로 인해 밤 12시부터 새벽 6시까지는 만16세 미만 가족님들의  게임 이용이 제한되오니, 안전한 곳으로 이동하신 후 게임을 종료하여 주시기 바랍니다.",
+            "_StringUI": "약 10분 후 게임이 종료 됩니다.",
+            "_TYPE": 0
+        },
+        {
+            "_Id": 4,
+            "_Start_Hour": 23,
+            "_Start_Minute": 59,
+            "_Stringchat": "셧다운 제도로 인해 밤 12시부터 새벽 6시까지는 만16세 미만 가족님들의  게임 이용이 제한되오니, 안전한 곳으로 이동하신 후 게임을 종료하여 주시기 바랍니다.",
+            "_StringUI": "잠시 후 게임이 종료 됩니다. ",
+            "_TYPE": 0
+        },
+        {
+            "_Id": 5,
+            "_Start_Hour": 0,
+            "_Start_Minute": 9,
+            "_Stringchat": "게임시간선택제로 인해 잠시후 접속 종료가 되오니, 안전한 곳으로 이동하신 후 게임을 종료하여 주시기 바랍니다.",
+            "_StringUI": "약 10분 후 게임이 종료 됩니다.",
+            "_TYPE": 1
+        },
+        {
+            "_Id": 6,
+            "_Start_Hour": 0,
+            "_Start_Minute": 5,
+            "_Stringchat": "게임시간선택제로 인해 잠시후 접속 종료가 되오니, 안전한 곳으로 이동하신 후 게임을 종료하여 주시기 바랍니다.",
+            "_StringUI": "잠시 후 게임이 종료 됩니다. ",
+            "_TYPE": 1
+        }
+    ]
+}

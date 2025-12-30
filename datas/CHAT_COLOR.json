@@ -1,0 +1,110 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_UseCheck",
+            "type": "int"
+        },
+        {
+            "name": "_ChatName",
+            "type": "string"
+        },
+        {
+            "name": "_Red",
+            "type": "int"
+        },
+        {
+            "name": "_Green",
+            "type": "int"
+        },
+        {
+            "name": "_Blue",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_UseCheck": 63,
+            "_ChatName": "공지메세지",
+            "_Red": 228,
+            "_Green": 3,
+            "_Blue": 3
+        },
+        {
+            "_Id": 2,
+            "_UseCheck": 63,
+            "_ChatName": "공지메세지",
+            "_Red": 255,
+            "_Green": 100,
+            "_Blue": 0
+        },
+        {
+            "_Id": 3,
+            "_UseCheck": 63,
+            "_ChatName": "공지메세지",
+            "_Red": 255,
+            "_Green": 255,
+            "_Blue": 0
+        },
+        {
+            "_Id": 4,
+            "_UseCheck": 63,
+            "_ChatName": "공지메세지",
+            "_Red": 255,
+            "_Green": 255,
+            "_Blue": 255
+        },
+        {
+            "_Id": 5,
+            "_UseCheck": 63,
+            "_ChatName": "루팅메세지",
+            "_Red": 255,
+            "_Green": 220,
+            "_Blue": 220
+        },
+        {
+            "_Id": 6,
+            "_UseCheck": 63,
+            "_ChatName": "GM메세지",
+            "_Red": 133,
+            "_Green": 253,
+            "_Blue": 212
+        },
+        {
+            "_Id": 7,
+            "_UseCheck": 63,
+            "_ChatName": "랜덤공지메세지",
+            "_Red": 255,
+            "_Green": 200,
+            "_Blue": 0
+        },
+        {
+            "_Id": 8,
+            "_UseCheck": 63,
+            "_ChatName": "스탯상승",
+            "_Red": 157,
+            "_Green": 157,
+            "_Blue": 255
+        },
+        {
+            "_Id": 9,
+            "_UseCheck": 63,
+            "_ChatName": "경고메세지",
+            "_Red": 228,
+            "_Green": 3,
+            "_Blue": 3
+        },
+        {
+            "_Id": 10,
+            "_UseCheck": 63,
+            "_ChatName": "이벤트랜덤공지메세지2",
+            "_Red": 133,
+            "_Green": 253,
+            "_Blue": 212
+        }
+    ]
+}

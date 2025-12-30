@@ -1,0 +1,75 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_BaseGatePoint",
+            "type": "int"
+        },
+        {
+            "name": "_RecvTime",
+            "type": "int"
+        },
+        {
+            "name": "_RecvGatePoint",
+            "type": "int"
+        },
+        {
+            "name": "_X_Size",
+            "type": "int"
+        },
+        {
+            "name": "_Y_Size",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Skill1",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Skill2",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Skill3",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 76,
+            "_BaseGatePoint": 200,
+            "_RecvTime": 10,
+            "_RecvGatePoint": 10,
+            "_X_Size": 5,
+            "_Y_Size": 4,
+            "_Gate_Skill1": 1001,
+            "_Gate_Skill2": 0,
+            "_Gate_Skill3": 0
+        },
+        {
+            "_Id": 77,
+            "_BaseGatePoint": 400,
+            "_RecvTime": 10,
+            "_RecvGatePoint": 10,
+            "_X_Size": 5,
+            "_Y_Size": 4,
+            "_Gate_Skill1": 1002,
+            "_Gate_Skill2": 1003,
+            "_Gate_Skill3": 0
+        },
+        {
+            "_Id": 78,
+            "_BaseGatePoint": 600,
+            "_RecvTime": 10,
+            "_RecvGatePoint": 10,
+            "_X_Size": 5,
+            "_Y_Size": 4,
+            "_Gate_Skill1": 1004,
+            "_Gate_Skill2": 1005,
+            "_Gate_Skill3": 1006
+        }
+    ]
+}

@@ -1,0 +1,1666 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_CoolTimeID",
+            "type": "int"
+        },
+        {
+            "name": "_Description",
+            "type": "string"
+        },
+        {
+            "name": "_CoolTimeType",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_CoolTimeID": 801,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 2,
+            "_CoolTimeID": 803,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 3,
+            "_CoolTimeID": 804,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 4,
+            "_CoolTimeID": 805,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 5,
+            "_CoolTimeID": 806,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 6,
+            "_CoolTimeID": 807,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 7,
+            "_CoolTimeID": 808,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 8,
+            "_CoolTimeID": 809,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 9,
+            "_CoolTimeID": 820,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 10,
+            "_CoolTimeID": 821,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 11,
+            "_CoolTimeID": 3206,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 12,
+            "_CoolTimeID": 823,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 13,
+            "_CoolTimeID": 907,
+            "_Description": "5차 스킬_둔기",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 14,
+            "_CoolTimeID": 906,
+            "_Description": "5차 스킬_한손검",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 15,
+            "_CoolTimeID": 1711,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 16,
+            "_CoolTimeID": 1712,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 17,
+            "_CoolTimeID": 1713,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 18,
+            "_CoolTimeID": 1714,
+            "_Description": "5차 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 19,
+            "_CoolTimeID": 16001,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 20,
+            "_CoolTimeID": 16003,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 21,
+            "_CoolTimeID": 16006,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 22,
+            "_CoolTimeID": 18001,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 23,
+            "_CoolTimeID": 13010,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 24,
+            "_CoolTimeID": 19002,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 25,
+            "_CoolTimeID": 11013,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 26,
+            "_CoolTimeID": 11008,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 27,
+            "_CoolTimeID": 19021,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 28,
+            "_CoolTimeID": 19025,
+            "_Description": "아이템",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 29,
+            "_CoolTimeID": 100001,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 30,
+            "_CoolTimeID": 100002,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 31,
+            "_CoolTimeID": 100003,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 32,
+            "_CoolTimeID": 100004,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 33,
+            "_CoolTimeID": 100005,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 34,
+            "_CoolTimeID": 100006,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 35,
+            "_CoolTimeID": 100007,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 36,
+            "_CoolTimeID": 100008,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 37,
+            "_CoolTimeID": 100009,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 38,
+            "_CoolTimeID": 100010,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 39,
+            "_CoolTimeID": 100011,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 40,
+            "_CoolTimeID": 100012,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 41,
+            "_CoolTimeID": 100013,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 42,
+            "_CoolTimeID": 100014,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 43,
+            "_CoolTimeID": 100015,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 44,
+            "_CoolTimeID": 100016,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 45,
+            "_CoolTimeID": 100017,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 46,
+            "_CoolTimeID": 100018,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 47,
+            "_CoolTimeID": 100019,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 48,
+            "_CoolTimeID": 100020,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 49,
+            "_CoolTimeID": 100021,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 50,
+            "_CoolTimeID": 100022,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 51,
+            "_CoolTimeID": 100023,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 52,
+            "_CoolTimeID": 100024,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 53,
+            "_CoolTimeID": 100025,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 54,
+            "_CoolTimeID": 100026,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 55,
+            "_CoolTimeID": 100027,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 56,
+            "_CoolTimeID": 100028,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 57,
+            "_CoolTimeID": 100029,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 58,
+            "_CoolTimeID": 100030,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 59,
+            "_CoolTimeID": 100031,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 60,
+            "_CoolTimeID": 100032,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 61,
+            "_CoolTimeID": 100033,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 62,
+            "_CoolTimeID": 100034,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 63,
+            "_CoolTimeID": 100035,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 64,
+            "_CoolTimeID": 100036,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 65,
+            "_CoolTimeID": 100037,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 66,
+            "_CoolTimeID": 100038,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 67,
+            "_CoolTimeID": 100039,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 68,
+            "_CoolTimeID": 100040,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 69,
+            "_CoolTimeID": 100041,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 70,
+            "_CoolTimeID": 100042,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 71,
+            "_CoolTimeID": 100043,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 72,
+            "_CoolTimeID": 100044,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 73,
+            "_CoolTimeID": 2901,
+            "_Description": "4차 히어로 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 74,
+            "_CoolTimeID": 100045,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 75,
+            "_CoolTimeID": 100046,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 76,
+            "_CoolTimeID": 100047,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 77,
+            "_CoolTimeID": 100048,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 78,
+            "_CoolTimeID": 100049,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 79,
+            "_CoolTimeID": 100050,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 80,
+            "_CoolTimeID": 100051,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 81,
+            "_CoolTimeID": 100052,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 82,
+            "_CoolTimeID": 100053,
+            "_Description": "조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 83,
+            "_CoolTimeID": 3003,
+            "_Description": "시나리오 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 84,
+            "_CoolTimeID": 3004,
+            "_Description": "시나리오 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 85,
+            "_CoolTimeID": 19060,
+            "_Description": "PC방 선물상자",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 86,
+            "_CoolTimeID": 19061,
+            "_Description": "PC방 선물상자",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 87,
+            "_CoolTimeID": 19998,
+            "_Description": "일본 데이터",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 88,
+            "_CoolTimeID": 19999,
+            "_Description": "일본 데이터",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 89,
+            "_CoolTimeID": 16007,
+            "_Description": "소길,중길,대길",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 90,
+            "_CoolTimeID": 7501,
+            "_Description": "5차스킬 마스터",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 91,
+            "_CoolTimeID": 7502,
+            "_Description": "5차스킬 마스터_세이버",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 92,
+            "_CoolTimeID": 19100,
+            "_Description": "굳게잠긴 방랑자의 비밀 상자",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 93,
+            "_CoolTimeID": 19101,
+            "_Description": "하급 각성제 조합",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 94,
+            "_CoolTimeID": 19102,
+            "_Description": "스킬 페이지 전환",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 95,
+            "_CoolTimeID": 7509,
+            "_Description": "레전드 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 96,
+            "_CoolTimeID": 7508,
+            "_Description": "각성 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 97,
+            "_CoolTimeID": 1957,
+            "_Description": "mp 회복",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 98,
+            "_CoolTimeID": 7504,
+            "_Description": "각성 II",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 99,
+            "_CoolTimeID": 7505,
+            "_Description": "레전드 II",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 100,
+            "_CoolTimeID": 7506,
+            "_Description": "생존본능",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 101,
+            "_CoolTimeID": 19062,
+            "_Description": "PC방 선물상자",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 102,
+            "_CoolTimeID": 19063,
+            "_Description": "복귀 환영 선물상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 103,
+            "_CoolTimeID": 19064,
+            "_Description": "비앙카의 축복",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 104,
+            "_CoolTimeID": 19065,
+            "_Description": "새해 기념 로얄 캡슐",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 105,
+            "_CoolTimeID": 19066,
+            "_Description": "인던 차감 비법서",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 106,
+            "_CoolTimeID": 19067,
+            "_Description": "외치기 도구",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 107,
+            "_CoolTimeID": 900001,
+            "_Description": "일일갬블 테스트",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 108,
+            "_CoolTimeID": 900002,
+            "_Description": "라테일 로얄 상자 19(30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 109,
+            "_CoolTimeID": 900003,
+            "_Description": "라테일 로얄 상자 20(30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 110,
+            "_CoolTimeID": 900004,
+            "_Description": "텐구 토템의 조각 상자(30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 111,
+            "_CoolTimeID": 900005,
+            "_Description": "경험치 버프의 상자(30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 112,
+            "_CoolTimeID": 19068,
+            "_Description": "PC방 인던 초기화 코인",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 113,
+            "_CoolTimeID": 19069,
+            "_Description": "카탈리나 PC방 전용 상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 114,
+            "_CoolTimeID": 900006,
+            "_Description": "데일리 자판기(폭풍 포션)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 115,
+            "_CoolTimeID": 900007,
+            "_Description": "데일리 자판기(아비오 콜라)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 116,
+            "_CoolTimeID": 900008,
+            "_Description": "데일리 박스(럭키 캡슐)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 117,
+            "_CoolTimeID": 900009,
+            "_Description": "퀘스트아이템 계정공유 쿨타임",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 118,
+            "_CoolTimeID": 900010,
+            "_Description": "데일리 박스[로얄19]2",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 119,
+            "_CoolTimeID": 900011,
+            "_Description": "데일리 박스[로얄20]2",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 120,
+            "_CoolTimeID": 3207,
+            "_Description": "그림자 일격",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 121,
+            "_CoolTimeID": 900012,
+            "_Description": "데일리 박스[로얄21]1",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 122,
+            "_CoolTimeID": 900013,
+            "_Description": "데일리 박스[로얄21]2",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 123,
+            "_CoolTimeID": 100098,
+            "_Description": "초인스킬 메인",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 124,
+            "_CoolTimeID": 100099,
+            "_Description": "초인스킬 서브",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 125,
+            "_CoolTimeID": 900014,
+            "_Description": "데일리 박스[라테일 요술상자]1",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 126,
+            "_CoolTimeID": 900015,
+            "_Description": "데일리 박스[라테일 요술상자]2",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 127,
+            "_CoolTimeID": 900016,
+            "_Description": "데일리 박스[라테일 요술상자]3",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 128,
+            "_CoolTimeID": 900017,
+            "_Description": "데일리 박스[라테일 요술상자]4",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 129,
+            "_CoolTimeID": 900018,
+            "_Description": "데일리 박스[19년3월이벤트]",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 130,
+            "_CoolTimeID": 900019,
+            "_Description": "데일리 박스[라테일 요술상자]5",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 131,
+            "_CoolTimeID": 900020,
+            "_Description": "데일리 박스[라테일 요술상자]6",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 132,
+            "_CoolTimeID": 900021,
+            "_Description": "데일리 박스[경험치1000%]2",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 133,
+            "_CoolTimeID": 12003,
+            "_Description": "서버 마이크",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 134,
+            "_CoolTimeID": 12002,
+            "_Description": "채널 마이크",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 135,
+            "_CoolTimeID": 900022,
+            "_Description": "헌터 관리자의 초급 지령상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 136,
+            "_CoolTimeID": 900023,
+            "_Description": "헌터 관리자의 중급 지령상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 137,
+            "_CoolTimeID": 900024,
+            "_Description": "헌터 관리자의 상급 지령상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 138,
+            "_CoolTimeID": 900025,
+            "_Description": "헌터 관리자의 최상급 지령상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 139,
+            "_CoolTimeID": 900026,
+            "_Description": "3Q 업데이트 이벤트 할로윈 풍선",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 140,
+            "_CoolTimeID": 9993,
+            "_Description": "생존본능 데미갓",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 141,
+            "_CoolTimeID": 900027,
+            "_Description": "헌터 관리자의 다양한 지령서 상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 142,
+            "_CoolTimeID": 900028,
+            "_Description": "마르지 않는 경험치의 비약 1000%",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 143,
+            "_CoolTimeID": 900029,
+            "_Description": "마르지 않는 폭풍 포션",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 144,
+            "_CoolTimeID": 900030,
+            "_Description": "데일리 박스 [2019 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 145,
+            "_CoolTimeID": 900031,
+            "_Description": "데일리 박스 [2019 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 146,
+            "_CoolTimeID": 900032,
+            "_Description": "데일리 박스 [2019 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 147,
+            "_CoolTimeID": 900033,
+            "_Description": "경험치 버프의 상자(30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 148,
+            "_CoolTimeID": 900034,
+            "_Description": "[이벤트] 데일리 사과 박스",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 149,
+            "_CoolTimeID": 900035,
+            "_Description": "[이벤트] 천공성 콜로세움 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 150,
+            "_CoolTimeID": 900036,
+            "_Description": "[이벤트] 신비의 전당 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 151,
+            "_CoolTimeID": 900037,
+            "_Description": "[이벤트] 오로라의 정원 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 152,
+            "_CoolTimeID": 900038,
+            "_Description": "[이벤트] 월화원 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 153,
+            "_CoolTimeID": 900039,
+            "_Description": "[이벤트] 용황전 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 154,
+            "_CoolTimeID": 900040,
+            "_Description": "[이벤트] 숨겨진 동굴 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 155,
+            "_CoolTimeID": 900041,
+            "_Description": "[이벤트] 리베라 시청 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 156,
+            "_CoolTimeID": 900042,
+            "_Description": "[이벤트] 파괴된 성 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 157,
+            "_CoolTimeID": 900043,
+            "_Description": "[이벤트] 마석 실험실 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 158,
+            "_CoolTimeID": 900044,
+            "_Description": "[이벤트] 도전! 초코 가든 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 159,
+            "_CoolTimeID": 900045,
+            "_Description": "[이벤트] 악마의 협곡 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 160,
+            "_CoolTimeID": 900046,
+            "_Description": "[이벤트] 성스러운 회당 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 161,
+            "_CoolTimeID": 900047,
+            "_Description": "[이벤트] 뒤틀린 세계수 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 162,
+            "_CoolTimeID": 900048,
+            "_Description": "[이벤트] 드워프 비공정 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 163,
+            "_CoolTimeID": 900049,
+            "_Description": "[이벤트] 석양의 숲 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 164,
+            "_CoolTimeID": 900050,
+            "_Description": "[이벤트] 태양의 궁전 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 165,
+            "_CoolTimeID": 900051,
+            "_Description": "[이벤트] 태양신의 지하 제단 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 166,
+            "_CoolTimeID": 900052,
+            "_Description": "[이벤트] 춘식랜드 기념관 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 167,
+            "_CoolTimeID": 900053,
+            "_Description": "[이벤트] 트레져 케이브 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 168,
+            "_CoolTimeID": 900054,
+            "_Description": "[이벤트] 그림자의 책 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 169,
+            "_CoolTimeID": 900055,
+            "_Description": "[이벤트] 산호의 노래 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 170,
+            "_CoolTimeID": 900056,
+            "_Description": "[이벤트] 폭포나무 숲 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 171,
+            "_CoolTimeID": 900057,
+            "_Description": "[이벤트] 보석나무 숲 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 172,
+            "_CoolTimeID": 900058,
+            "_Description": "[이벤트] 아이스크림 정원 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 173,
+            "_CoolTimeID": 900059,
+            "_Description": "[이벤트] 라의 성곽 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 174,
+            "_CoolTimeID": 900060,
+            "_Description": "[이벤트] 전사들의 쉼터 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 175,
+            "_CoolTimeID": 900061,
+            "_Description": "[이벤트] 마법 수련관 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 176,
+            "_CoolTimeID": 900062,
+            "_Description": "[이벤트] 부유섬 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 177,
+            "_CoolTimeID": 900063,
+            "_Description": "[이벤트] 환영의 독안개 늪지 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 178,
+            "_CoolTimeID": 900064,
+            "_Description": "[이벤트] 트윙 키브 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 179,
+            "_CoolTimeID": 900065,
+            "_Description": "[이벤트] 혼돈의 협곡 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 180,
+            "_CoolTimeID": 900066,
+            "_Description": "[이벤트] 얼어붙은 세계 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 181,
+            "_CoolTimeID": 900067,
+            "_Description": "[이벤트] 안식의 홀 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 182,
+            "_CoolTimeID": 900068,
+            "_Description": "[이벤트] 초인기념관 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 183,
+            "_CoolTimeID": 900069,
+            "_Description": "[이벤트] 나락의 방 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 184,
+            "_CoolTimeID": 900070,
+            "_Description": "[이벤트] 괴물나무 산 골짜기 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 185,
+            "_CoolTimeID": 900071,
+            "_Description": "[이벤트] 용의 계곡 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 186,
+            "_CoolTimeID": 900072,
+            "_Description": "[이벤트] 신의 나무 라피어 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 187,
+            "_CoolTimeID": 900073,
+            "_Description": "[이벤트] 마법학원 본관 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 188,
+            "_CoolTimeID": 900074,
+            "_Description": "데일리 박스 [[이벤트] 퀘스트 보상 UP! 비약] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 189,
+            "_CoolTimeID": 900075,
+            "_Description": "데일리 박스 [텐구의 토템 조각] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 190,
+            "_CoolTimeID": 900076,
+            "_Description": "데일리 박스 [텐구의 토템 조각] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 191,
+            "_CoolTimeID": 900077,
+            "_Description": "[이벤트] 회복의 성수 데일리 박스",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 192,
+            "_CoolTimeID": 900078,
+            "_Description": "[이벤트] 간단한 주술의 항아리",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 193,
+            "_CoolTimeID": 900079,
+            "_Description": "[이벤트] 평범한 주술의 항아리",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 194,
+            "_CoolTimeID": 900080,
+            "_Description": "[이벤트] 오싹한 주술의 항아리",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 195,
+            "_CoolTimeID": 900081,
+            "_Description": "[이벤트] 메모리얼 데일리 박스 (30일) Ⅰ",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 196,
+            "_CoolTimeID": 900082,
+            "_Description": "[이벤트] 메모리얼 데일리 박스 (30일) Ⅱ",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 197,
+            "_CoolTimeID": 900083,
+            "_Description": "마르지 않는 경험치의 비약 (초월)",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 198,
+            "_CoolTimeID": 900084,
+            "_Description": "마르지 않는 폭풍 포션 (초월)",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 199,
+            "_CoolTimeID": 900085,
+            "_Description": "[이벤트] 종이접기 세트",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 200,
+            "_CoolTimeID": 900086,
+            "_Description": "데일리 박스 [2021 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 201,
+            "_CoolTimeID": 900087,
+            "_Description": "데일리 박스 [2021 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 202,
+            "_CoolTimeID": 900088,
+            "_Description": "데일리 박스 [2021 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 203,
+            "_CoolTimeID": 900089,
+            "_Description": "[이벤트] 신축년 스페셜 캡슐(30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 204,
+            "_CoolTimeID": 900090,
+            "_Description": "[이벤트] 마르지 않는 봄의 비약",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 205,
+            "_CoolTimeID": 900091,
+            "_Description": "[이벤트] 추석선물",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 206,
+            "_CoolTimeID": 900092,
+            "_Description": "[이벤트] 페스티벌 물류 상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 207,
+            "_CoolTimeID": 900093,
+            "_Description": "[이벤트] 증류수 제조기",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 208,
+            "_CoolTimeID": 900094,
+            "_Description": "[이벤트] 로젠가르텐 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 209,
+            "_CoolTimeID": 900095,
+            "_Description": "[이벤트] 꿈꾸는 오네이로 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 210,
+            "_CoolTimeID": 900096,
+            "_Description": "[이벤트] 메아리의 샘 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 211,
+            "_CoolTimeID": 900097,
+            "_Description": "[이벤트] 인내의 상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 212,
+            "_CoolTimeID": 900098,
+            "_Description": "데일리 박스 [2021 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 213,
+            "_CoolTimeID": 900099,
+            "_Description": "데일리 박스 [2021 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 214,
+            "_CoolTimeID": 900100,
+            "_Description": "데일리 박스 [2021 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 215,
+            "_CoolTimeID": 900101,
+            "_Description": "[이벤트] 윈디아의 인던 버프 캡슐",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 216,
+            "_CoolTimeID": 900102,
+            "_Description": "헌터 관리자의 특급 지령상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 217,
+            "_CoolTimeID": 900103,
+            "_Description": "헌터 관리자의 숙련자 지령상자",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 218,
+            "_CoolTimeID": 900104,
+            "_Description": "봉인된 헌터의 지령 스크롤 II",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 219,
+            "_CoolTimeID": 900105,
+            "_Description": "미지의 숲 초기화 티켓",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 220,
+            "_CoolTimeID": 900106,
+            "_Description": "[이벤트] 마력 방공호 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 221,
+            "_CoolTimeID": 900107,
+            "_Description": "[이벤트] 허무의 별 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 222,
+            "_CoolTimeID": 900108,
+            "_Description": "[이벤트] 망각의 호숫가 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 223,
+            "_CoolTimeID": 900109,
+            "_Description": "[이벤트] 환의 요람 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 224,
+            "_CoolTimeID": 900110,
+            "_Description": "[이벤트] 힐레 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 225,
+            "_CoolTimeID": 900111,
+            "_Description": "[이벤트] 맹약의 성소 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 226,
+            "_CoolTimeID": 900112,
+            "_Description": "[이벤트] 고드름 감옥 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 227,
+            "_CoolTimeID": 900113,
+            "_Description": "[이벤트] 심장의 기억 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 228,
+            "_CoolTimeID": 900114,
+            "_Description": "[이벤트] 아크로의 관 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 229,
+            "_CoolTimeID": 900115,
+            "_Description": "[이벤트] 바니타스 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 230,
+            "_CoolTimeID": 900116,
+            "_Description": "[이벤트] 연옥 아즈라엘 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 231,
+            "_CoolTimeID": 900117,
+            "_Description": "[이벤트] 크로노스의 시간 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 232,
+            "_CoolTimeID": 900118,
+            "_Description": "[이벤트] 카이로스의 시간 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 233,
+            "_CoolTimeID": 900119,
+            "_Description": "봉인된 빛의 연합 지령 스크롤",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 234,
+            "_CoolTimeID": 900120,
+            "_Description": "봉인된 춘식 아일랜드 지령 스크롤",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 235,
+            "_CoolTimeID": 900121,
+            "_Description": "데일리 박스 [2022 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 236,
+            "_CoolTimeID": 900122,
+            "_Description": "데일리 박스 [2022 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 237,
+            "_CoolTimeID": 900123,
+            "_Description": "데일리 박스 [2022 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 238,
+            "_CoolTimeID": 900124,
+            "_Description": "이벤트 폭죽",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 239,
+            "_CoolTimeID": 900125,
+            "_Description": "데일리 자판기(아비오 콜라)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 240,
+            "_CoolTimeID": 900126,
+            "_Description": "[이벤트] 77주년 광복절 상자 1",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 241,
+            "_CoolTimeID": 7507,
+            "_Description": "각성 II",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 242,
+            "_CoolTimeID": 900127,
+            "_Description": "데일리 박스 [2022 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 243,
+            "_CoolTimeID": 900128,
+            "_Description": "데일리 박스 [2022 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 244,
+            "_CoolTimeID": 900129,
+            "_Description": "데일리 박스 [2022 스페셜 요술 보따리] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 245,
+            "_CoolTimeID": 5020,
+            "_Description": "이벤트 스킬",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 246,
+            "_CoolTimeID": 900130,
+            "_Description": "라이티티아 인던 초기화 티켓",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 247,
+            "_CoolTimeID": 900131,
+            "_Description": "[이벤트] 라이티티아 인던 초기화 티켓",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 248,
+            "_CoolTimeID": 900132,
+            "_Description": "[이벤트] 마르지 않는 버닝 포션 I",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 249,
+            "_CoolTimeID": 900133,
+            "_Description": "[이벤트] 마르지 않는 버닝 포션 II",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 250,
+            "_CoolTimeID": 900134,
+            "_Description": "[이벤트] 마르지 않는 버닝 포션 III",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 251,
+            "_CoolTimeID": 900135,
+            "_Description": "데일리 [스페셜 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 252,
+            "_CoolTimeID": 900136,
+            "_Description": "데일리 [스페셜 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 253,
+            "_CoolTimeID": 900137,
+            "_Description": "데일리 [라테일 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 254,
+            "_CoolTimeID": 900138,
+            "_Description": "데일리 [라테일 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 255,
+            "_CoolTimeID": 900139,
+            "_Description": "[이벤트] 에우가몬 극장 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 256,
+            "_CoolTimeID": 900140,
+            "_Description": "[이벤트] 심연의 거울 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 257,
+            "_CoolTimeID": 900141,
+            "_Description": "[이벤트] 생명의 엔텔레케 1회 차감 비법",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 258,
+            "_CoolTimeID": 900142,
+            "_Description": "데일리 [스페셜 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 259,
+            "_CoolTimeID": 900143,
+            "_Description": "데일리 [스페셜 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 260,
+            "_CoolTimeID": 900144,
+            "_Description": "데일리 [라테일 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 261,
+            "_CoolTimeID": 900145,
+            "_Description": "데일리 [라테일 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 262,
+            "_CoolTimeID": 900146,
+            "_Description": "데일리 [라테일 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 263,
+            "_CoolTimeID": 900147,
+            "_Description": "데일리 [라테일 요술 보따리 2] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 264,
+            "_CoolTimeID": 900148,
+            "_Description": "[이벤트] 계묘년 스페셜 캡슐(30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 265,
+            "_CoolTimeID": 900149,
+            "_Description": "데일리 박스 [텐구의 토템 조각] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 266,
+            "_CoolTimeID": 900150,
+            "_Description": "데일리 박스 [텐구의 토템 조각] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 267,
+            "_CoolTimeID": 900151,
+            "_Description": "데일리 [파란 별이 담긴 병] (30일)",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 268,
+            "_CoolTimeID": 900152,
+            "_Description": "봉인된 헌터의 마스터 지령 스크롤",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 269,
+            "_CoolTimeID": 900153,
+            "_Description": "[이벤트] 봉인된 특별 지령 스크롤",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 270,
+            "_CoolTimeID": 900154,
+            "_Description": "[이벤트] 풋풋한 선물",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 271,
+            "_CoolTimeID": 900155,
+            "_Description": "[이벤트] 수상한 알",
+            "_CoolTimeType": 2
+        },
+        {
+            "_Id": 272,
+            "_CoolTimeID": 5021,
+            "_Description": "[이벤트] HELP!!",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 273,
+            "_CoolTimeID": 5022,
+            "_Description": "[이벤트] 헬퍼",
+            "_CoolTimeType": 1
+        },
+        {
+            "_Id": 274,
+            "_CoolTimeID": 900156,
+            "_Description": "[이벤트] 삼촌의 선물 상자",
+            "_CoolTimeType": 2
+        }
+    ]
+}

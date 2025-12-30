@@ -1,0 +1,45 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_CategoryView",
+            "type": "bool"
+        },
+        {
+            "name": "_PositionIndex",
+            "type": "int"
+        },
+        {
+            "name": "_EventPage",
+            "type": "int"
+        },
+        {
+            "name": "_Name",
+            "type": "string"
+        },
+        {
+            "name": "_CashPrice",
+            "type": "int"
+        },
+        {
+            "name": "_SalePrice",
+            "type": "int"
+        },
+        {
+            "name": "_EventIcon",
+            "type": "int"
+        },
+        {
+            "name": "_MaxOz",
+            "type": "int"
+        },
+        {
+            "name": "_MaxMile",
+            "type": "int"
+        }
+    ],
+    "datas": []
+}

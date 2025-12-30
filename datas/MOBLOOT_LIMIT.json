@@ -1,0 +1,208 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Text",
+            "type": "string"
+        },
+        {
+            "name": "_Event_Type",
+            "type": "int"
+        },
+        {
+            "name": "_ItemID",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Year",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Month",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Day",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Hour",
+            "type": "int"
+        },
+        {
+            "name": "_Start_Minute",
+            "type": "int"
+        },
+        {
+            "name": "_End_Year",
+            "type": "int"
+        },
+        {
+            "name": "_End_Month",
+            "type": "int"
+        },
+        {
+            "name": "_End_Day",
+            "type": "int"
+        },
+        {
+            "name": "_End_Hour",
+            "type": "int"
+        },
+        {
+            "name": "_End_Minute",
+            "type": "int"
+        },
+        {
+            "name": "_CountType",
+            "type": "int"
+        },
+        {
+            "name": "_LimitType",
+            "type": "int"
+        },
+        {
+            "name": "_LimitCount",
+            "type": "int"
+        },
+        {
+            "name": "_Notice",
+            "type": "string"
+        },
+        {
+            "name": "_Notice_Before",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Text": "라이티티아 파란별",
+            "_Event_Type": 1,
+            "_ItemID": 190147983,
+            "_Start_Year": 2023,
+            "_Start_Month": 2,
+            "_Start_Day": 1,
+            "_Start_Hour": 4,
+            "_Start_Minute": 30,
+            "_End_Year": 2950,
+            "_End_Month": 12,
+            "_End_Day": 31,
+            "_End_Hour": 4,
+            "_End_Minute": 30,
+            "_CountType": 2,
+            "_LimitType": 2,
+            "_LimitCount": 400,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 2,
+            "_Text": "플래티넘 망치",
+            "_Event_Type": 1,
+            "_ItemID": 180202202,
+            "_Start_Year": 2023,
+            "_Start_Month": 2,
+            "_Start_Day": 1,
+            "_Start_Hour": 4,
+            "_Start_Minute": 30,
+            "_End_Year": 2950,
+            "_End_Month": 12,
+            "_End_Day": 31,
+            "_End_Hour": 4,
+            "_End_Minute": 30,
+            "_CountType": 2,
+            "_LimitType": 2,
+            "_LimitCount": 2,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 3,
+            "_Text": "신비한 파편",
+            "_Event_Type": 1,
+            "_ItemID": 190148475,
+            "_Start_Year": 2023,
+            "_Start_Month": 2,
+            "_Start_Day": 1,
+            "_Start_Hour": 4,
+            "_Start_Minute": 30,
+            "_End_Year": 2950,
+            "_End_Month": 12,
+            "_End_Day": 31,
+            "_End_Hour": 4,
+            "_End_Minute": 30,
+            "_CountType": 2,
+            "_LimitType": 2,
+            "_LimitCount": 200,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 143,
+            "_Text": "[이벤트] 퍽퍽한 케이크 빵",
+            "_Event_Type": 1,
+            "_ItemID": 190148901,
+            "_Start_Year": 2023,
+            "_Start_Month": 5,
+            "_Start_Day": 24,
+            "_Start_Hour": 4,
+            "_Start_Minute": 30,
+            "_End_Year": 2024,
+            "_End_Month": 6,
+            "_End_Day": 26,
+            "_End_Hour": 4,
+            "_End_Minute": 30,
+            "_CountType": 2,
+            "_LimitType": 2,
+            "_LimitCount": 1,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 144,
+            "_Text": "[이벤트] 촉촉한 생크림",
+            "_Event_Type": 1,
+            "_ItemID": 190148902,
+            "_Start_Year": 2023,
+            "_Start_Month": 5,
+            "_Start_Day": 24,
+            "_Start_Hour": 4,
+            "_Start_Minute": 30,
+            "_End_Year": 2024,
+            "_End_Month": 6,
+            "_End_Day": 26,
+            "_End_Hour": 4,
+            "_End_Minute": 30,
+            "_CountType": 2,
+            "_LimitType": 2,
+            "_LimitCount": 1,
+            "_Notice": "",
+            "_Notice_Before": 0
+        },
+        {
+            "_Id": 145,
+            "_Text": "[이벤트] 고급 밀가루",
+            "_Event_Type": 1,
+            "_ItemID": 190148904,
+            "_Start_Year": 2023,
+            "_Start_Month": 5,
+            "_Start_Day": 24,
+            "_Start_Hour": 4,
+            "_Start_Minute": 30,
+            "_End_Year": 2024,
+            "_End_Month": 6,
+            "_End_Day": 26,
+            "_End_Hour": 4,
+            "_End_Minute": 30,
+            "_CountType": 2,
+            "_LimitType": 2,
+            "_LimitCount": 3,
+            "_Notice": "",
+            "_Notice_Before": 0
+        }
+    ]
+}

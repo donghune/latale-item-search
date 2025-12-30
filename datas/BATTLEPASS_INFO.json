@@ -1,0 +1,302 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Use",
+            "type": "int"
+        },
+        {
+            "name": "_Title",
+            "type": "string"
+        },
+        {
+            "name": "_Season_Image",
+            "type": "string"
+        },
+        {
+            "name": "_Season_Index",
+            "type": "int"
+        },
+        {
+            "name": "_Reward_Image",
+            "type": "string"
+        },
+        {
+            "name": "_Reward_Index",
+            "type": "int"
+        },
+        {
+            "name": "_StartYear",
+            "type": "int"
+        },
+        {
+            "name": "_StartMonth",
+            "type": "int"
+        },
+        {
+            "name": "_StartDay",
+            "type": "int"
+        },
+        {
+            "name": "_StartHour",
+            "type": "int"
+        },
+        {
+            "name": "_StartMinute",
+            "type": "int"
+        },
+        {
+            "name": "_EndYear",
+            "type": "int"
+        },
+        {
+            "name": "_EndMonth",
+            "type": "int"
+        },
+        {
+            "name": "_EndDay",
+            "type": "int"
+        },
+        {
+            "name": "_EndHour",
+            "type": "int"
+        },
+        {
+            "name": "_EndMinute",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Use": 3,
+            "_Title": "배틀패스 국내용",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2022,
+            "_StartMonth": 9,
+            "_StartDay": 27,
+            "_StartHour": 18,
+            "_StartMinute": 0,
+            "_EndYear": 2022,
+            "_EndMonth": 10,
+            "_EndDay": 4,
+            "_EndHour": 15,
+            "_EndMinute": 0
+        },
+        {
+            "_Id": 2,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌1",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2022,
+            "_StartMonth": 10,
+            "_StartDay": 5,
+            "_StartHour": 17,
+            "_StartMinute": 30,
+            "_EndYear": 2022,
+            "_EndMonth": 12,
+            "_EndDay": 14,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 3,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌1",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2022,
+            "_StartMonth": 10,
+            "_StartDay": 5,
+            "_StartHour": 17,
+            "_StartMinute": 30,
+            "_EndYear": 2022,
+            "_EndMonth": 12,
+            "_EndDay": 14,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 4,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌1",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2022,
+            "_StartMonth": 10,
+            "_StartDay": 19,
+            "_StartHour": 8,
+            "_StartMinute": 0,
+            "_EndYear": 2022,
+            "_EndMonth": 12,
+            "_EndDay": 14,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 5,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌2",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2022,
+            "_StartMonth": 12,
+            "_StartDay": 21,
+            "_StartHour": 8,
+            "_StartMinute": 0,
+            "_EndYear": 2023,
+            "_EndMonth": 2,
+            "_EndDay": 15,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 6,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌3",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2023,
+            "_StartMonth": 4,
+            "_StartDay": 3,
+            "_StartHour": 8,
+            "_StartMinute": 0,
+            "_EndYear": 2023,
+            "_EndMonth": 6,
+            "_EndDay": 14,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 7,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌4",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2023,
+            "_StartMonth": 6,
+            "_StartDay": 19,
+            "_StartHour": 8,
+            "_StartMinute": 0,
+            "_EndYear": 2023,
+            "_EndMonth": 8,
+            "_EndDay": 23,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 8,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌4",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2023,
+            "_StartMonth": 6,
+            "_StartDay": 28,
+            "_StartHour": 8,
+            "_StartMinute": 0,
+            "_EndYear": 2023,
+            "_EndMonth": 8,
+            "_EndDay": 16,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 9,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌5",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2023,
+            "_StartMonth": 8,
+            "_StartDay": 23,
+            "_StartHour": 10,
+            "_StartMinute": 0,
+            "_EndYear": 2023,
+            "_EndMonth": 10,
+            "_EndDay": 11,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 10,
+            "_Use": 3,
+            "_Title": "배틀패스 시즌6",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2023,
+            "_StartMonth": 10,
+            "_StartDay": 18,
+            "_StartHour": 10,
+            "_StartMinute": 0,
+            "_EndYear": 2023,
+            "_EndMonth": 12,
+            "_EndDay": 13,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 11,
+            "_Use": 1,
+            "_Title": "배틀패스 시즌7",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2023,
+            "_StartMonth": 12,
+            "_StartDay": 7,
+            "_StartHour": 10,
+            "_StartMinute": 0,
+            "_EndYear": 2024,
+            "_EndMonth": 2,
+            "_EndDay": 28,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        },
+        {
+            "_Id": 12,
+            "_Use": 2,
+            "_Title": "배틀패스 시즌8",
+            "_Season_Image": "BattlePass_Season.png",
+            "_Season_Index": 1,
+            "_Reward_Image": "BattlePass_Reward.png",
+            "_Reward_Index": 1,
+            "_StartYear": 2024,
+            "_StartMonth": 3,
+            "_StartDay": 27,
+            "_StartHour": 10,
+            "_StartMinute": 0,
+            "_EndYear": 2024,
+            "_EndMonth": 5,
+            "_EndDay": 29,
+            "_EndHour": 3,
+            "_EndMinute": 59
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Total_Point",
+            "type": "int"
+        },
+        {
+            "name": "_Material1",
+            "type": "int"
+        },
+        {
+            "name": "_Point1",
+            "type": "int"
+        },
+        {
+            "name": "_Material2",
+            "type": "int"
+        },
+        {
+            "name": "_Point2",
+            "type": "int"
+        },
+        {
+            "name": "_Material3",
+            "type": "int"
+        },
+        {
+            "name": "_Point3",
+            "type": "int"
+        },
+        {
+            "name": "_Material4",
+            "type": "int"
+        },
+        {
+            "name": "_Point4",
+            "type": "int"
+        },
+        {
+            "name": "_Material5",
+            "type": "int"
+        },
+        {
+            "name": "_Point5",
+            "type": "int"
+        },
+        {
+            "name": "_Material6",
+            "type": "int"
+        },
+        {
+            "name": "_Point6",
+            "type": "int"
+        },
+        {
+            "name": "_Potential_GroupID",
+            "type": "int"
+        },
+        {
+            "name": "_Special_Potential",
+            "type": "bool"
+        },
+        {
+            "name": "_Special_Potential_Item",
+            "type": "int"
+        },
+        {
+            "name": "_Special_Potential_Item_Event",
+            "type": "int"
+        },
+        {
+            "name": "_Special_GroupID",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1001,
+            "_Total_Point": 1000,
+            "_Material1": 190144675,
+            "_Point1": 1,
+            "_Material2": 190144676,
+            "_Point2": 50,
+            "_Material3": 190144677,
+            "_Point3": 100,
+            "_Material4": 190144678,
+            "_Point4": 300,
+            "_Material5": 190144680,
+            "_Point5": 1000,
+            "_Material6": 190144679,
+            "_Point6": 500,
+            "_Potential_GroupID": 100101,
+            "_Special_Potential": true,
+            "_Special_Potential_Item": 190144681,
+            "_Special_Potential_Item_Event": 190146277,
+            "_Special_GroupID": 200101
+        },
+        {
+            "_Id": 3001,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300101,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3002,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300102,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3003,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300103,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3004,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300104,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3005,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300105,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3006,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300106,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3007,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300107,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3008,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300108,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        },
+        {
+            "_Id": 3009,
+            "_Total_Point": 500,
+            "_Material1": 190144679,
+            "_Point1": 500,
+            "_Material2": 0,
+            "_Point2": 0,
+            "_Material3": 0,
+            "_Point3": 0,
+            "_Material4": 0,
+            "_Point4": 0,
+            "_Material5": 0,
+            "_Point5": 0,
+            "_Material6": 0,
+            "_Point6": 0,
+            "_Potential_GroupID": 300109,
+            "_Special_Potential": false,
+            "_Special_Potential_Item": 0,
+            "_Special_Potential_Item_Event": 0,
+            "_Special_GroupID": 0
+        }
+    ]
+}

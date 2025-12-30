@@ -1,0 +1,78 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Area_Reputation",
+            "type": "string"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Area_Reputation": "폭풍의 감시자"
+        },
+        {
+            "_Id": 2,
+            "_Area_Reputation": "무한회랑"
+        },
+        {
+            "_Id": 3,
+            "_Area_Reputation": "벨파"
+        },
+        {
+            "_Id": 4,
+            "_Area_Reputation": "은의 발톱"
+        },
+        {
+            "_Id": 6,
+            "_Area_Reputation": "별지기의 후예"
+        },
+        {
+            "_Id": 7,
+            "_Area_Reputation": "리그 오브 몬스터즈"
+        },
+        {
+            "_Id": 8,
+            "_Area_Reputation": "검은 달의 일족"
+        },
+        {
+            "_Id": 9,
+            "_Area_Reputation": "지엔디아"
+        },
+        {
+            "_Id": 10,
+            "_Area_Reputation": "프레이오스"
+        },
+        {
+            "_Id": 11,
+            "_Area_Reputation": "드룰리지"
+        },
+        {
+            "_Id": 12,
+            "_Area_Reputation": "킹 오브 몬스터즈"
+        },
+        {
+            "_Id": 13,
+            "_Area_Reputation": "빛의 연합"
+        },
+        {
+            "_Id": 14,
+            "_Area_Reputation": "춘식 아일랜드"
+        },
+        {
+            "_Id": 15,
+            "_Area_Reputation": "황금만능주의"
+        },
+        {
+            "_Id": 16,
+            "_Area_Reputation": "헌터의 사명"
+        },
+        {
+            "_Id": 18,
+            "_Area_Reputation": "실바리아 제국"
+        }
+    ]
+}

@@ -1,0 +1,510 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Rank_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Rank_Point",
+            "type": "int"
+        },
+        {
+            "name": "_Rank_Tier",
+            "type": "int"
+        },
+        {
+            "name": "_Rank_String",
+            "type": "string"
+        },
+        {
+            "name": "_Grade_Point",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Rank_Type": 1,
+            "_Rank_Point": 99,
+            "_Rank_Tier": 1,
+            "_Rank_String": "브론즈 V",
+            "_Grade_Point": 87
+        },
+        {
+            "_Id": 2,
+            "_Rank_Type": 1,
+            "_Rank_Point": 199,
+            "_Rank_Tier": 2,
+            "_Rank_String": "브론즈 IV",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 3,
+            "_Rank_Type": 1,
+            "_Rank_Point": 299,
+            "_Rank_Tier": 3,
+            "_Rank_String": "브론즈 III",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 4,
+            "_Rank_Type": 1,
+            "_Rank_Point": 399,
+            "_Rank_Tier": 4,
+            "_Rank_String": "브론즈 II",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 5,
+            "_Rank_Type": 1,
+            "_Rank_Point": 499,
+            "_Rank_Tier": 5,
+            "_Rank_String": "브론즈 I",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 6,
+            "_Rank_Type": 1,
+            "_Rank_Point": 599,
+            "_Rank_Tier": 6,
+            "_Rank_String": "실버 V",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 7,
+            "_Rank_Type": 1,
+            "_Rank_Point": 699,
+            "_Rank_Tier": 7,
+            "_Rank_String": "실버 IV",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 8,
+            "_Rank_Type": 1,
+            "_Rank_Point": 799,
+            "_Rank_Tier": 8,
+            "_Rank_String": "실버 III",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 9,
+            "_Rank_Type": 1,
+            "_Rank_Point": 899,
+            "_Rank_Tier": 9,
+            "_Rank_String": "실버 II",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 10,
+            "_Rank_Type": 1,
+            "_Rank_Point": 999,
+            "_Rank_Tier": 10,
+            "_Rank_String": "실버 I",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 11,
+            "_Rank_Type": 1,
+            "_Rank_Point": 1099,
+            "_Rank_Tier": 11,
+            "_Rank_String": "골드 V",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 12,
+            "_Rank_Type": 1,
+            "_Rank_Point": 1199,
+            "_Rank_Tier": 12,
+            "_Rank_String": "골드 IV",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 13,
+            "_Rank_Type": 1,
+            "_Rank_Point": 1299,
+            "_Rank_Tier": 13,
+            "_Rank_String": "골드 III",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 14,
+            "_Rank_Type": 1,
+            "_Rank_Point": 1399,
+            "_Rank_Tier": 14,
+            "_Rank_String": "골드 II",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 15,
+            "_Rank_Type": 1,
+            "_Rank_Point": 1499,
+            "_Rank_Tier": 15,
+            "_Rank_String": "골드 I",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 16,
+            "_Rank_Type": 1,
+            "_Rank_Point": 1699,
+            "_Rank_Tier": 16,
+            "_Rank_String": "플래티넘 V",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 17,
+            "_Rank_Type": 1,
+            "_Rank_Point": 1899,
+            "_Rank_Tier": 17,
+            "_Rank_String": "플래티넘 IV",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 18,
+            "_Rank_Type": 1,
+            "_Rank_Point": 2099,
+            "_Rank_Tier": 18,
+            "_Rank_String": "플래티넘 III",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 19,
+            "_Rank_Type": 1,
+            "_Rank_Point": 2299,
+            "_Rank_Tier": 19,
+            "_Rank_String": "플래티넘 II",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 20,
+            "_Rank_Type": 1,
+            "_Rank_Point": 2499,
+            "_Rank_Tier": 20,
+            "_Rank_String": "플래티넘 I",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 21,
+            "_Rank_Type": 1,
+            "_Rank_Point": 2699,
+            "_Rank_Tier": 21,
+            "_Rank_String": "다이아몬드 V",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 22,
+            "_Rank_Type": 1,
+            "_Rank_Point": 2899,
+            "_Rank_Tier": 22,
+            "_Rank_String": "다이아몬드 IV",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 23,
+            "_Rank_Type": 1,
+            "_Rank_Point": 3099,
+            "_Rank_Tier": 23,
+            "_Rank_String": "다이아몬드 III",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 24,
+            "_Rank_Type": 1,
+            "_Rank_Point": 3299,
+            "_Rank_Tier": 24,
+            "_Rank_String": "다이아몬드 II",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 25,
+            "_Rank_Type": 1,
+            "_Rank_Point": 3499,
+            "_Rank_Tier": 25,
+            "_Rank_String": "다이아몬드 I",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 26,
+            "_Rank_Type": 1,
+            "_Rank_Point": 3699,
+            "_Rank_Tier": 26,
+            "_Rank_String": "마스터 V",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 27,
+            "_Rank_Type": 1,
+            "_Rank_Point": 3899,
+            "_Rank_Tier": 27,
+            "_Rank_String": "마스터 IV",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 28,
+            "_Rank_Type": 1,
+            "_Rank_Point": 4099,
+            "_Rank_Tier": 28,
+            "_Rank_String": "마스터 III",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 29,
+            "_Rank_Type": 1,
+            "_Rank_Point": 4299,
+            "_Rank_Tier": 29,
+            "_Rank_String": "마스터 II",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 30,
+            "_Rank_Type": 1,
+            "_Rank_Point": 90000,
+            "_Rank_Tier": 30,
+            "_Rank_String": "마스터 I",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 31,
+            "_Rank_Type": 2,
+            "_Rank_Point": 99,
+            "_Rank_Tier": 1,
+            "_Rank_String": "브론즈 V",
+            "_Grade_Point": 87
+        },
+        {
+            "_Id": 32,
+            "_Rank_Type": 2,
+            "_Rank_Point": 199,
+            "_Rank_Tier": 2,
+            "_Rank_String": "브론즈 IV",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 33,
+            "_Rank_Type": 2,
+            "_Rank_Point": 299,
+            "_Rank_Tier": 3,
+            "_Rank_String": "브론즈 III",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 34,
+            "_Rank_Type": 2,
+            "_Rank_Point": 399,
+            "_Rank_Tier": 4,
+            "_Rank_String": "브론즈 II",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 35,
+            "_Rank_Type": 2,
+            "_Rank_Point": 499,
+            "_Rank_Tier": 5,
+            "_Rank_String": "브론즈 I",
+            "_Grade_Point": 50
+        },
+        {
+            "_Id": 36,
+            "_Rank_Type": 2,
+            "_Rank_Point": 599,
+            "_Rank_Tier": 6,
+            "_Rank_String": "실버 V",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 37,
+            "_Rank_Type": 2,
+            "_Rank_Point": 699,
+            "_Rank_Tier": 7,
+            "_Rank_String": "실버 IV",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 38,
+            "_Rank_Type": 2,
+            "_Rank_Point": 799,
+            "_Rank_Tier": 8,
+            "_Rank_String": "실버 III",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 39,
+            "_Rank_Type": 2,
+            "_Rank_Point": 899,
+            "_Rank_Tier": 9,
+            "_Rank_String": "실버 II",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 40,
+            "_Rank_Type": 2,
+            "_Rank_Point": 999,
+            "_Rank_Tier": 10,
+            "_Rank_String": "실버 I",
+            "_Grade_Point": 40
+        },
+        {
+            "_Id": 41,
+            "_Rank_Type": 2,
+            "_Rank_Point": 1099,
+            "_Rank_Tier": 11,
+            "_Rank_String": "골드 V",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 42,
+            "_Rank_Type": 2,
+            "_Rank_Point": 1199,
+            "_Rank_Tier": 12,
+            "_Rank_String": "골드 IV",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 43,
+            "_Rank_Type": 2,
+            "_Rank_Point": 1299,
+            "_Rank_Tier": 13,
+            "_Rank_String": "골드 III",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 44,
+            "_Rank_Type": 2,
+            "_Rank_Point": 1399,
+            "_Rank_Tier": 14,
+            "_Rank_String": "골드 II",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 45,
+            "_Rank_Type": 2,
+            "_Rank_Point": 1499,
+            "_Rank_Tier": 15,
+            "_Rank_String": "골드 I",
+            "_Grade_Point": 20
+        },
+        {
+            "_Id": 46,
+            "_Rank_Type": 2,
+            "_Rank_Point": 1699,
+            "_Rank_Tier": 16,
+            "_Rank_String": "플래티넘 V",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 47,
+            "_Rank_Type": 2,
+            "_Rank_Point": 1899,
+            "_Rank_Tier": 17,
+            "_Rank_String": "플래티넘 IV",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 48,
+            "_Rank_Type": 2,
+            "_Rank_Point": 2099,
+            "_Rank_Tier": 18,
+            "_Rank_String": "플래티넘 III",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 49,
+            "_Rank_Type": 2,
+            "_Rank_Point": 2299,
+            "_Rank_Tier": 19,
+            "_Rank_String": "플래티넘 II",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 50,
+            "_Rank_Type": 2,
+            "_Rank_Point": 2499,
+            "_Rank_Tier": 20,
+            "_Rank_String": "플래티넘 I",
+            "_Grade_Point": 10
+        },
+        {
+            "_Id": 51,
+            "_Rank_Type": 2,
+            "_Rank_Point": 2699,
+            "_Rank_Tier": 21,
+            "_Rank_String": "다이아몬드 V",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 52,
+            "_Rank_Type": 2,
+            "_Rank_Point": 2899,
+            "_Rank_Tier": 22,
+            "_Rank_String": "다이아몬드 IV",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 53,
+            "_Rank_Type": 2,
+            "_Rank_Point": 3099,
+            "_Rank_Tier": 23,
+            "_Rank_String": "다이아몬드 III",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 54,
+            "_Rank_Type": 2,
+            "_Rank_Point": 3299,
+            "_Rank_Tier": 24,
+            "_Rank_String": "다이아몬드 II",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 55,
+            "_Rank_Type": 2,
+            "_Rank_Point": 3499,
+            "_Rank_Tier": 25,
+            "_Rank_String": "다이아몬드 I",
+            "_Grade_Point": 5
+        },
+        {
+            "_Id": 56,
+            "_Rank_Type": 2,
+            "_Rank_Point": 3699,
+            "_Rank_Tier": 26,
+            "_Rank_String": "마스터 V",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 57,
+            "_Rank_Type": 2,
+            "_Rank_Point": 3899,
+            "_Rank_Tier": 27,
+            "_Rank_String": "마스터 IV",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 58,
+            "_Rank_Type": 2,
+            "_Rank_Point": 4099,
+            "_Rank_Tier": 28,
+            "_Rank_String": "마스터 III",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 59,
+            "_Rank_Type": 2,
+            "_Rank_Point": 4299,
+            "_Rank_Tier": 29,
+            "_Rank_String": "마스터 II",
+            "_Grade_Point": 0
+        },
+        {
+            "_Id": 60,
+            "_Rank_Type": 2,
+            "_Rank_Point": 90000,
+            "_Rank_Tier": 30,
+            "_Rank_String": "마스터 I",
+            "_Grade_Point": 0
+        }
+    ]
+}

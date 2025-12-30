@@ -1,0 +1,520 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Description",
+            "type": "string"
+        },
+        {
+            "name": "_Require1_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Require1_ID",
+            "type": "int"
+        },
+        {
+            "name": "_Require1_Value1",
+            "type": "int"
+        },
+        {
+            "name": "_Require1_Value2",
+            "type": "int"
+        },
+        {
+            "name": "_Require2_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Require2_ID",
+            "type": "int"
+        },
+        {
+            "name": "_Require2_Value1",
+            "type": "int"
+        },
+        {
+            "name": "_Require2_Value2",
+            "type": "int"
+        },
+        {
+            "name": "_Require3_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Require3_ID",
+            "type": "int"
+        },
+        {
+            "name": "_Require3_Value1",
+            "type": "int"
+        },
+        {
+            "name": "_Require3_Value2",
+            "type": "int"
+        },
+        {
+            "name": "_Require4_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Require4_ID",
+            "type": "int"
+        },
+        {
+            "name": "_Require4_Value1",
+            "type": "int"
+        },
+        {
+            "name": "_Require4_Value2",
+            "type": "int"
+        },
+        {
+            "name": "_Require_Left",
+            "type": "int"
+        },
+        {
+            "name": "_Require_Top",
+            "type": "int"
+        },
+        {
+            "name": "_Require_Right",
+            "type": "int"
+        },
+        {
+            "name": "_Require_Bottom",
+            "type": "int"
+        },
+        {
+            "name": "_Slot_Count",
+            "type": "int"
+        },
+        {
+            "name": "_Source_File1",
+            "type": "string"
+        },
+        {
+            "name": "_Source_Left1",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Top1",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Right1",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Bottom1",
+            "type": "int"
+        },
+        {
+            "name": "_Source_File2",
+            "type": "string"
+        },
+        {
+            "name": "_Source_Left2",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Top2",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Right2",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Bottom2",
+            "type": "int"
+        },
+        {
+            "name": "_Source_File3",
+            "type": "string"
+        },
+        {
+            "name": "_Source_Left3",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Top3",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Right3",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Bottom3",
+            "type": "int"
+        },
+        {
+            "name": "_Source_File4",
+            "type": "string"
+        },
+        {
+            "name": "_Source_Left4",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Top4",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Right4",
+            "type": "int"
+        },
+        {
+            "name": "_Source_Bottom4",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosX1",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosY1",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosX2",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosY2",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosX3",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosY3",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosX4",
+            "type": "int"
+        },
+        {
+            "name": "_Source_PosY4",
+            "type": "int"
+        },
+        {
+            "name": "_Name_Width",
+            "type": "int"
+        },
+        {
+            "name": "_Name_Height",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosX1",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosY1",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosX2",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosY2",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosX3",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosY3",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosX4",
+            "type": "int"
+        },
+        {
+            "name": "_Name_PosY4",
+            "type": "int"
+        },
+        {
+            "name": "_Title_Width",
+            "type": "int"
+        },
+        {
+            "name": "_Title_Height",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosX1",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosY1",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosX2",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosY2",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosX3",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosY3",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosX4",
+            "type": "int"
+        },
+        {
+            "name": "_Title_PosY4",
+            "type": "int"
+        },
+        {
+            "name": "_Delay_Time1",
+            "type": "int"
+        },
+        {
+            "name": "_Delay_Time2",
+            "type": "int"
+        },
+        {
+            "name": "_Delay_Time3",
+            "type": "int"
+        },
+        {
+            "name": "_Delay_Time4",
+            "type": "int"
+        },
+        {
+            "name": "_Name_Red",
+            "type": "int"
+        },
+        {
+            "name": "_Name_Green",
+            "type": "int"
+        },
+        {
+            "name": "_Name_Blue",
+            "type": "int"
+        },
+        {
+            "name": "_Name_Bold",
+            "type": "bool"
+        },
+        {
+            "name": "_Title_Red",
+            "type": "int"
+        },
+        {
+            "name": "_Title_Green",
+            "type": "int"
+        },
+        {
+            "name": "_Title_Blue",
+            "type": "int"
+        },
+        {
+            "name": "_Title_Bold",
+            "type": "bool"
+        },
+        {
+            "name": "_Pet_Motion",
+            "type": "int"
+        },
+        {
+            "name": "_Fx",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 190150117,
+            "_Description": "펫_16칸 (1일)",
+            "_Require1_Type": 6,
+            "_Require1_ID": 1,
+            "_Require1_Value1": 72,
+            "_Require1_Value2": 0,
+            "_Require2_Type": 2,
+            "_Require2_ID": 1,
+            "_Require2_Value1": 190150117,
+            "_Require2_Value2": 1,
+            "_Require3_Type": 0,
+            "_Require3_ID": 0,
+            "_Require3_Value1": 0,
+            "_Require3_Value2": 0,
+            "_Require4_Type": 0,
+            "_Require4_ID": 0,
+            "_Require4_Value1": 0,
+            "_Require4_Value2": 0,
+            "_Require_Left": -100,
+            "_Require_Top": -50,
+            "_Require_Right": 100,
+            "_Require_Bottom": 3,
+            "_Slot_Count": 4,
+            "_Source_File1": "MS_UI000.PNG",
+            "_Source_Left1": 0,
+            "_Source_Top1": 0,
+            "_Source_Right1": 256,
+            "_Source_Bottom1": 128,
+            "_Source_File2": "MS_UI000.PNG",
+            "_Source_Left2": 256,
+            "_Source_Top2": 0,
+            "_Source_Right2": 512,
+            "_Source_Bottom2": 128,
+            "_Source_File3": "MS_UI000.PNG",
+            "_Source_Left3": 512,
+            "_Source_Top3": 0,
+            "_Source_Right3": 768,
+            "_Source_Bottom3": 128,
+            "_Source_File4": "MS_UI000.PNG",
+            "_Source_Left4": 768,
+            "_Source_Top4": 0,
+            "_Source_Right4": 1024,
+            "_Source_Bottom4": 128,
+            "_Source_PosX1": -127,
+            "_Source_PosY1": -222,
+            "_Source_PosX2": -127,
+            "_Source_PosY2": -222,
+            "_Source_PosX3": -127,
+            "_Source_PosY3": -222,
+            "_Source_PosX4": -127,
+            "_Source_PosY4": -222,
+            "_Name_Width": 145,
+            "_Name_Height": 12,
+            "_Name_PosX1": -57,
+            "_Name_PosY1": -182,
+            "_Name_PosX2": -57,
+            "_Name_PosY2": -182,
+            "_Name_PosX3": -57,
+            "_Name_PosY3": -182,
+            "_Name_PosX4": -57,
+            "_Name_PosY4": -182,
+            "_Title_Width": 179,
+            "_Title_Height": 28,
+            "_Title_PosX1": -88,
+            "_Title_PosY1": -162,
+            "_Title_PosX2": -88,
+            "_Title_PosY2": -162,
+            "_Title_PosX3": -88,
+            "_Title_PosY3": -162,
+            "_Title_PosX4": -88,
+            "_Title_PosY4": -162,
+            "_Delay_Time1": 200,
+            "_Delay_Time2": 200,
+            "_Delay_Time3": 200,
+            "_Delay_Time4": 200,
+            "_Name_Red": 0,
+            "_Name_Green": 0,
+            "_Name_Blue": 0,
+            "_Name_Bold": true,
+            "_Title_Red": 122,
+            "_Title_Green": 49,
+            "_Title_Blue": 71,
+            "_Title_Bold": false,
+            "_Pet_Motion": 815100524,
+            "_Fx": 1010
+        },
+        {
+            "_Id": 190150106,
+            "_Description": "펫_16칸 (7일)",
+            "_Require1_Type": 6,
+            "_Require1_ID": 1,
+            "_Require1_Value1": 72,
+            "_Require1_Value2": 0,
+            "_Require2_Type": 2,
+            "_Require2_ID": 1,
+            "_Require2_Value1": 190150106,
+            "_Require2_Value2": 1,
+            "_Require3_Type": 0,
+            "_Require3_ID": 0,
+            "_Require3_Value1": 0,
+            "_Require3_Value2": 0,
+            "_Require4_Type": 0,
+            "_Require4_ID": 0,
+            "_Require4_Value1": 0,
+            "_Require4_Value2": 0,
+            "_Require_Left": -100,
+            "_Require_Top": -50,
+            "_Require_Right": 100,
+            "_Require_Bottom": 3,
+            "_Slot_Count": 4,
+            "_Source_File1": "MS_UI000.PNG",
+            "_Source_Left1": 0,
+            "_Source_Top1": 0,
+            "_Source_Right1": 256,
+            "_Source_Bottom1": 128,
+            "_Source_File2": "MS_UI000.PNG",
+            "_Source_Left2": 256,
+            "_Source_Top2": 0,
+            "_Source_Right2": 512,
+            "_Source_Bottom2": 128,
+            "_Source_File3": "MS_UI000.PNG",
+            "_Source_Left3": 512,
+            "_Source_Top3": 0,
+            "_Source_Right3": 768,
+            "_Source_Bottom3": 128,
+            "_Source_File4": "MS_UI000.PNG",
+            "_Source_Left4": 768,
+            "_Source_Top4": 0,
+            "_Source_Right4": 1024,
+            "_Source_Bottom4": 128,
+            "_Source_PosX1": -127,
+            "_Source_PosY1": -222,
+            "_Source_PosX2": -127,
+            "_Source_PosY2": -222,
+            "_Source_PosX3": -127,
+            "_Source_PosY3": -222,
+            "_Source_PosX4": -127,
+            "_Source_PosY4": -222,
+            "_Name_Width": 145,
+            "_Name_Height": 12,
+            "_Name_PosX1": -57,
+            "_Name_PosY1": -182,
+            "_Name_PosX2": -57,
+            "_Name_PosY2": -182,
+            "_Name_PosX3": -57,
+            "_Name_PosY3": -182,
+            "_Name_PosX4": -57,
+            "_Name_PosY4": -182,
+            "_Title_Width": 179,
+            "_Title_Height": 28,
+            "_Title_PosX1": -88,
+            "_Title_PosY1": -162,
+            "_Title_PosX2": -88,
+            "_Title_PosY2": -162,
+            "_Title_PosX3": -88,
+            "_Title_PosY3": -162,
+            "_Title_PosX4": -88,
+            "_Title_PosY4": -162,
+            "_Delay_Time1": 200,
+            "_Delay_Time2": 200,
+            "_Delay_Time3": 200,
+            "_Delay_Time4": 200,
+            "_Name_Red": 0,
+            "_Name_Green": 0,
+            "_Name_Blue": 0,
+            "_Name_Bold": true,
+            "_Title_Red": 122,
+            "_Title_Green": 49,
+            "_Title_Blue": 71,
+            "_Title_Bold": false,
+            "_Pet_Motion": 815000525,
+            "_Fx": 1010
+        }
+    ]
+}

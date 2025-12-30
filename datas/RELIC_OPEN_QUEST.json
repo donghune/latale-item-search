@@ -1,0 +1,174 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Type",
+            "type": "string"
+        },
+        {
+            "name": "_Checkflag",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID1",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID2",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID3",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID4",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID5",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID6",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID7",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID8",
+            "type": "int"
+        },
+        {
+            "name": "_RelicID",
+            "type": "int"
+        },
+        {
+            "name": "_Skip_Item1",
+            "type": "int"
+        },
+        {
+            "name": "_Skip_Item2",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Type": "시스템오픈",
+            "_Checkflag": 2003,
+            "_QuestID1": 232200001,
+            "_QuestID2": 232200002,
+            "_QuestID3": 232200003,
+            "_QuestID4": 232200004,
+            "_QuestID5": 232200005,
+            "_QuestID6": 232200006,
+            "_QuestID7": 232200007,
+            "_QuestID8": 232200008,
+            "_RelicID": 0,
+            "_Skip_Item1": 0,
+            "_Skip_Item2": 0
+        },
+        {
+            "_Id": 2,
+            "_Type": "마아트의 지혜",
+            "_Checkflag": 0,
+            "_QuestID1": 232300001,
+            "_QuestID2": 232300002,
+            "_QuestID3": 232300003,
+            "_QuestID4": 232300004,
+            "_QuestID5": 232300005,
+            "_QuestID6": 232300006,
+            "_QuestID7": 232300007,
+            "_QuestID8": 232300008,
+            "_RelicID": 101,
+            "_Skip_Item1": 190148479,
+            "_Skip_Item2": 190148478
+        },
+        {
+            "_Id": 3,
+            "_Type": "프리링 좌상",
+            "_Checkflag": 0,
+            "_QuestID1": 232400001,
+            "_QuestID2": 232400002,
+            "_QuestID3": 232400003,
+            "_QuestID4": 232400004,
+            "_QuestID5": 232400005,
+            "_QuestID6": 232400006,
+            "_QuestID7": 232400007,
+            "_QuestID8": 232400008,
+            "_RelicID": 201,
+            "_Skip_Item1": 190148479,
+            "_Skip_Item2": 190148478
+        },
+        {
+            "_Id": 4,
+            "_Type": "글레이프니르",
+            "_Checkflag": 0,
+            "_QuestID1": 232500001,
+            "_QuestID2": 232500002,
+            "_QuestID3": 232500003,
+            "_QuestID4": 232500004,
+            "_QuestID5": 232500005,
+            "_QuestID6": 232500006,
+            "_QuestID7": 232500007,
+            "_QuestID8": 232500008,
+            "_RelicID": 301,
+            "_Skip_Item1": 190148479,
+            "_Skip_Item2": 190148478
+        },
+        {
+            "_Id": 5,
+            "_Type": "타오르는 바람의 숨결",
+            "_Checkflag": 0,
+            "_QuestID1": 232600001,
+            "_QuestID2": 232600002,
+            "_QuestID3": 232600003,
+            "_QuestID4": 232600004,
+            "_QuestID5": 232600005,
+            "_QuestID6": 232600006,
+            "_QuestID7": 232600007,
+            "_QuestID8": 232600008,
+            "_RelicID": 401,
+            "_Skip_Item1": 190148479,
+            "_Skip_Item2": 190148478
+        },
+        {
+            "_Id": 6,
+            "_Type": "여우 구슬",
+            "_Checkflag": 0,
+            "_QuestID1": 232700001,
+            "_QuestID2": 232700002,
+            "_QuestID3": 232700003,
+            "_QuestID4": 232700004,
+            "_QuestID5": 232700005,
+            "_QuestID6": 232700006,
+            "_QuestID7": 232700007,
+            "_QuestID8": 232700008,
+            "_RelicID": 501,
+            "_Skip_Item1": 190148479,
+            "_Skip_Item2": 190148478
+        },
+        {
+            "_Id": 7,
+            "_Type": "구름 방망이",
+            "_Checkflag": 0,
+            "_QuestID1": 232800001,
+            "_QuestID2": 232800002,
+            "_QuestID3": 232800003,
+            "_QuestID4": 232800004,
+            "_QuestID5": 232800005,
+            "_QuestID6": 232800006,
+            "_QuestID7": 232800007,
+            "_QuestID8": 232800008,
+            "_RelicID": 601,
+            "_Skip_Item1": 190148479,
+            "_Skip_Item2": 190148478
+        }
+    ]
+}

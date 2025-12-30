@@ -1,0 +1,88 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Seal_Slot_Name",
+            "type": "string"
+        },
+        {
+            "name": "_QuestID1",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID2",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID3",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID4",
+            "type": "int"
+        },
+        {
+            "name": "_QuestID5",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Seal_Slot_Name": "자격의 장",
+            "_QuestID1": 184001001,
+            "_QuestID2": 184001002,
+            "_QuestID3": 184001003,
+            "_QuestID4": 184001004,
+            "_QuestID5": 184001005
+        },
+        {
+            "_Id": 2,
+            "_Seal_Slot_Name": "수호의 장",
+            "_QuestID1": 184001006,
+            "_QuestID2": 184001007,
+            "_QuestID3": 184001008,
+            "_QuestID4": 184001009,
+            "_QuestID5": 184001010
+        },
+        {
+            "_Id": 3,
+            "_Seal_Slot_Name": "가호의 장",
+            "_QuestID1": 184001011,
+            "_QuestID2": 184001012,
+            "_QuestID3": 184001013,
+            "_QuestID4": 184001014,
+            "_QuestID5": 184001015
+        },
+        {
+            "_Id": 4,
+            "_Seal_Slot_Name": "용기의 장",
+            "_QuestID1": 184001016,
+            "_QuestID2": 184001017,
+            "_QuestID3": 184001018,
+            "_QuestID4": 184001019,
+            "_QuestID5": 184001020
+        },
+        {
+            "_Id": 5,
+            "_Seal_Slot_Name": "환영의 장",
+            "_QuestID1": 184001021,
+            "_QuestID2": 184001022,
+            "_QuestID3": 184001023,
+            "_QuestID4": 184001024,
+            "_QuestID5": 184001025
+        },
+        {
+            "_Id": 6,
+            "_Seal_Slot_Name": "숙명의 장",
+            "_QuestID1": 184001026,
+            "_QuestID2": 184001027,
+            "_QuestID3": 184001028,
+            "_QuestID4": 184001029,
+            "_QuestID5": 184001030
+        }
+    ]
+}

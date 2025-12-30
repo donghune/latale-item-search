@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>아이템 검색</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd@5.17.3/dist/reset.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd@5.17.3/dist/antd.min.css">
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <style>
+    body {
+      background: radial-gradient(circle at 20% 20%, #f0f5ff, #ffffff 40%);
+    }
+
+    #root {
+      padding: 48px 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.11/dayjs.min.js" crossorigin></script>
+  <script src="https://cdn.jsdelivr.net/npm/antd@5.17.3/dist/antd.min.js" crossorigin></script>
+
+  <script type="text/babel" data-presets="env,react">
+    const { ConfigProvider, App: AntdApp, Layout, Typography, Input, Table, Space, Card, Alert, theme, message, Tag } = antd;
+    const { useEffect, useMemo, useState } = React;
+    const { Header, Content } = Layout;
+    const { Title, Text } = Typography;
+
+    const itemSources = ["datas/ITEM_1.json", "datas/ITEM_2.json", "datas/ITEM_3.json"];
+    const recipeSource = "datas/ITEM_CREATE_RECIPE.json";
+    const upgradeSource = "datas/ITEM_UPGRADE.json";
+
+    function ItemSearch() {
+      const [items, setItems] = useState([]);
+      const [recipes, setRecipes] = useState([]);
+      const [upgrades, setUpgrades] = useState([]);
+      const [query, setQuery] = useState("");
+      const [loading, setLoading] = useState(true);
+      const [loadError, setLoadError] = useState("");
+
+      useEffect(() => {
+        const loadAll = async () => {
+          try {
+            const payloads = await Promise.all(
+              itemSources.map(async (path) => {
+                const res = await fetch(path);
+                if (!res.ok) {
+                  throw new Error(`${path} 불러오기 실패 (${res.status})`);
+                }
+                return res.json();
+              })
+            );
+            const recipeRes = await fetch(recipeSource);
+            const upgradeRes = await fetch(upgradeSource);
+            if (!recipeRes.ok || !upgradeRes.ok) {
+              throw new Error("조합/강화 데이터를 불러오지 못했습니다.");
+            }
+            const recipeJson = await recipeRes.json();
+            const upgradeJson = await upgradeRes.json();
+
+            const merged = payloads.flatMap((entry) => (Array.isArray(entry?.datas) ? entry.datas : []));
+            setRecipes(Array.isArray(recipeJson?.datas) ? recipeJson.datas : []);
+            setUpgrades(Array.isArray(upgradeJson?.datas) ? upgradeJson.datas : []);
+            setItems(merged);
+          } catch (err) {
+            console.error(err);
+            setLoadError("데이터를 자동으로 불러오지 못했습니다. 로컬 서버에서 열어주세요 (예: python3 -m http.server 3000).");
+            message.error("데이터 로드 실패");
+          } finally {
+            setLoading(false);
+          }
+        };
+
+        loadAll();
+      }, []);
+
+      const itemsById = useMemo(() => {
+        const map = new Map();
+        items.forEach((it) => {
+          if (it && typeof it._Id !== "undefined") map.set(it._Id, it);
+        });
+        return map;
+      }, [items]);
+
+      const recipesByResult = useMemo(() => {
+        const map = new Map();
+        recipes.forEach((r) => {
+          if (!r || typeof r._Result === "undefined") return;
+          if (!map.has(r._Result)) map.set(r._Result, []);
+          map.get(r._Result).push(r);
+        });
+        return map;
+      }, [recipes]);
+
+      const recipesByMaterial = useMemo(() => {
+        const map = new Map();
+        recipes.forEach((r) => {
+          if (!r) return;
+          for (let i = 1; i <= 10; i += 1) {
+            const id = r[`_Material${i}`];
+            if (id) {
+              if (!map.has(id)) map.set(id, []);
+              map.get(id).push(r);
+            }
+          }
+        });
+        return map;
+      }, [recipes]);
+
+      const upgradesByMain = useMemo(() => {
+        const map = new Map();
+        upgrades.forEach((u) => {
+          if (!u || typeof u._Main_Item === "undefined") return;
+          if (!map.has(u._Main_Item)) map.set(u._Main_Item, []);
+          map.get(u._Main_Item).push(u);
+        });
+        return map;
+      }, [upgrades]);
+
+      const upgradesByMaterial = useMemo(() => {
+        const map = new Map();
+        upgrades.forEach((u) => {
+          if (!u) return;
+          for (let i = 1; i <= 4; i += 1) {
+            const id = u[`_Material${i}`];
+            if (id) {
+              if (!map.has(id)) map.set(id, []);
+              map.get(id).push(u);
+            }
+          }
+        });
+        return map;
+      }, [upgrades]);
+
+      const filtered = useMemo(() => {
+        const term = query.trim().toLowerCase();
+        if (!term) return items;
+        return items.filter((item) => {
+          const name = String(item._Name || "").toLowerCase();
+          return name.includes(term);
+        });
+      }, [items, query]);
+
+      const renderMaterials = (obj, max) => {
+        const list = [];
+        for (let i = 1; i <= max; i += 1) {
+          const id = obj[`_Material${i}`];
+          const count = obj[`_Material_Count${i}`];
+          if (id && count) {
+            const name = itemsById.get(id)?._Name || "";
+            list.push({ id, count, name });
+          }
+        }
+        if (!list.length) return <Text type="secondary">재료 없음</Text>;
+        return (
+          <Space wrap>
+            {list.map((m) => (
+              <Tag key={`${m.id}-${m.count}`} color="blue">
+                {m.name || `ID:${m.id}`} × {m.count}
+              </Tag>
+            ))}
+          </Space>
+        );
+      };
+
+      const renderRecipes = (item) => {
+        const asResult = recipesByResult.get(item._Id) || [];
+        const asMaterial = recipesByMaterial.get(item._Id) || [];
+        if (!asResult.length && !asMaterial.length) return <Text type="secondary">레시피 없음</Text>;
+        return (
+          <Space direction="vertical" size="small">
+            {asResult.length > 0 && (
+              <Card key="recipe-result" size="small" title="결과로 생성">
+                <Space direction="vertical" size="small">
+                  {asResult.map((r) => (
+                    <div key={r._Id}>
+                      <div style={{ marginBottom: 4 }}>
+                        결과: {itemsById.get(r._Result)?._Name || r._Result} (x{r._Result_Count || 1})
+                      </div>
+                      {renderMaterials(r, 10)}
+                    </div>
+                  ))}
+                </Space>
+              </Card>
+            )}
+            {asMaterial.length > 0 && (
+              <Card key="recipe-material" size="small" title="재료로 사용">
+                <Space direction="vertical" size="small">
+                  {asMaterial.map((r) => (
+                    <div key={`m-${r._Id}`}>
+                      <div style={{ marginBottom: 4 }}>
+                        결과: {itemsById.get(r._Result)?._Name || r._Result} (x{r._Result_Count || 1})
+                      </div>
+                      {renderMaterials(r, 10)}
+                    </div>
+                  ))}
+                </Space>
+              </Card>
+            )}
+          </Space>
+        );
+      };
+
+      const renderUpgrades = (item) => {
+        const asMain = upgradesByMain.get(item._Id) || [];
+        const asMaterial = upgradesByMaterial.get(item._Id) || [];
+        if (!asMain.length && !asMaterial.length) return <Text type="secondary">강화 정보 없음</Text>;
+        return (
+          <Space direction="vertical" size="small">
+            {asMain.length > 0 && (
+              <Card key="upgrade-main" size="small" title="메인 아이템">
+                <Space direction="vertical" size="small">
+                  {asMain.map((u) => (
+                    <div key={u._Id}>
+                      <div style={{ marginBottom: 4 }}>
+                        결과: {itemsById.get(u._Result)?._Name || u._Result}
+                      </div>
+                      {renderMaterials(u, 4)}
+                    </div>
+                  ))}
+                </Space>
+              </Card>
+            )}
+            {asMaterial.length > 0 && (
+              <Card key="upgrade-material" size="small" title="재료로 사용">
+                <Space direction="vertical" size="small">
+                  {asMaterial.map((u) => (
+                    <div key={`um-${u._Id}`}>
+                      <div style={{ marginBottom: 4 }}>
+                        결과: {itemsById.get(u._Result)?._Name || u._Result}
+                      </div>
+                      {renderMaterials(u, 4)}
+                    </div>
+                  ))}
+                </Space>
+              </Card>
+            )}
+          </Space>
+        );
+      };
+
+      const columns = [
+        { title: "아이템명", dataIndex: "_Name", key: "name", render: (text) => text || "-" },
+        {
+          title: "설명",
+          dataIndex: "_Description",
+          key: "description",
+          width: "32%",
+          render: (text) => <Text style={{ whiteSpace: "pre-line" }}>{text ? text.replace(/\\n/g, "\n") : "-"}</Text>,
+        },
+        { title: "ID", dataIndex: "_Id", key: "id", width: 120 },
+        {
+          title: "조합(레시피)",
+          key: "recipe",
+          width: "24%",
+          render: (_, record) => renderRecipes(record),
+        },
+        {
+          title: "강화",
+          key: "upgrade",
+          width: "24%",
+          render: (_, record) => renderUpgrades(record),
+        },
+      ];
+
+      return (
+        <ConfigProvider
+          theme={{ algorithm: theme.defaultAlgorithm, token: { colorPrimary: "#1677ff", borderRadius: 8 } }}
+        >
+          <AntdApp>
+            <Layout style={{ background: "transparent" }}>
+              <Header style={{ background: "transparent", padding: 0 }}>
+                <Title level={2} style={{ margin: 0 }}>
+                  아이템 검색기
+                </Title>
+                <Text type="secondary">ITEM_1/2/3.json 전체를 순회해서 검색합니다.</Text>
+              </Header>
+              <Content style={{ marginTop: 24 }}>
+                <Space direction="vertical" size="large" style={{ width: "100%" }}>
+                  <Input.Search
+                    allowClear
+                    size="large"
+                    placeholder="아이템 이름 또는 설명을 입력하세요"
+                    onChange={(e) => setQuery(e.target.value)}
+                    value={query}
+                    enterButton="검색"
+                  />
+                  {loadError && (
+                    <Alert
+                      type="error"
+                      showIcon
+                      message="데이터 자동 로드 실패"
+                      description="파일을 직접 선택할 필요는 없습니다. 루트에서 python3 -m http.server 3000 실행 후 http://localhost:3000 으로 접속해주세요."
+                    />
+                  )}
+                  <Card>
+                    <Table
+                      rowKey={(row) =>
+                        row._Id ?? `${row._Name || "item"}-${row._Category || ""}-${row._Num || ""}`
+                      }
+                      loading={loading}
+                      columns={columns}
+                      dataSource={filtered}
+                      pagination={{ pageSize: 15, showSizeChanger: true }}
+                    />
+                  </Card>
+                </Space>
+              </Content>
+            </Layout>
+          </AntdApp>
+        </ConfigProvider>
+      );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById("root"));
+    root.render(<ItemSearch />);
+  </script>
+</body>
+
+</html>

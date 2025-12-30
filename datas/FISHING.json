@@ -1,0 +1,152 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_StageID",
+            "type": "int"
+        },
+        {
+            "name": "_MapGroupID",
+            "type": "int"
+        },
+        {
+            "name": "_ItemID",
+            "type": "int"
+        },
+        {
+            "name": "_FishingType",
+            "type": "int"
+        },
+        {
+            "name": "_FishingTimeMin",
+            "type": "int"
+        },
+        {
+            "name": "_FishingTimeMax",
+            "type": "int"
+        },
+        {
+            "name": "_WaitTime",
+            "type": "int"
+        },
+        {
+            "name": "_Reward",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_StageID": 203,
+            "_MapGroupID": 0,
+            "_ItemID": 82700101,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 1
+        },
+        {
+            "_Id": 2,
+            "_StageID": 203,
+            "_MapGroupID": 0,
+            "_ItemID": 82700201,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 1
+        },
+        {
+            "_Id": 3,
+            "_StageID": 203,
+            "_MapGroupID": 0,
+            "_ItemID": 82700211,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 1
+        },
+        {
+            "_Id": 4,
+            "_StageID": 203,
+            "_MapGroupID": 0,
+            "_ItemID": 82700221,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 1
+        },
+        {
+            "_Id": 5,
+            "_StageID": 203,
+            "_MapGroupID": 0,
+            "_ItemID": 82700301,
+            "_FishingType": 1,
+            "_FishingTimeMin": 1,
+            "_FishingTimeMax": 2,
+            "_WaitTime": 2,
+            "_Reward": 1
+        },
+        {
+            "_Id": 6,
+            "_StageID": 203,
+            "_MapGroupID": 1,
+            "_ItemID": 82700101,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 3
+        },
+        {
+            "_Id": 7,
+            "_StageID": 203,
+            "_MapGroupID": 1,
+            "_ItemID": 82700201,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 3
+        },
+        {
+            "_Id": 8,
+            "_StageID": 203,
+            "_MapGroupID": 1,
+            "_ItemID": 82700211,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 3
+        },
+        {
+            "_Id": 9,
+            "_StageID": 203,
+            "_MapGroupID": 1,
+            "_ItemID": 82700221,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 3
+        },
+        {
+            "_Id": 10,
+            "_StageID": 203,
+            "_MapGroupID": 4,
+            "_ItemID": 82700311,
+            "_FishingType": 1,
+            "_FishingTimeMin": 3,
+            "_FishingTimeMax": 10,
+            "_WaitTime": 2,
+            "_Reward": 8
+        }
+    ]
+}

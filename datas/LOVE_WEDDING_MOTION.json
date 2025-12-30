@@ -1,0 +1,338 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_UseCheck",
+            "type": "int"
+        },
+        {
+            "name": "_Turn",
+            "type": "int"
+        },
+        {
+            "name": "_SceneTime",
+            "type": "int"
+        },
+        {
+            "name": "_ManWoman",
+            "type": "int"
+        },
+        {
+            "name": "_Scene_Man",
+            "type": "int"
+        },
+        {
+            "name": "_Des_Man",
+            "type": "string"
+        },
+        {
+            "name": "_Scene_Woman",
+            "type": "int"
+        },
+        {
+            "name": "_Des_Woman",
+            "type": "string"
+        },
+        {
+            "name": "_Direction_Man",
+            "type": "int"
+        },
+        {
+            "name": "_Direction_Woman",
+            "type": "int"
+        },
+        {
+            "name": "_Pose_Man_X",
+            "type": "int"
+        },
+        {
+            "name": "_Pose_Man_Y",
+            "type": "int"
+        },
+        {
+            "name": "_Pose_Woman_X",
+            "type": "int"
+        },
+        {
+            "name": "_Pose_Woman_Y",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_UseCheck": 63,
+            "_Turn": 0,
+            "_SceneTime": 3,
+            "_ManWoman": 10,
+            "_Scene_Man": 0,
+            "_Des_Man": "외치기 후 다음 진행",
+            "_Scene_Woman": 0,
+            "_Des_Woman": "외치기 후 다음 진행",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 2,
+            "_UseCheck": 63,
+            "_Turn": 1,
+            "_SceneTime": 3,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900030,
+            "_Des_Man": "결혼식 진행_00_male",
+            "_Scene_Woman": 3900033,
+            "_Des_Woman": "결혼식 진행_00_Female",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 3,
+            "_UseCheck": 63,
+            "_Turn": 2,
+            "_SceneTime": 10,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900008,
+            "_Des_Man": "150_04_01_Wedding_male(결혼 시작 FX)",
+            "_Scene_Woman": 3900000,
+            "_Des_Woman": "150_04_01_Wedding_Female(결혼 시작 FX)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 4,
+            "_UseCheck": 63,
+            "_Turn": 3,
+            "_SceneTime": 7,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900009,
+            "_Des_Man": "150_04_02_Wedding_male(하늘 아래 대사, 하트FX)",
+            "_Scene_Woman": 3900001,
+            "_Des_Woman": "150_04_02_Wedding__Female(하늘 아래 대사, 하트FX)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 5,
+            "_UseCheck": 63,
+            "_Turn": 4,
+            "_SceneTime": 7,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900012,
+            "_Des_Man": "150_04_05_Wedding_male(두 사람 대사, 뽀뽀 및 FX)",
+            "_Scene_Woman": 3900004,
+            "_Des_Woman": "150_04_05_Wedding_Female(두 사람 대사, 뽀뽀 및 FX)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 6,
+            "_UseCheck": 63,
+            "_Turn": 5,
+            "_SceneTime": 10,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900011,
+            "_Des_Man": "150_04_04_Wedding_male(부케 던지기 대사 및 스파이크)",
+            "_Scene_Woman": 3900003,
+            "_Des_Woman": "150_04_04_Wedding_Female(부케 던지기 대사 및 스파이크)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 7,
+            "_UseCheck": 63,
+            "_Turn": 6,
+            "_SceneTime": 6,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900014,
+            "_Des_Man": "150_04_07_Wedding_male",
+            "_Scene_Woman": 3900006,
+            "_Des_Woman": "_04_07_Wedding_Female(신부가 부케 던지는 FX)신부에게 붙임)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 8,
+            "_UseCheck": 63,
+            "_Turn": 7,
+            "_SceneTime": 10,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900013,
+            "_Des_Man": "150_04_06_Wedding_male(결혼 종료 대사)",
+            "_Scene_Woman": 3900005,
+            "_Des_Woman": "150_04_06_Wedding_Female(결혼 종료 대사)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 9,
+            "_UseCheck": 63,
+            "_Turn": 8,
+            "_SceneTime": 6,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900015,
+            "_Des_Man": "150_04_08_Wedding_male(몬스터 소환 대사 및 FX)",
+            "_Scene_Woman": 3900007,
+            "_Des_Woman": "150_04_08_Wedding_Female(몬스터 소환 대사 및 FX)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 10,
+            "_UseCheck": 63,
+            "_Turn": 9,
+            "_SceneTime": 6,
+            "_ManWoman": 10,
+            "_Scene_Man": 3900031,
+            "_Des_Man": "150_04_09_Wedding_male(몬스터 소환)",
+            "_Scene_Woman": 3900034,
+            "_Des_Woman": "150_04_09_Wedding_Female(몬스터 소환)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 11,
+            "_UseCheck": 63,
+            "_Turn": 0,
+            "_SceneTime": 60,
+            "_ManWoman": 20,
+            "_Scene_Man": 3900016,
+            "_Des_Man": "프러포즈 진행_1(ProposeStart)",
+            "_Scene_Woman": 3900017,
+            "_Des_Woman": "프러포즈 진행_2(ProposeWait)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 12,
+            "_UseCheck": 63,
+            "_Turn": 1,
+            "_SceneTime": 5,
+            "_ManWoman": 20,
+            "_Scene_Man": 3900018,
+            "_Des_Man": "프러포즈 진행_3(ProposeSuccess)",
+            "_Scene_Woman": 3900019,
+            "_Des_Woman": "프러포즈 진행_4(ProposeAgree)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 13,
+            "_UseCheck": 63,
+            "_Turn": 2,
+            "_SceneTime": 6,
+            "_ManWoman": 20,
+            "_Scene_Man": 3900020,
+            "_Des_Man": "프러포즈 진행_5(ProposeFoot)",
+            "_Scene_Woman": 3900021,
+            "_Des_Woman": "프러포즈 진행_6(ProposeSorry)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 14,
+            "_UseCheck": 63,
+            "_Turn": 0,
+            "_SceneTime": 60,
+            "_ManWoman": 21,
+            "_Scene_Man": 3900025,
+            "_Des_Man": "프러포즈 진행_2(ProposeWait)",
+            "_Scene_Woman": 3900024,
+            "_Des_Woman": "프러포즈 진행_1(ProposeStart)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 15,
+            "_UseCheck": 63,
+            "_Turn": 1,
+            "_SceneTime": 5,
+            "_ManWoman": 21,
+            "_Scene_Man": 3900027,
+            "_Des_Man": "프러포즈 진행_4(ProposeAgree)",
+            "_Scene_Woman": 3900026,
+            "_Des_Woman": "프러포즈 진행_3(ProposeSuccess)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        },
+        {
+            "_Id": 16,
+            "_UseCheck": 63,
+            "_Turn": 2,
+            "_SceneTime": 6,
+            "_ManWoman": 21,
+            "_Scene_Man": 3900029,
+            "_Des_Man": "프러포즈 진행_6(ProposeSorry)",
+            "_Scene_Woman": 3900028,
+            "_Des_Woman": "프러포즈 진행_5(ProposeFoot)",
+            "_Direction_Man": 0,
+            "_Direction_Woman": 0,
+            "_Pose_Man_X": 380,
+            "_Pose_Man_Y": 719,
+            "_Pose_Woman_X": 444,
+            "_Pose_Woman_Y": 719
+        }
+    ]
+}

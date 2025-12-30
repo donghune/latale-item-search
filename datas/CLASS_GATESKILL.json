@@ -1,0 +1,208 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Name",
+            "type": "string"
+        },
+        {
+            "name": "_Gate_Description",
+            "type": "string"
+        },
+        {
+            "name": "_Gate_Icon",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_IconIndex",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_CoolTimeID",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_CoolTime",
+            "type": "int"
+        },
+        {
+            "name": "_Require_Use_GatePoint",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Use_GatePoint",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Consumption",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Sound",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Pc_EffectID1",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Pc_EffectID2",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Mon_EffectID1",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Mon_EffectID2",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_In_Fx",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Out1_Fx",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Out2_Fx",
+            "type": "int"
+        },
+        {
+            "name": "_Gate_Time",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1001,
+            "_Gate_Name": "『 게이트 I 』",
+            "_Gate_Description": "[게이트] 입구와 출구의 기능을 가진 두 개의 게이트를 생성하여, 자신과 파티원 혹은 일반 몬스터의 위치를 순간적으로 이동시킵니다.\\n\\n※게이트 정보※\\n☞ 게이트 생성: GP 80 소모\\n☞ 게이트 지속 소모: 초당 GP 5 소모\\n☞ 게이트 지속 시간: 3초\\n☞ 게이트 재 이용 대기시간\\n캐릭터: 1초, 몬스터 3초\\n(I~III 공통 적용)\\n\\n※특수 효과※\\n☞ 캐릭터: 게이트 통과 시 1초 간 넉백무시\\n☞ 몬스터: 게이트 통과 시 3초 간 슬로우\\n\\n※이용 제한※\\n☞ 속박 상태에서는 게이트 이용 불가",
+            "_Gate_Icon": 10003030,
+            "_Gate_IconIndex": 233,
+            "_Gate_CoolTimeID": 99882,
+            "_Gate_CoolTime": 30,
+            "_Require_Use_GatePoint": 80,
+            "_Gate_Use_GatePoint": 75,
+            "_Gate_Consumption": 5,
+            "_Gate_Sound": 7848,
+            "_Gate_Pc_EffectID1": 13025286,
+            "_Gate_Pc_EffectID2": 0,
+            "_Gate_Mon_EffectID1": 13025288,
+            "_Gate_Mon_EffectID2": 13016460,
+            "_Gate_In_Fx": 21813,
+            "_Gate_Out1_Fx": 21815,
+            "_Gate_Out2_Fx": 21816,
+            "_Gate_Time": 30
+        },
+        {
+            "_Id": 1002,
+            "_Gate_Name": "『 게이트 I 』",
+            "_Gate_Description": "[게이트] 입구와 출구의 기능을 가진 두 개의 게이트를 생성하여, 자신과 파티원 혹은 일반 몬스터의 위치를 순간적으로 이동시킵니다.\\n\\n※게이트 정보※\\n☞ 게이트 생성: GP 80 소모\\n☞ 게이트 지속 소모: 초당 GP 5 소모\\n☞ 게이트 지속 시간: 3초\\n☞ 게이트 재 이용 대기시간\\n캐릭터: 1초, 몬스터 3초\\n(I~III 공통 적용)\\n\\n※특수 효과※\\n☞ 캐릭터: 게이트 통과 시 1초 간 넉백무시\\n☞ 몬스터: 게이트 통과 시 3초 간 슬로우\\n\\n※이용 제한※\\n☞ 속박 상태에서는 게이트 이용 불가",
+            "_Gate_Icon": 10003030,
+            "_Gate_IconIndex": 233,
+            "_Gate_CoolTimeID": 99882,
+            "_Gate_CoolTime": 30,
+            "_Require_Use_GatePoint": 80,
+            "_Gate_Use_GatePoint": 75,
+            "_Gate_Consumption": 5,
+            "_Gate_Sound": 7848,
+            "_Gate_Pc_EffectID1": 13025286,
+            "_Gate_Pc_EffectID2": 0,
+            "_Gate_Mon_EffectID1": 13025288,
+            "_Gate_Mon_EffectID2": 13016460,
+            "_Gate_In_Fx": 21813,
+            "_Gate_Out1_Fx": 21815,
+            "_Gate_Out2_Fx": 21816,
+            "_Gate_Time": 30
+        },
+        {
+            "_Id": 1003,
+            "_Gate_Name": "『 게이트 II 』",
+            "_Gate_Description": "[게이트] 입구와 출구의 기능을 가진 두 개의 게이트를 생성하여, 자신과 파티원 혹은 일반 몬스터의 위치를 순간적으로 이동시킵니다.\\n\\n※게이트 정보※\\n☞ 게이트 생성: GP 80 소모\\n☞ 게이트 지속 소모: 초당 GP 5 소모\\n☞ 게이트 지속 시간: 0.2초\\n☞ 게이트 재 이용 대기시간\\n캐릭터: 1초, 몬스터 3초\\n(I~III 공통 적용)\\n\\n※특수 효과※\\n☞ 캐릭터: 게이트 통과 시 1초 간 넉백무시\\n☞ 여행자 계열 일반 스킬 쿨타임 1초 즉시 감소\\n\\n※이용 제한※\\n☞ 속박 상태에서는 게이트 이용 불가",
+            "_Gate_Icon": 10003030,
+            "_Gate_IconIndex": 234,
+            "_Gate_CoolTimeID": 99883,
+            "_Gate_CoolTime": 10,
+            "_Require_Use_GatePoint": 80,
+            "_Gate_Use_GatePoint": 75,
+            "_Gate_Consumption": 5,
+            "_Gate_Sound": 7848,
+            "_Gate_Pc_EffectID1": 13025286,
+            "_Gate_Pc_EffectID2": 13016241,
+            "_Gate_Mon_EffectID1": 13025288,
+            "_Gate_Mon_EffectID2": 0,
+            "_Gate_In_Fx": 21813,
+            "_Gate_Out1_Fx": 21815,
+            "_Gate_Out2_Fx": 21816,
+            "_Gate_Time": 2
+        },
+        {
+            "_Id": 1004,
+            "_Gate_Name": "『 게이트 I 』",
+            "_Gate_Description": "[게이트] 입구와 출구의 기능을 가진 두 개의 게이트를 생성하여, 자신과 파티원 혹은 일반 몬스터의 위치를 순간적으로 이동시킵니다.\\n\\n※게이트 정보※\\n☞ 게이트 생성: GP 80 소모\\n☞ 게이트 지속 소모: 초당 GP 5 소모\\n☞ 게이트 지속 시간: 3초\\n☞ 게이트 재 이용 대기시간\\n캐릭터: 1초, 몬스터 3초\\n(I~III 공통 적용)\\n\\n※특수 효과※\\n☞ 캐릭터: 게이트 통과 시 1초 간 넉백무시\\n☞ 몬스터: 게이트 통과 시 3초 간 슬로우\\n\\n※이용 제한※\\n☞ 속박 상태에서는 게이트 이용 불가",
+            "_Gate_Icon": 10003030,
+            "_Gate_IconIndex": 233,
+            "_Gate_CoolTimeID": 99882,
+            "_Gate_CoolTime": 50,
+            "_Require_Use_GatePoint": 80,
+            "_Gate_Use_GatePoint": 75,
+            "_Gate_Consumption": 5,
+            "_Gate_Sound": 7848,
+            "_Gate_Pc_EffectID1": 13025286,
+            "_Gate_Pc_EffectID2": 0,
+            "_Gate_Mon_EffectID1": 13025288,
+            "_Gate_Mon_EffectID2": 13016460,
+            "_Gate_In_Fx": 21813,
+            "_Gate_Out1_Fx": 21815,
+            "_Gate_Out2_Fx": 21816,
+            "_Gate_Time": 30
+        },
+        {
+            "_Id": 1005,
+            "_Gate_Name": "『 게이트 II 』",
+            "_Gate_Description": "[게이트] 입구와 출구의 기능을 가진 두 개의 게이트를 생성하여, 자신과 파티원 혹은 일반 몬스터의 위치를 순간적으로 이동시킵니다.\\n\\n※게이트 정보※\\n☞ 게이트 생성: GP 80 소모\\n☞ 게이트 지속 소모: 초당 GP 5 소모\\n☞ 게이트 지속 시간: 0.2초\\n☞ 게이트 재 이용 대기시간\\n캐릭터: 1초, 몬스터 3초\\n(I~III 공통 적용)\\n\\n※특수 효과※\\n☞ 캐릭터: 게이트 통과 시 1초 간 넉백무시\\n☞ 여행자 계열 일반 스킬 쿨타임 1초 즉시 감소\\n\\n※이용 제한※\\n☞ 속박 상태에서는 게이트 이용 불가",
+            "_Gate_Icon": 10003030,
+            "_Gate_IconIndex": 234,
+            "_Gate_CoolTimeID": 99883,
+            "_Gate_CoolTime": 10,
+            "_Require_Use_GatePoint": 80,
+            "_Gate_Use_GatePoint": 75,
+            "_Gate_Consumption": 5,
+            "_Gate_Sound": 7848,
+            "_Gate_Pc_EffectID1": 13025286,
+            "_Gate_Pc_EffectID2": 13016241,
+            "_Gate_Mon_EffectID1": 13025288,
+            "_Gate_Mon_EffectID2": 0,
+            "_Gate_In_Fx": 21813,
+            "_Gate_Out1_Fx": 21815,
+            "_Gate_Out2_Fx": 21816,
+            "_Gate_Time": 2
+        },
+        {
+            "_Id": 1006,
+            "_Gate_Name": "『 게이트 III 』",
+            "_Gate_Description": "[게이트] 입구와 출구의 기능을 가진 두 개의 게이트를 생성하여, 자신과 파티원 혹은 일반 몬스터의 위치를 순간적으로 이동시킵니다.\\n\\n※게이트 정보※\\n☞ 게이트 생성: GP 80 소모\\n☞ 게이트 지속 소모: 초당 GP 5 소모\\n☞ 게이트 지속 시간: 0.2초\\n☞ 게이트 재 이용 대기시간\\n캐릭터: 1초, 몬스터 3초\\n(I~III 공통 적용)\\n\\n※특수 효과※\\n☞ 캐릭터: 게이트 통과 시 1초 간 넉백무시\\n☞ 여행자 계열 일반 스킬 쿨타임 1초 즉시 감소",
+            "_Gate_Icon": 10003030,
+            "_Gate_IconIndex": 235,
+            "_Gate_CoolTimeID": 99881,
+            "_Gate_CoolTime": 10,
+            "_Require_Use_GatePoint": 80,
+            "_Gate_Use_GatePoint": 75,
+            "_Gate_Consumption": 5,
+            "_Gate_Sound": 7848,
+            "_Gate_Pc_EffectID1": 13025286,
+            "_Gate_Pc_EffectID2": 13016241,
+            "_Gate_Mon_EffectID1": 13025288,
+            "_Gate_Mon_EffectID2": 0,
+            "_Gate_In_Fx": 21813,
+            "_Gate_Out1_Fx": 21815,
+            "_Gate_Out2_Fx": 21816,
+            "_Gate_Time": 2
+        }
+    ]
+}

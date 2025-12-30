@@ -1,0 +1,284 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Mission_Group",
+            "type": "int"
+        },
+        {
+            "name": "_Mission_Name",
+            "type": "string"
+        },
+        {
+            "name": "_Mission_Description",
+            "type": "string"
+        },
+        {
+            "name": "_Mission_Index",
+            "type": "int"
+        },
+        {
+            "name": "_Mission_Kind1",
+            "type": "int"
+        },
+        {
+            "name": "_Mission_ID1",
+            "type": "int"
+        },
+        {
+            "name": "_Mission_Count1",
+            "type": "int"
+        },
+        {
+            "name": "_Mission_Reward_Point",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 10511,
+            "_Mission_Group": 1,
+            "_Mission_Name": "퀘스트 3회 완료",
+            "_Mission_Description": "아무(일반, 랜덤, 일일, 이벤트) 퀘스트를 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 6,
+            "_Mission_ID1": 0,
+            "_Mission_Count1": 3,
+            "_Mission_Reward_Point": 200
+        },
+        {
+            "_Id": 10512,
+            "_Mission_Group": 1,
+            "_Mission_Name": "소환수 훈련 1회 완료",
+            "_Mission_Description": "소환수 훈련을 완료하여 보상을 1회 획득하자.(레벨제한: 205 이상)",
+            "_Mission_Index": 2,
+            "_Mission_Kind1": 8,
+            "_Mission_ID1": 1,
+            "_Mission_Count1": 1,
+            "_Mission_Reward_Point": 200
+        },
+        {
+            "_Id": 10513,
+            "_Mission_Group": 1,
+            "_Mission_Name": "하급 재화던전 보물상자 1회 처치",
+            "_Mission_Description": "재화 던전 '하급 재화던전 보물상자'를 처치하자. (가이드북-재화 던전)",
+            "_Mission_Index": 1,
+            "_Mission_Kind1": 2,
+            "_Mission_ID1": 810009478,
+            "_Mission_Count1": 1,
+            "_Mission_Reward_Point": 200
+        },
+        {
+            "_Id": 10514,
+            "_Mission_Group": 1,
+            "_Mission_Name": "황금의 증표 1회 구입",
+            "_Mission_Description": "벨로스 도시 리치링에게서 황금의 증표를 구매하자.",
+            "_Mission_Index": 2,
+            "_Mission_Kind1": 25,
+            "_Mission_ID1": 190146092,
+            "_Mission_Count1": 1,
+            "_Mission_Reward_Point": 200
+        },
+        {
+            "_Id": 10515,
+            "_Mission_Group": 1,
+            "_Mission_Name": "보스 몬스터 2마리 처치",
+            "_Mission_Description": "아무 보스 몬스터를 처치하자.",
+            "_Mission_Index": 0,
+            "_Mission_Kind1": 1,
+            "_Mission_ID1": 2,
+            "_Mission_Count1": 2,
+            "_Mission_Reward_Point": 200
+        },
+        {
+            "_Id": 10516,
+            "_Mission_Group": 2,
+            "_Mission_Name": "보스 몬스터 20마리 처치",
+            "_Mission_Description": "아무 보스 몬스터를 처치하자.",
+            "_Mission_Index": 0,
+            "_Mission_Kind1": 1,
+            "_Mission_ID1": 2,
+            "_Mission_Count1": 20,
+            "_Mission_Reward_Point": 400
+        },
+        {
+            "_Id": 10517,
+            "_Mission_Group": 2,
+            "_Mission_Name": "경험의 축복 퀘스트 10회 완료",
+            "_Mission_Description": "벨로스 도시 리치링이 제공하는 경험의 축복 퀘스트를 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 7,
+            "_Mission_ID1": 184008001,
+            "_Mission_Count1": 10,
+            "_Mission_Reward_Point": 400
+        },
+        {
+            "_Id": 10518,
+            "_Mission_Group": 2,
+            "_Mission_Name": "랜덤 퀘스트 2회 완료",
+            "_Mission_Description": "엘리아스 도시 동쪽에 있는 랜덤 퀘스트 게시판에서 퀘스트를 수행하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 6,
+            "_Mission_ID1": 2,
+            "_Mission_Count1": 2,
+            "_Mission_Reward_Point": 400
+        },
+        {
+            "_Id": 10519,
+            "_Mission_Group": 2,
+            "_Mission_Name": "초기화의 결정 7회 구입",
+            "_Mission_Description": "벨로스 도시 로한에게서 초기화의 결정을 구매하자.(메모리얼 및 아이템 각성 콘텐츠에서 사용)",
+            "_Mission_Index": 2,
+            "_Mission_Kind1": 25,
+            "_Mission_ID1": 190146493,
+            "_Mission_Count1": 7,
+            "_Mission_Reward_Point": 400
+        },
+        {
+            "_Id": 10520,
+            "_Mission_Group": 2,
+            "_Mission_Name": "파편의 전령 퀘스트 5회 완료",
+            "_Mission_Description": "벨로스 도시 파편의 전령이 제공하는 퀘스트를 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 7,
+            "_Mission_ID1": 204001099,
+            "_Mission_Count1": 5,
+            "_Mission_Reward_Point": 400
+        },
+        {
+            "_Id": 10521,
+            "_Mission_Group": 2,
+            "_Mission_Name": "소환수 훈련 15회 완료",
+            "_Mission_Description": "소환수 훈련을 완료하여 보상을 15회 획득하자.(레벨제한: 205 이상)",
+            "_Mission_Index": 2,
+            "_Mission_Kind1": 8,
+            "_Mission_ID1": 1,
+            "_Mission_Count1": 15,
+            "_Mission_Reward_Point": 400
+        },
+        {
+            "_Id": 10522,
+            "_Mission_Group": 2,
+            "_Mission_Name": "아이템 인챈트 3회 성공",
+            "_Mission_Description": "아무 아이템 인챈트에 성공하자. (단축키:N)",
+            "_Mission_Index": 2,
+            "_Mission_Kind1": 16,
+            "_Mission_ID1": 0,
+            "_Mission_Count1": 3,
+            "_Mission_Reward_Point": 400
+        },
+        {
+            "_Id": 10523,
+            "_Mission_Group": 3,
+            "_Mission_Name": "배틀패스 일일미션 30회 완료",
+            "_Mission_Description": "배틀패스 일일미션을 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 23,
+            "_Mission_ID1": 1,
+            "_Mission_Count1": 30,
+            "_Mission_Reward_Point": 1000
+        },
+        {
+            "_Id": 10524,
+            "_Mission_Group": 3,
+            "_Mission_Name": "배틀패스 주간미션 10회 완료",
+            "_Mission_Description": "배틀패스 주간미션을 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 24,
+            "_Mission_ID1": 2,
+            "_Mission_Count1": 10,
+            "_Mission_Reward_Point": 1000
+        },
+        {
+            "_Id": 10525,
+            "_Mission_Group": 3,
+            "_Mission_Name": "배틀패스 일일미션 50회 완료",
+            "_Mission_Description": "배틀패스 일일미션을 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 23,
+            "_Mission_ID1": 1,
+            "_Mission_Count1": 50,
+            "_Mission_Reward_Point": 1000
+        },
+        {
+            "_Id": 10526,
+            "_Mission_Group": 3,
+            "_Mission_Name": "배틀패스 주간미션 16회 완료",
+            "_Mission_Description": "배틀패스 주간미션을 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 24,
+            "_Mission_ID1": 2,
+            "_Mission_Count1": 16,
+            "_Mission_Reward_Point": 1000
+        },
+        {
+            "_Id": 10527,
+            "_Mission_Group": 3,
+            "_Mission_Name": "퀘스트 100회 완료",
+            "_Mission_Description": "아무(일반, 랜덤, 일일, 이벤트) 퀘스트를 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 6,
+            "_Mission_ID1": 0,
+            "_Mission_Count1": 100,
+            "_Mission_Reward_Point": 800
+        },
+        {
+            "_Id": 10528,
+            "_Mission_Group": 3,
+            "_Mission_Name": "조합 20회 성공",
+            "_Mission_Description": "아무 아이템 조합(단축키:F10)을 20회 성공하자.",
+            "_Mission_Index": 0,
+            "_Mission_Kind1": 20,
+            "_Mission_ID1": 0,
+            "_Mission_Count1": 20,
+            "_Mission_Reward_Point": 600
+        },
+        {
+            "_Id": 10529,
+            "_Mission_Group": 3,
+            "_Mission_Name": "소환수 훈련 50회 완료",
+            "_Mission_Description": "소환수 훈련을 완료하여 보상을 50회 획득하자.(레벨제한: 205 이상)",
+            "_Mission_Index": 2,
+            "_Mission_Kind1": 8,
+            "_Mission_ID1": 1,
+            "_Mission_Count1": 50,
+            "_Mission_Reward_Point": 600
+        },
+        {
+            "_Id": 10530,
+            "_Mission_Group": 3,
+            "_Mission_Name": "보스 몬스터 500마리 처치",
+            "_Mission_Description": "아무 보스 몬스터를 처치하자.",
+            "_Mission_Index": 0,
+            "_Mission_Kind1": 1,
+            "_Mission_ID1": 2,
+            "_Mission_Count1": 500,
+            "_Mission_Reward_Point": 2000
+        },
+        {
+            "_Id": 10531,
+            "_Mission_Group": 3,
+            "_Mission_Name": "경험의 축복 퀘스트 30회 완료",
+            "_Mission_Description": "벨로스 도시 리치링이 제공하는 경험의 축복 퀘스트를 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 7,
+            "_Mission_ID1": 184008001,
+            "_Mission_Count1": 30,
+            "_Mission_Reward_Point": 500
+        },
+        {
+            "_Id": 10532,
+            "_Mission_Group": 3,
+            "_Mission_Name": "전투의 가호 퀘스트 30회 완료",
+            "_Mission_Description": "벨로스 도시 리치링이 제공하는 전투의 가호 퀘스트를 완료하자.",
+            "_Mission_Index": 4,
+            "_Mission_Kind1": 7,
+            "_Mission_ID1": 184008002,
+            "_Mission_Count1": 30,
+            "_Mission_Reward_Point": 500
+        }
+    ]
+}

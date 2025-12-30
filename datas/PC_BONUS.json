@@ -1,0 +1,205 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType3",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue3",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType4",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue4",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType5",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue5",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType6",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue6",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType7",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue7",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType8",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue8",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType9",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue9",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType10",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue10",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_StatusType1": 124,
+            "_StatusValue1": 500,
+            "_StatusType2": 132,
+            "_StatusValue2": 50,
+            "_StatusType3": 136,
+            "_StatusValue3": 500,
+            "_StatusType4": 128,
+            "_StatusValue4": 30,
+            "_StatusType5": 456,
+            "_StatusValue5": 10,
+            "_StatusType6": 31,
+            "_StatusValue6": 10,
+            "_StatusType7": 465,
+            "_StatusValue7": 100,
+            "_StatusType8": 464,
+            "_StatusValue8": 50,
+            "_StatusType9": 0,
+            "_StatusValue9": 0,
+            "_StatusType10": 0,
+            "_StatusValue10": 0
+        },
+        {
+            "_Id": 2,
+            "_StatusType1": 124,
+            "_StatusValue1": 60,
+            "_StatusType2": 132,
+            "_StatusValue2": 32,
+            "_StatusType3": 136,
+            "_StatusValue3": 200,
+            "_StatusType4": 0,
+            "_StatusValue4": 0,
+            "_StatusType5": 0,
+            "_StatusValue5": 0,
+            "_StatusType6": 0,
+            "_StatusValue6": 0,
+            "_StatusType7": 0,
+            "_StatusValue7": 0,
+            "_StatusType8": 0,
+            "_StatusValue8": 0,
+            "_StatusType9": 0,
+            "_StatusValue9": 0,
+            "_StatusType10": 0,
+            "_StatusValue10": 0
+        },
+        {
+            "_Id": 3,
+            "_StatusType1": 124,
+            "_StatusValue1": 70,
+            "_StatusType2": 132,
+            "_StatusValue2": 34,
+            "_StatusType3": 136,
+            "_StatusValue3": 300,
+            "_StatusType4": 0,
+            "_StatusValue4": 0,
+            "_StatusType5": 0,
+            "_StatusValue5": 0,
+            "_StatusType6": 0,
+            "_StatusValue6": 0,
+            "_StatusType7": 0,
+            "_StatusValue7": 0,
+            "_StatusType8": 0,
+            "_StatusValue8": 0,
+            "_StatusType9": 0,
+            "_StatusValue9": 0,
+            "_StatusType10": 0,
+            "_StatusValue10": 0
+        },
+        {
+            "_Id": 4,
+            "_StatusType1": 124,
+            "_StatusValue1": 80,
+            "_StatusType2": 132,
+            "_StatusValue2": 36,
+            "_StatusType3": 136,
+            "_StatusValue3": 400,
+            "_StatusType4": 0,
+            "_StatusValue4": 0,
+            "_StatusType5": 0,
+            "_StatusValue5": 0,
+            "_StatusType6": 0,
+            "_StatusValue6": 0,
+            "_StatusType7": 0,
+            "_StatusValue7": 0,
+            "_StatusType8": 0,
+            "_StatusValue8": 0,
+            "_StatusType9": 0,
+            "_StatusValue9": 0,
+            "_StatusType10": 0,
+            "_StatusValue10": 0
+        },
+        {
+            "_Id": 5,
+            "_StatusType1": 124,
+            "_StatusValue1": 90,
+            "_StatusType2": 132,
+            "_StatusValue2": 38,
+            "_StatusType3": 136,
+            "_StatusValue3": 500,
+            "_StatusType4": 0,
+            "_StatusValue4": 0,
+            "_StatusType5": 0,
+            "_StatusValue5": 0,
+            "_StatusType6": 0,
+            "_StatusValue6": 0,
+            "_StatusType7": 0,
+            "_StatusValue7": 0,
+            "_StatusType8": 0,
+            "_StatusValue8": 0,
+            "_StatusType9": 0,
+            "_StatusValue9": 0,
+            "_StatusType10": 0,
+            "_StatusValue10": 0
+        }
+    ]
+}

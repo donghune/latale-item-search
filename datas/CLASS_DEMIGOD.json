@@ -1,0 +1,86 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "BASE_FURY",
+            "type": "int"
+        },
+        {
+            "name": "BASE_HOLY",
+            "type": "int"
+        },
+        {
+            "name": "FURY_EFFECT_1",
+            "type": "int"
+        },
+        {
+            "name": "FURY_EFFECT_2",
+            "type": "int"
+        },
+        {
+            "name": "FURY_EFFECT_3",
+            "type": "int"
+        },
+        {
+            "name": "HOLY_EFFECT_1",
+            "type": "int"
+        },
+        {
+            "name": "HOLY_EFFECT_2",
+            "type": "int"
+        },
+        {
+            "name": "HOLY_EFFECT_3",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 57,
+            "BASE_FURY": 300,
+            "BASE_HOLY": 300,
+            "FURY_EFFECT_1": 90000910,
+            "FURY_EFFECT_2": 0,
+            "FURY_EFFECT_3": 0,
+            "HOLY_EFFECT_1": 90000911,
+            "HOLY_EFFECT_2": 0,
+            "HOLY_EFFECT_3": 0
+        },
+        {
+            "_Id": 58,
+            "BASE_FURY": 300,
+            "BASE_HOLY": 300,
+            "FURY_EFFECT_1": 90000910,
+            "FURY_EFFECT_2": 0,
+            "FURY_EFFECT_3": 0,
+            "HOLY_EFFECT_1": 90000911,
+            "HOLY_EFFECT_2": 0,
+            "HOLY_EFFECT_3": 0
+        },
+        {
+            "_Id": 59,
+            "BASE_FURY": 300,
+            "BASE_HOLY": 300,
+            "FURY_EFFECT_1": 90000910,
+            "FURY_EFFECT_2": 0,
+            "FURY_EFFECT_3": 0,
+            "HOLY_EFFECT_1": 90000911,
+            "HOLY_EFFECT_2": 0,
+            "HOLY_EFFECT_3": 0
+        },
+        {
+            "_Id": 60,
+            "BASE_FURY": 300,
+            "BASE_HOLY": 300,
+            "FURY_EFFECT_1": 90000910,
+            "FURY_EFFECT_2": 90000901,
+            "FURY_EFFECT_3": 13025188,
+            "HOLY_EFFECT_1": 90000911,
+            "HOLY_EFFECT_2": 90000902,
+            "HOLY_EFFECT_3": 13025188
+        }
+    ]
+}

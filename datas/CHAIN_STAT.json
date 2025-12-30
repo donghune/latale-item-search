@@ -1,0 +1,313 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType1_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue1_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType1_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue1_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self1",
+            "type": "int"
+        },
+        {
+            "name": "_FX1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType2_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue2_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType2_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue2_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self2",
+            "type": "int"
+        },
+        {
+            "name": "_FX2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType3_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue3_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType3_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue3_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self3",
+            "type": "int"
+        },
+        {
+            "name": "_FX3",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType4_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue4_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType4_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue4_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self4",
+            "type": "int"
+        },
+        {
+            "name": "_FX4",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType5_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue5_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType5_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue5_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self5",
+            "type": "int"
+        },
+        {
+            "name": "_FX5",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType6_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue6_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType6_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue6_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self6",
+            "type": "int"
+        },
+        {
+            "name": "_FX6",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType7_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue7_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType7_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue7_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self7",
+            "type": "int"
+        },
+        {
+            "name": "_FX7",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType8_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue8_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType8_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue8_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self8",
+            "type": "int"
+        },
+        {
+            "name": "_FX8",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType9_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue9_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType9_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue9_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self9",
+            "type": "int"
+        },
+        {
+            "name": "_FX9",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType10_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue10_1",
+            "type": "int"
+        },
+        {
+            "name": "_StatusType10_2",
+            "type": "int"
+        },
+        {
+            "name": "_StatusValue10_2",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Self10",
+            "type": "int"
+        },
+        {
+            "name": "_FX10",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1802307,
+            "_StatusType1-1": 95,
+            "_StatusValue1-1": 5,
+            "_StatusType1-2": 91,
+            "_StatusValue1-2": 5,
+            "_Effect_Self1": 0,
+            "_FX1": 0,
+            "_StatusType2-1": 95,
+            "_StatusValue2-1": 10,
+            "_StatusType2-2": 91,
+            "_StatusValue2-2": 10,
+            "_Effect_Self2": 0,
+            "_FX2": 0,
+            "_StatusType3-1": 95,
+            "_StatusValue3-1": 25,
+            "_StatusType3-2": 95,
+            "_StatusValue3-2": 25,
+            "_Effect_Self3": 0,
+            "_FX3": 0,
+            "_StatusType4-1": 95,
+            "_StatusValue4-1": 40,
+            "_StatusType4-2": 91,
+            "_StatusValue4-2": 40,
+            "_Effect_Self4": 0,
+            "_FX4": 0,
+            "_StatusType5-1": 95,
+            "_StatusValue5-1": 55,
+            "_StatusType5-2": 91,
+            "_StatusValue5-2": 55,
+            "_Effect_Self5": 0,
+            "_FX5": 0,
+            "_StatusType6-1": 95,
+            "_StatusValue6-1": 70,
+            "_StatusType6-2": 91,
+            "_StatusValue6-2": 70,
+            "_Effect_Self6": 0,
+            "_FX6": 0,
+            "_StatusType7-1": 95,
+            "_StatusValue7-1": 90,
+            "_StatusType7-2": 91,
+            "_StatusValue7-2": 90,
+            "_Effect_Self7": 0,
+            "_FX7": 0,
+            "_StatusType8-1": 95,
+            "_StatusValue8-1": 100,
+            "_StatusType8-2": 91,
+            "_StatusValue8-2": 100,
+            "_Effect_Self8": 0,
+            "_FX8": 0,
+            "_StatusType9-1": 95,
+            "_StatusValue9-1": 200,
+            "_StatusType9-2": 91,
+            "_StatusValue9-2": 200,
+            "_Effect_Self9": 0,
+            "_FX9": 0,
+            "_StatusType10-1": 95,
+            "_StatusValue10-1": 400,
+            "_StatusType10-2": 91,
+            "_StatusValue10-2": 400,
+            "_Effect_Self10": 13025842,
+            "_FX10": 18784
+        }
+    ]
+}

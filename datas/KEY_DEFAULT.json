@@ -1,0 +1,806 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_HOTKEY",
+            "type": "int"
+        },
+        {
+            "name": "_INSTRUCTION",
+            "type": "string"
+        },
+        {
+            "name": "_SYSNUM",
+            "type": "int"
+        },
+        {
+            "name": "_Column",
+            "type": "int"
+        },
+        {
+            "name": "_CategoryView",
+            "type": "bool"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_HOTKEY": 4,
+            "_INSTRUCTION": "위로이동",
+            "_SYSNUM": 0,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 2,
+            "_HOTKEY": 5,
+            "_INSTRUCTION": "아래로이동",
+            "_SYSNUM": 1,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 3,
+            "_HOTKEY": 3,
+            "_INSTRUCTION": "오른쪽이동",
+            "_SYSNUM": 2,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 4,
+            "_HOTKEY": 2,
+            "_INSTRUCTION": "왼쪽이동",
+            "_SYSNUM": 3,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 5,
+            "_HOTKEY": 78,
+            "_INSTRUCTION": "상태",
+            "_SYSNUM": 4,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 6,
+            "_HOTKEY": 67,
+            "_INSTRUCTION": "아이템",
+            "_SYSNUM": 5,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 7,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "장비",
+            "_SYSNUM": 6,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 8,
+            "_HOTKEY": 69,
+            "_INSTRUCTION": "스킬",
+            "_SYSNUM": 7,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 9,
+            "_HOTKEY": 75,
+            "_INSTRUCTION": "퀘스트",
+            "_SYSNUM": 8,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 10,
+            "_HOTKEY": 65,
+            "_INSTRUCTION": "길드",
+            "_SYSNUM": 9,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 11,
+            "_HOTKEY": 74,
+            "_INSTRUCTION": "파티",
+            "_SYSNUM": 10,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 12,
+            "_HOTKEY": 60,
+            "_INSTRUCTION": "친구",
+            "_SYSNUM": 11,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 13,
+            "_HOTKEY": 68,
+            "_INSTRUCTION": "커플",
+            "_SYSNUM": 12,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 14,
+            "_HOTKEY": 70,
+            "_INSTRUCTION": "애완동물",
+            "_SYSNUM": 13,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 15,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "대화방",
+            "_SYSNUM": 15,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 16,
+            "_HOTKEY": 73,
+            "_INSTRUCTION": "옵션",
+            "_SYSNUM": 16,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 17,
+            "_HOTKEY": 66,
+            "_INSTRUCTION": "가이드 북",
+            "_SYSNUM": 17,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 18,
+            "_HOTKEY": 79,
+            "_INSTRUCTION": "아이템강화",
+            "_SYSNUM": 18,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 19,
+            "_HOTKEY": 72,
+            "_INSTRUCTION": "아이템인챈트",
+            "_SYSNUM": 19,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 20,
+            "_HOTKEY": 71,
+            "_INSTRUCTION": "세부맵",
+            "_SYSNUM": 20,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 21,
+            "_HOTKEY": 81,
+            "_INSTRUCTION": "월드맵",
+            "_SYSNUM": 21,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 22,
+            "_HOTKEY": 83,
+            "_INSTRUCTION": "웨이포인트",
+            "_SYSNUM": 22,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 23,
+            "_HOTKEY": 7,
+            "_INSTRUCTION": "퀵슬롯1-1",
+            "_SYSNUM": 23,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 24,
+            "_HOTKEY": 59,
+            "_INSTRUCTION": "퀵슬롯1-2",
+            "_SYSNUM": 24,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 25,
+            "_HOTKEY": 77,
+            "_INSTRUCTION": "퀵슬롯1-3",
+            "_SYSNUM": 25,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 26,
+            "_HOTKEY": 62,
+            "_INSTRUCTION": "퀵슬롯1-4",
+            "_SYSNUM": 26,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 27,
+            "_HOTKEY": 64,
+            "_INSTRUCTION": "퀵슬롯1-5",
+            "_SYSNUM": 27,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 28,
+            "_HOTKEY": 14,
+            "_INSTRUCTION": "퀵슬롯1-6",
+            "_SYSNUM": 28,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 29,
+            "_HOTKEY": 10,
+            "_INSTRUCTION": "퀵슬롯1-7",
+            "_SYSNUM": 29,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 30,
+            "_HOTKEY": 84,
+            "_INSTRUCTION": "퀵슬롯1-8",
+            "_SYSNUM": 30,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 31,
+            "_HOTKEY": 82,
+            "_INSTRUCTION": "퀵슬롯1-9",
+            "_SYSNUM": 31,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 32,
+            "_HOTKEY": 61,
+            "_INSTRUCTION": "퀵슬롯1-10",
+            "_SYSNUM": 32,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 33,
+            "_HOTKEY": 80,
+            "_INSTRUCTION": "퀵슬롯1-11",
+            "_SYSNUM": 33,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 34,
+            "_HOTKEY": 15,
+            "_INSTRUCTION": "퀵슬롯1-12",
+            "_SYSNUM": 34,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 35,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯1-13",
+            "_SYSNUM": 35,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 36,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯1-14",
+            "_SYSNUM": 36,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 37,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯1-15",
+            "_SYSNUM": 37,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 38,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯1-16",
+            "_SYSNUM": 38,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 39,
+            "_HOTKEY": 50,
+            "_INSTRUCTION": "퀵슬롯2-1",
+            "_SYSNUM": 39,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 40,
+            "_HOTKEY": 51,
+            "_INSTRUCTION": "퀵슬롯2-2",
+            "_SYSNUM": 40,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 41,
+            "_HOTKEY": 52,
+            "_INSTRUCTION": "퀵슬롯2-3",
+            "_SYSNUM": 41,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 42,
+            "_HOTKEY": 53,
+            "_INSTRUCTION": "퀵슬롯2-4",
+            "_SYSNUM": 42,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 43,
+            "_HOTKEY": 54,
+            "_INSTRUCTION": "퀵슬롯2-5",
+            "_SYSNUM": 43,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 44,
+            "_HOTKEY": 55,
+            "_INSTRUCTION": "퀵슬롯2-6",
+            "_SYSNUM": 44,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 45,
+            "_HOTKEY": 56,
+            "_INSTRUCTION": "퀵슬롯2-7",
+            "_SYSNUM": 45,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 46,
+            "_HOTKEY": 57,
+            "_INSTRUCTION": "퀵슬롯2-8",
+            "_SYSNUM": 46,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 47,
+            "_HOTKEY": 58,
+            "_INSTRUCTION": "퀵슬롯2-9",
+            "_SYSNUM": 59,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 48,
+            "_HOTKEY": 49,
+            "_INSTRUCTION": "퀵슬롯2-10",
+            "_SYSNUM": 60,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 49,
+            "_HOTKEY": 26,
+            "_INSTRUCTION": "퀵슬롯2-11",
+            "_SYSNUM": 61,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 50,
+            "_HOTKEY": 16,
+            "_INSTRUCTION": "퀵슬롯2-12",
+            "_SYSNUM": 62,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 51,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯2-13",
+            "_SYSNUM": 63,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 52,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯2-14",
+            "_SYSNUM": 64,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 53,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯2-15",
+            "_SYSNUM": 65,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 54,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯2-16",
+            "_SYSNUM": 66,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 55,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-1",
+            "_SYSNUM": 67,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 56,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-2",
+            "_SYSNUM": 68,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 57,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-3",
+            "_SYSNUM": 69,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 58,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-4",
+            "_SYSNUM": 70,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 59,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-5",
+            "_SYSNUM": 71,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 60,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-6",
+            "_SYSNUM": 72,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 61,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-7",
+            "_SYSNUM": 73,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 62,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-8",
+            "_SYSNUM": 74,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 63,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-9",
+            "_SYSNUM": 75,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 64,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-10",
+            "_SYSNUM": 76,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 65,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-11",
+            "_SYSNUM": 77,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 66,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-12",
+            "_SYSNUM": 78,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 67,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-13",
+            "_SYSNUM": 79,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 68,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-14",
+            "_SYSNUM": 80,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 69,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-15",
+            "_SYSNUM": 81,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 70,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "퀵슬롯3-16",
+            "_SYSNUM": 82,
+            "_Column": 1,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 71,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "일반채팅",
+            "_SYSNUM": 47,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 72,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "파티채팅",
+            "_SYSNUM": 48,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 73,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "길드채팅",
+            "_SYSNUM": 49,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 74,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "친구채팅",
+            "_SYSNUM": 50,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 75,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "귓속말",
+            "_SYSNUM": 51,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 76,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "개인상점",
+            "_SYSNUM": 52,
+            "_Column": 0,
+            "_CategoryView": false
+        },
+        {
+            "_Id": 77,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "레벨다운인챈트",
+            "_SYSNUM": 53,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 78,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "초월",
+            "_SYSNUM": 54,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 79,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "평판",
+            "_SYSNUM": 55,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 80,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "도감",
+            "_SYSNUM": 56,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 81,
+            "_HOTKEY": 99,
+            "_INSTRUCTION": "파티 매칭",
+            "_SYSNUM": 57,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 82,
+            "_HOTKEY": 89,
+            "_INSTRUCTION": "창고",
+            "_SYSNUM": 58,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 83,
+            "_HOTKEY": 94,
+            "_INSTRUCTION": "조합",
+            "_SYSNUM": 83,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 84,
+            "_HOTKEY": 96,
+            "_INSTRUCTION": "라테일 어드벤처",
+            "_SYSNUM": 84,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 85,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "각인",
+            "_SYSNUM": 85,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 86,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "격투장 신청",
+            "_SYSNUM": 86,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 87,
+            "_HOTKEY": 93,
+            "_INSTRUCTION": "업적",
+            "_SYSNUM": 92,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 88,
+            "_HOTKEY": 92,
+            "_INSTRUCTION": "이벤트",
+            "_SYSNUM": 94,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 89,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "소환수",
+            "_SYSNUM": 95,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 90,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "꾸미기",
+            "_SYSNUM": 96,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 91,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "초인의 서",
+            "_SYSNUM": 97,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 92,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "룬워드",
+            "_SYSNUM": 98,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 93,
+            "_HOTKEY": 95,
+            "_INSTRUCTION": "인던 정보",
+            "_SYSNUM": 99,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 94,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "메모리얼",
+            "_SYSNUM": 87,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 95,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "별자리",
+            "_SYSNUM": 14,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 96,
+            "_HOTKEY": 33,
+            "_INSTRUCTION": "무기전환",
+            "_SYSNUM": 52,
+            "_Column": 0,
+            "_CategoryView": true
+        },
+        {
+            "_Id": 97,
+            "_HOTKEY": 0,
+            "_INSTRUCTION": "성물",
+            "_SYSNUM": 15,
+            "_Column": 0,
+            "_CategoryView": true
+        }
+    ]
+}

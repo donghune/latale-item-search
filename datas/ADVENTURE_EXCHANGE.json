@@ -1,0 +1,502 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_ConsumePoint",
+            "type": "int"
+        },
+        {
+            "name": "_TradeCount",
+            "type": "int"
+        },
+        {
+            "name": "_ID1",
+            "type": "int"
+        },
+        {
+            "name": "_Count1",
+            "type": "int"
+        },
+        {
+            "name": "_Rare1",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_ConsumePoint": 1200,
+            "_TradeCount": 10,
+            "_ID1": 190147983,
+            "_Count1": 100,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 2,
+            "_ConsumePoint": 1800,
+            "_TradeCount": 10,
+            "_ID1": 190147983,
+            "_Count1": 100,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 3,
+            "_ConsumePoint": 2500,
+            "_TradeCount": 50,
+            "_ID1": 190147983,
+            "_Count1": 100,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 4,
+            "_ConsumePoint": 7500,
+            "_TradeCount": 2,
+            "_ID1": 170171448,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 5,
+            "_ConsumePoint": 4500,
+            "_TradeCount": 2,
+            "_ID1": 190147988,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 6,
+            "_ConsumePoint": 1200,
+            "_TradeCount": 10,
+            "_ID1": 190147013,
+            "_Count1": 3,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 7,
+            "_ConsumePoint": 1800,
+            "_TradeCount": 10,
+            "_ID1": 190147013,
+            "_Count1": 3,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 8,
+            "_ConsumePoint": 2500,
+            "_TradeCount": 50,
+            "_ID1": 190147013,
+            "_Count1": 3,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 9,
+            "_ConsumePoint": 1500,
+            "_TradeCount": 30,
+            "_ID1": 190147765,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 10,
+            "_ConsumePoint": 3000,
+            "_TradeCount": 5,
+            "_ID1": 190146091,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 11,
+            "_ConsumePoint": 3000,
+            "_TradeCount": 5,
+            "_ID1": 190148475,
+            "_Count1": 100,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 12,
+            "_ConsumePoint": 4500,
+            "_TradeCount": 5,
+            "_ID1": 190148475,
+            "_Count1": 100,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 13,
+            "_ConsumePoint": 6000,
+            "_TradeCount": 50,
+            "_ID1": 190148475,
+            "_Count1": 100,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 14,
+            "_ConsumePoint": 5000,
+            "_TradeCount": 2,
+            "_ID1": 170196724,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 15,
+            "_ConsumePoint": 10000,
+            "_TradeCount": 5,
+            "_ID1": 170196724,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 16,
+            "_ConsumePoint": 1500,
+            "_TradeCount": 5,
+            "_ID1": 190148182,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 17,
+            "_ConsumePoint": 2300,
+            "_TradeCount": 5,
+            "_ID1": 190148182,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 18,
+            "_ConsumePoint": 3000,
+            "_TradeCount": 20,
+            "_ID1": 190148182,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 19,
+            "_ConsumePoint": 2000,
+            "_TradeCount": 10,
+            "_ID1": 190148179,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 20,
+            "_ConsumePoint": 2500,
+            "_TradeCount": 20,
+            "_ID1": 190148179,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 21,
+            "_ConsumePoint": 2000,
+            "_TradeCount": 10,
+            "_ID1": 170196840,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 22,
+            "_ConsumePoint": 500,
+            "_TradeCount": 5,
+            "_ID1": 190146394,
+            "_Count1": 50,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 23,
+            "_ConsumePoint": 1200,
+            "_TradeCount": 10,
+            "_ID1": 300136004,
+            "_Count1": 5,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 24,
+            "_ConsumePoint": 3000,
+            "_TradeCount": 2,
+            "_ID1": 180202202,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 25,
+            "_ConsumePoint": 5000,
+            "_TradeCount": 10,
+            "_ID1": 180202202,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 26,
+            "_ConsumePoint": 500,
+            "_TradeCount": 10,
+            "_ID1": 190195489,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 27,
+            "_ConsumePoint": 2000,
+            "_TradeCount": 1,
+            "_ID1": 190147989,
+            "_Count1": 5,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 28,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 10,
+            "_ID1": 170171241,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 29,
+            "_ConsumePoint": 1500,
+            "_TradeCount": 50,
+            "_ID1": 170171241,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 30,
+            "_ConsumePoint": 2000,
+            "_TradeCount": 99,
+            "_ID1": 170171241,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 31,
+            "_ConsumePoint": 500,
+            "_TradeCount": 10,
+            "_ID1": 190148754,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 32,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 15,
+            "_ID1": 190148754,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 33,
+            "_ConsumePoint": 10000,
+            "_TradeCount": 1,
+            "_ID1": 190146277,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 34,
+            "_ConsumePoint": 15000,
+            "_TradeCount": 2,
+            "_ID1": 190146277,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 35,
+            "_ConsumePoint": 10000,
+            "_TradeCount": 2,
+            "_ID1": 165800201,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 36,
+            "_ConsumePoint": 20000,
+            "_TradeCount": 2,
+            "_ID1": 190148747,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 37,
+            "_ConsumePoint": 1500,
+            "_TradeCount": 50,
+            "_ID1": 170193976,
+            "_Count1": 2,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 38,
+            "_ConsumePoint": 1500,
+            "_TradeCount": 50,
+            "_ID1": 170196648,
+            "_Count1": 2,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 39,
+            "_ConsumePoint": 1500,
+            "_TradeCount": 50,
+            "_ID1": 170195950,
+            "_Count1": 50,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 40,
+            "_ConsumePoint": 2000,
+            "_TradeCount": 5,
+            "_ID1": 170171335,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 41,
+            "_ConsumePoint": 500,
+            "_TradeCount": 5,
+            "_ID1": 190144625,
+            "_Count1": 2,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 42,
+            "_ConsumePoint": 25000,
+            "_TradeCount": 1,
+            "_ID1": 190148288,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 43,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 99,
+            "_ID1": 170196841,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 44,
+            "_ConsumePoint": 23000,
+            "_TradeCount": 1,
+            "_ID1": 190146981,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 45,
+            "_ConsumePoint": 12000,
+            "_TradeCount": 1,
+            "_ID1": 190146190,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 46,
+            "_ConsumePoint": 300,
+            "_TradeCount": 5,
+            "_ID1": 190190402,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 47,
+            "_ConsumePoint": 300,
+            "_TradeCount": 5,
+            "_ID1": 190190404,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 48,
+            "_ConsumePoint": 300,
+            "_TradeCount": 5,
+            "_ID1": 190190406,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 49,
+            "_ConsumePoint": 300,
+            "_TradeCount": 5,
+            "_ID1": 190190408,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 50,
+            "_ConsumePoint": 300,
+            "_TradeCount": 5,
+            "_ID1": 190190410,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 51,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 5,
+            "_ID1": 190140564,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 52,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 5,
+            "_ID1": 190140565,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 53,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 5,
+            "_ID1": 190140566,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 54,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 5,
+            "_ID1": 190140567,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 55,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 5,
+            "_ID1": 190140568,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 56,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 5,
+            "_ID1": 190148574,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 57,
+            "_ConsumePoint": 1000,
+            "_TradeCount": 5,
+            "_ID1": 190148575,
+            "_Count1": 10,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 58,
+            "_ConsumePoint": 7500,
+            "_TradeCount": 1,
+            "_ID1": 190148723,
+            "_Count1": 1,
+            "_Rare1": 1
+        },
+        {
+            "_Id": 59,
+            "_ConsumePoint": 200000,
+            "_TradeCount": 1,
+            "_ID1": 190148725,
+            "_Count1": 1,
+            "_Rare1": 1
+        }
+    ]
+}

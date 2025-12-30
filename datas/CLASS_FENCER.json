@@ -1,0 +1,246 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Base_Chain",
+            "type": "int"
+        },
+        {
+            "name": "_Acombo_Skill_ID",
+            "type": "int"
+        },
+        {
+            "name": "_AComboTime_ID",
+            "type": "int"
+        },
+        {
+            "name": "_AComboTime",
+            "type": "int"
+        },
+        {
+            "name": "_AComboCooltime_ID",
+            "type": "int"
+        },
+        {
+            "name": "_AComboCooltime",
+            "type": "int"
+        },
+        {
+            "name": "_A1StatType1",
+            "type": "int"
+        },
+        {
+            "name": "_A1StatValue1",
+            "type": "int"
+        },
+        {
+            "name": "_A1StatType2",
+            "type": "int"
+        },
+        {
+            "name": "_A1StatValue2",
+            "type": "int"
+        },
+        {
+            "name": "_A1TargetCount",
+            "type": "int"
+        },
+        {
+            "name": "_A2StatType1",
+            "type": "int"
+        },
+        {
+            "name": "_A2StatValue1",
+            "type": "int"
+        },
+        {
+            "name": "_A2StatType2",
+            "type": "int"
+        },
+        {
+            "name": "_A2StatValue2",
+            "type": "int"
+        },
+        {
+            "name": "_A2TargetCount",
+            "type": "int"
+        },
+        {
+            "name": "_A3StatType1",
+            "type": "int"
+        },
+        {
+            "name": "_A3StatValue1",
+            "type": "int"
+        },
+        {
+            "name": "_A3StatType2",
+            "type": "int"
+        },
+        {
+            "name": "_A3StatValue2",
+            "type": "int"
+        },
+        {
+            "name": "_A3TargetCount",
+            "type": "int"
+        },
+        {
+            "name": "_SkillID1",
+            "type": "int"
+        },
+        {
+            "name": "_SkillID2",
+            "type": "int"
+        },
+        {
+            "name": "_SkillID3",
+            "type": "int"
+        },
+        {
+            "name": "_SkillID4",
+            "type": "int"
+        },
+        {
+            "name": "_A_Effect_Slot",
+            "type": "int"
+        },
+        {
+            "name": "_A_Effect1",
+            "type": "int"
+        },
+        {
+            "name": "_A_Effect2",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 65,
+            "_Base_Chain": 3,
+            "_Acombo_Skill_ID": 1802100,
+            "_AComboTime_ID": 9996,
+            "_AComboTime": 600,
+            "_AComboCooltime_ID": 9997,
+            "_AComboCooltime": 100,
+            "_A1StatType1": 0,
+            "_A1StatValue1": 0,
+            "_A1StatType2": 0,
+            "_A1StatValue2": 0,
+            "_A1TargetCount": 0,
+            "_A2StatType1": 0,
+            "_A2StatValue1": 0,
+            "_A2StatType2": 0,
+            "_A2StatValue2": 0,
+            "_A2TargetCount": 0,
+            "_A3StatType1": 0,
+            "_A3StatValue1": 0,
+            "_A3StatType2": 0,
+            "_A3StatValue2": 0,
+            "_A3TargetCount": 0,
+            "_SkillID1": 1802304,
+            "_SkillID2": 0,
+            "_SkillID3": 0,
+            "_SkillID4": 0,
+            "_A_Effect_Slot": 3,
+            "_A_Effect1": 21020590,
+            "_A_Effect2": 21020621
+        },
+        {
+            "_Id": 66,
+            "_Base_Chain": 4,
+            "_Acombo_Skill_ID": 1802100,
+            "_AComboTime_ID": 9996,
+            "_AComboTime": 600,
+            "_AComboCooltime_ID": 9997,
+            "_AComboCooltime": 100,
+            "_A1StatType1": 0,
+            "_A1StatValue1": 0,
+            "_A1StatType2": 0,
+            "_A1StatValue2": 0,
+            "_A1TargetCount": 0,
+            "_A2StatType1": 0,
+            "_A2StatValue1": 0,
+            "_A2StatType2": 0,
+            "_A2StatValue2": 0,
+            "_A2TargetCount": 0,
+            "_A3StatType1": 0,
+            "_A3StatValue1": 0,
+            "_A3StatType2": 0,
+            "_A3StatValue2": 0,
+            "_A3TargetCount": 0,
+            "_SkillID1": 1802304,
+            "_SkillID2": 1802305,
+            "_SkillID3": 1802306,
+            "_SkillID4": 0,
+            "_A_Effect_Slot": 3,
+            "_A_Effect1": 21020590,
+            "_A_Effect2": 21020621
+        },
+        {
+            "_Id": 67,
+            "_Base_Chain": 5,
+            "_Acombo_Skill_ID": 1802100,
+            "_AComboTime_ID": 9996,
+            "_AComboTime": 600,
+            "_AComboCooltime_ID": 9997,
+            "_AComboCooltime": 100,
+            "_A1StatType1": 0,
+            "_A1StatValue1": 0,
+            "_A1StatType2": 0,
+            "_A1StatValue2": 0,
+            "_A1TargetCount": 0,
+            "_A2StatType1": 0,
+            "_A2StatValue1": 0,
+            "_A2StatType2": 0,
+            "_A2StatValue2": 0,
+            "_A2TargetCount": 0,
+            "_A3StatType1": 0,
+            "_A3StatValue1": 0,
+            "_A3StatType2": 0,
+            "_A3StatValue2": 0,
+            "_A3TargetCount": 0,
+            "_SkillID1": 1802304,
+            "_SkillID2": 1802305,
+            "_SkillID3": 1802306,
+            "_SkillID4": 0,
+            "_A_Effect_Slot": 3,
+            "_A_Effect1": 21020596,
+            "_A_Effect2": 21020621
+        },
+        {
+            "_Id": 68,
+            "_Base_Chain": 5,
+            "_Acombo_Skill_ID": 1802100,
+            "_AComboTime_ID": 9996,
+            "_AComboTime": 600,
+            "_AComboCooltime_ID": 9997,
+            "_AComboCooltime": 100,
+            "_A1StatType1": 0,
+            "_A1StatValue1": 0,
+            "_A1StatType2": 0,
+            "_A1StatValue2": 0,
+            "_A1TargetCount": 0,
+            "_A2StatType1": 0,
+            "_A2StatValue1": 0,
+            "_A2StatType2": 0,
+            "_A2StatValue2": 0,
+            "_A2TargetCount": 0,
+            "_A3StatType1": 0,
+            "_A3StatValue1": 0,
+            "_A3StatType2": 0,
+            "_A3StatValue2": 0,
+            "_A3TargetCount": 0,
+            "_SkillID1": 1802304,
+            "_SkillID2": 1802305,
+            "_SkillID3": 1802306,
+            "_SkillID4": 1802307,
+            "_A_Effect_Slot": 3,
+            "_A_Effect1": 21020596,
+            "_A_Effect2": 21020621
+        }
+    ]
+}

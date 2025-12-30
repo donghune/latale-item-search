@@ -1,0 +1,551 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Name",
+            "type": "string"
+        },
+        {
+            "name": "_Effect",
+            "type": "int"
+        },
+        {
+            "name": "_Effect_Type",
+            "type": "int"
+        },
+        {
+            "name": "_Type",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Name": "근력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 14,
+            "_Type": 1
+        },
+        {
+            "_Id": 2,
+            "_Name": "근력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 15,
+            "_Type": 1
+        },
+        {
+            "_Id": 3,
+            "_Name": "행운 + ",
+            "_Effect": 1,
+            "_Effect_Type": 18,
+            "_Type": 1
+        },
+        {
+            "_Id": 4,
+            "_Name": "행운 + %",
+            "_Effect": 1,
+            "_Effect_Type": 19,
+            "_Type": 1
+        },
+        {
+            "_Id": 5,
+            "_Name": "마법력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 22,
+            "_Type": 1
+        },
+        {
+            "_Id": 6,
+            "_Name": "마법력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 23,
+            "_Type": 1
+        },
+        {
+            "_Id": 7,
+            "_Name": "체력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 26,
+            "_Type": 1
+        },
+        {
+            "_Id": 8,
+            "_Name": "체력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 27,
+            "_Type": 1
+        },
+        {
+            "_Id": 9,
+            "_Name": "최대HP + ",
+            "_Effect": 1,
+            "_Effect_Type": 30,
+            "_Type": 1
+        },
+        {
+            "_Id": 10,
+            "_Name": "최대HP + %",
+            "_Effect": 1,
+            "_Effect_Type": 31,
+            "_Type": 1
+        },
+        {
+            "_Id": 11,
+            "_Name": "최대SP + ",
+            "_Effect": 1,
+            "_Effect_Type": 34,
+            "_Type": 1
+        },
+        {
+            "_Id": 12,
+            "_Name": "속성력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 38,
+            "_Type": 1
+        },
+        {
+            "_Id": 13,
+            "_Name": "속성력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 39,
+            "_Type": 1
+        },
+        {
+            "_Id": 14,
+            "_Name": "마법 저항력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 70,
+            "_Type": 1
+        },
+        {
+            "_Id": 15,
+            "_Name": "마법 저항력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 71,
+            "_Type": 1
+        },
+        {
+            "_Id": 16,
+            "_Name": "대미지 감소 + %",
+            "_Effect": 1,
+            "_Effect_Type": 86,
+            "_Type": 1
+        },
+        {
+            "_Id": 17,
+            "_Name": "물리 최소대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 90,
+            "_Type": 1
+        },
+        {
+            "_Id": 18,
+            "_Name": "물리 최대대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 94,
+            "_Type": 1
+        },
+        {
+            "_Id": 19,
+            "_Name": "마법 최소대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 98,
+            "_Type": 1
+        },
+        {
+            "_Id": 20,
+            "_Name": "마법 최대대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 102,
+            "_Type": 1
+        },
+        {
+            "_Id": 21,
+            "_Name": "이동속도 + %",
+            "_Effect": 1,
+            "_Effect_Type": 106,
+            "_Type": 1
+        },
+        {
+            "_Id": 22,
+            "_Name": "경험치 획득 + %",
+            "_Effect": 1,
+            "_Effect_Type": 124,
+            "_Type": 1
+        },
+        {
+            "_Id": 23,
+            "_Name": "엘리 획득 + %",
+            "_Effect": 1,
+            "_Effect_Type": 128,
+            "_Type": 1
+        },
+        {
+            "_Id": 24,
+            "_Name": "아이템 발생확률 + %",
+            "_Effect": 1,
+            "_Effect_Type": 132,
+            "_Type": 1
+        },
+        {
+            "_Id": 25,
+            "_Name": "옵션 발생확률 + %",
+            "_Effect": 1,
+            "_Effect_Type": 136,
+            "_Type": 1
+        },
+        {
+            "_Id": 26,
+            "_Name": "물리 고정 대미지 + ",
+            "_Effect": 1,
+            "_Effect_Type": 140,
+            "_Type": 1
+        },
+        {
+            "_Id": 27,
+            "_Name": "물리 고정 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 141,
+            "_Type": 1
+        },
+        {
+            "_Id": 28,
+            "_Name": "물리대미지 감소 + ",
+            "_Effect": 1,
+            "_Effect_Type": 144,
+            "_Type": 1
+        },
+        {
+            "_Id": 29,
+            "_Name": "물리 관통력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 148,
+            "_Type": 1
+        },
+        {
+            "_Id": 30,
+            "_Name": "물리 크리티컬 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 156,
+            "_Type": 1
+        },
+        {
+            "_Id": 31,
+            "_Name": "마법 크리티컬 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 162,
+            "_Type": 1
+        },
+        {
+            "_Id": 32,
+            "_Name": "물리 명중률 + %",
+            "_Effect": 1,
+            "_Effect_Type": 176,
+            "_Type": 1
+        },
+        {
+            "_Id": 33,
+            "_Name": "마법 명중률 + %",
+            "_Effect": 1,
+            "_Effect_Type": 180,
+            "_Type": 1
+        },
+        {
+            "_Id": 34,
+            "_Name": "물리 회피율 + %",
+            "_Effect": 1,
+            "_Effect_Type": 184,
+            "_Type": 1
+        },
+        {
+            "_Id": 35,
+            "_Name": "마법 회피율 + %",
+            "_Effect": 1,
+            "_Effect_Type": 188,
+            "_Type": 1
+        },
+        {
+            "_Id": 36,
+            "_Name": "방어력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 216,
+            "_Type": 1
+        },
+        {
+            "_Id": 37,
+            "_Name": "방어력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 217,
+            "_Type": 1
+        },
+        {
+            "_Id": 38,
+            "_Name": "속성력대미지(물리공격시) + ",
+            "_Effect": 1,
+            "_Effect_Type": 218,
+            "_Type": 1
+        },
+        {
+            "_Id": 39,
+            "_Name": "마법 고정 대미지 + ",
+            "_Effect": 1,
+            "_Effect_Type": 240,
+            "_Type": 1
+        },
+        {
+            "_Id": 40,
+            "_Name": "마법 고정 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 241,
+            "_Type": 1
+        },
+        {
+            "_Id": 41,
+            "_Name": "마법대미지 감소 + ",
+            "_Effect": 1,
+            "_Effect_Type": 244,
+            "_Type": 1
+        },
+        {
+            "_Id": 42,
+            "_Name": "마법 관통력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 292,
+            "_Type": 1
+        },
+        {
+            "_Id": 43,
+            "_Name": "사용레벨 + ",
+            "_Effect": 1,
+            "_Effect_Type": 367,
+            "_Type": 1
+        },
+        {
+            "_Id": 44,
+            "_Name": "스턴 저항력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 408,
+            "_Type": 2
+        },
+        {
+            "_Id": 45,
+            "_Name": "스킬 쿨타임 감소 + %",
+            "_Effect": 1,
+            "_Effect_Type": 440,
+            "_Type": 2
+        },
+        {
+            "_Id": 46,
+            "_Name": "혼란 저항력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 448,
+            "_Type": 2
+        },
+        {
+            "_Id": 47,
+            "_Name": "올스탯 + ",
+            "_Effect": 1,
+            "_Effect_Type": 455,
+            "_Type": 1
+        },
+        {
+            "_Id": 48,
+            "_Name": "올스탯 + %",
+            "_Effect": 1,
+            "_Effect_Type": 456,
+            "_Type": 1
+        },
+        {
+            "_Id": 49,
+            "_Name": "속성 저항력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 458,
+            "_Type": 1
+        },
+        {
+            "_Id": 50,
+            "_Name": "속성력 최소대미지 + ",
+            "_Effect": 1,
+            "_Effect_Type": 459,
+            "_Type": 1
+        },
+        {
+            "_Id": 51,
+            "_Name": "속성력 최대대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 460,
+            "_Type": 1
+        },
+        {
+            "_Id": 52,
+            "_Name": "물리/마법 최대대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 461,
+            "_Type": 1
+        },
+        {
+            "_Id": 53,
+            "_Name": "물리/마법 최소대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 462,
+            "_Type": 1
+        },
+        {
+            "_Id": 54,
+            "_Name": "물리/마법 관통력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 463,
+            "_Type": 1
+        },
+        {
+            "_Id": 55,
+            "_Name": "물리/마법 크리티컬 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 464,
+            "_Type": 1
+        },
+        {
+            "_Id": 56,
+            "_Name": "물리/마법 크리티컬 확률 + %",
+            "_Effect": 1,
+            "_Effect_Type": 465,
+            "_Type": 1
+        },
+        {
+            "_Id": 57,
+            "_Name": "물리/마법 명중률 + %",
+            "_Effect": 1,
+            "_Effect_Type": 466,
+            "_Type": 1
+        },
+        {
+            "_Id": 58,
+            "_Name": "무기 공격력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 492,
+            "_Type": 1
+        },
+        {
+            "_Id": 59,
+            "_Name": "무기 공격력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 493,
+            "_Type": 1
+        },
+        {
+            "_Id": 60,
+            "_Name": "물리/마법 백어택 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 494,
+            "_Type": 1
+        },
+        {
+            "_Id": 61,
+            "_Name": "물리/마법 대미지 감소 + ",
+            "_Effect": 1,
+            "_Effect_Type": 495,
+            "_Type": 1
+        },
+        {
+            "_Id": 62,
+            "_Name": "물리/마법 고정 대미지 + ",
+            "_Effect": 1,
+            "_Effect_Type": 496,
+            "_Type": 1
+        },
+        {
+            "_Id": 63,
+            "_Name": "물리/마법 회피율 + %",
+            "_Effect": 1,
+            "_Effect_Type": 497,
+            "_Type": 1
+        },
+        {
+            "_Id": 64,
+            "_Name": "일반 몬스터 추가 대미지 + ",
+            "_Effect": 1,
+            "_Effect_Type": 566,
+            "_Type": 1
+        },
+        {
+            "_Id": 65,
+            "_Name": "보스 고정대미지 + ",
+            "_Effect": 1,
+            "_Effect_Type": 570,
+            "_Type": 1
+        },
+        {
+            "_Id": 66,
+            "_Name": "일반 몬스터 지배력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 573,
+            "_Type": 2
+        },
+        {
+            "_Id": 67,
+            "_Name": "보스 몬스터 지배력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 574,
+            "_Type": 2
+        },
+        {
+            "_Id": 68,
+            "_Name": "최소/최대 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 585,
+            "_Type": 1
+        },
+        {
+            "_Id": 69,
+            "_Name": "무기 공격력/속성력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 586,
+            "_Type": 1
+        },
+        {
+            "_Id": 70,
+            "_Name": "무기 공격력/속성력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 587,
+            "_Type": 1
+        },
+        {
+            "_Id": 71,
+            "_Name": "물리/마법 고정 대미지 + %",
+            "_Effect": 1,
+            "_Effect_Type": 588,
+            "_Type": 1
+        },
+        {
+            "_Id": 72,
+            "_Name": "근력/마법력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 594,
+            "_Type": 1
+        },
+        {
+            "_Id": 73,
+            "_Name": "근력/마법력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 595,
+            "_Type": 1
+        },
+        {
+            "_Id": 74,
+            "_Name": "방어력/마법 저항력 + ",
+            "_Effect": 1,
+            "_Effect_Type": 596,
+            "_Type": 1
+        },
+        {
+            "_Id": 75,
+            "_Name": "방어력/마법 저항력 + %",
+            "_Effect": 1,
+            "_Effect_Type": 597,
+            "_Type": 1
+        }
+    ]
+}

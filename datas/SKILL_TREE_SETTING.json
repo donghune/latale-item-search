@@ -1,0 +1,394 @@
+{
+    "columns": [
+        {
+            "name": "_Id",
+            "type": "int"
+        },
+        {
+            "name": "_Description",
+            "type": "string"
+        },
+        {
+            "name": "_Image",
+            "type": "string"
+        },
+        {
+            "name": "_Left",
+            "type": "int"
+        },
+        {
+            "name": "_Top",
+            "type": "int"
+        },
+        {
+            "name": "_Right",
+            "type": "int"
+        },
+        {
+            "name": "_Bottom",
+            "type": "int"
+        },
+        {
+            "name": "_Image_PosX",
+            "type": "int"
+        },
+        {
+            "name": "_Image_PosY",
+            "type": "int"
+        }
+    ],
+    "datas": [
+        {
+            "_Id": 1,
+            "_Description": "스킬트리 라인 이미지 화살표 ↑",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 323,
+            "_Top": 291,
+            "_Right": 331,
+            "_Bottom": 296,
+            "_Image_PosX": 24,
+            "_Image_PosY": 54
+        },
+        {
+            "_Id": 2,
+            "_Description": "스킬트리 라인 이미지 화살표 ↓",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 332,
+            "_Top": 296,
+            "_Right": 340,
+            "_Bottom": 301,
+            "_Image_PosX": 24,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 3,
+            "_Description": "스킬트리 라인 이미지 화살표 →",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 346,
+            "_Top": 291,
+            "_Right": 351,
+            "_Bottom": 299,
+            "_Image_PosX": 0,
+            "_Image_PosY": 19
+        },
+        {
+            "_Id": 4,
+            "_Description": "스킬트리 라인 이미지 화살표 ←",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 341,
+            "_Top": 300,
+            "_Right": 346,
+            "_Bottom": 308,
+            "_Image_PosX": 50,
+            "_Image_PosY": 19
+        },
+        {
+            "_Id": 5,
+            "_Description": "스킬트리 라인 이미지 \"|\" 아래",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 334,
+            "_Top": 291,
+            "_Right": 338,
+            "_Bottom": 296,
+            "_Image_PosX": 26,
+            "_Image_PosY": 54
+        },
+        {
+            "_Id": 6,
+            "_Description": "스킬트리 라인 이미지 \"|\" 위",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 325,
+            "_Top": 296,
+            "_Right": 329,
+            "_Bottom": 301,
+            "_Image_PosX": 26,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 7,
+            "_Description": "스킬트리 라인 이미지 \"-\" 좌",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 346,
+            "_Top": 302,
+            "_Right": 351,
+            "_Bottom": 306,
+            "_Image_PosX": 0,
+            "_Image_PosY": 21
+        },
+        {
+            "_Id": 8,
+            "_Description": "스킬트리 라인 이미지 \"-\" 우",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 341,
+            "_Top": 293,
+            "_Right": 346,
+            "_Bottom": 297,
+            "_Image_PosX": 50,
+            "_Image_PosY": 21
+        },
+        {
+            "_Id": 9,
+            "_Description": "스킬트리 라인 이미지 \"+\"",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 352,
+            "_Top": 266,
+            "_Right": 407,
+            "_Bottom": 325,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 10,
+            "_Description": "스킬트리 라인 이미지 \"-----\"",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 352,
+            "_Top": 287,
+            "_Right": 407,
+            "_Bottom": 291,
+            "_Image_PosX": 0,
+            "_Image_PosY": 21
+        },
+        {
+            "_Id": 11,
+            "_Description": "스킬트리 라인 이미지 \"|\" 위부터 아래끝",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 378,
+            "_Top": 266,
+            "_Right": 382,
+            "_Bottom": 325,
+            "_Image_PosX": 26,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 12,
+            "_Description": "스킬트리 라인 이미지 \"┘\"",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 352,
+            "_Top": 266,
+            "_Right": 382,
+            "_Bottom": 291,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 13,
+            "_Description": "스킬트리 라인 이미지 \"└\"",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 378,
+            "_Top": 266,
+            "_Right": 407,
+            "_Bottom": 291,
+            "_Image_PosX": 26,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 14,
+            "_Description": "스킬트리 라인 이미지 \"┌\"",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 378,
+            "_Top": 287,
+            "_Right": 407,
+            "_Bottom": 325,
+            "_Image_PosX": 26,
+            "_Image_PosY": 21
+        },
+        {
+            "_Id": 15,
+            "_Description": "스킬트리 라인 이미지 \"┐\"",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 352,
+            "_Top": 287,
+            "_Right": 382,
+            "_Bottom": 325,
+            "_Image_PosX": 0,
+            "_Image_PosY": 21
+        },
+        {
+            "_Id": 16,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 17,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 18,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 19,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 20,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 21,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 22,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 23,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 24,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 25,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 26,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 27,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 28,
+            "_Description": "",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 29,
+            "_Description": "\"??/??\" 이미지",
+            "_Image": "Data/Interface/Concept/UI_Object_000.png",
+            "_Left": 205,
+            "_Top": 443,
+            "_Right": 232,
+            "_Bottom": 450,
+            "_Image_PosX": 14,
+            "_Image_PosY": 44
+        },
+        {
+            "_Id": 30,
+            "_Description": "아이콘 슬롯 이미지 일반",
+            "_Image": "Data/Interface/Concept/UI_Object_002.png",
+            "_Left": 246,
+            "_Top": 406,
+            "_Right": 280,
+            "_Bottom": 440,
+            "_Image_PosX": 11,
+            "_Image_PosY": 7
+        },
+        {
+            "_Id": 31,
+            "_Description": "아이콘 슬롯 이미지 스킬레벨0",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        },
+        {
+            "_Id": 32,
+            "_Description": "아이콘 슬롯 이미지 비어있을때",
+            "_Image": "",
+            "_Left": 0,
+            "_Top": 0,
+            "_Right": 0,
+            "_Bottom": 0,
+            "_Image_PosX": 0,
+            "_Image_PosY": 0
+        }
+    ]
+}
