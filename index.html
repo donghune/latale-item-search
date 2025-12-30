@@ -15,7 +15,7 @@
 
     #root {
       padding: 48px 24px;
-      max-width: 1200px;
+      max-width: 1600px;
       margin: 0 auto;
     }
   </style>
@@ -38,11 +38,15 @@
     const itemSources = ["datas/ITEM_1.json", "datas/ITEM_2.json", "datas/ITEM_3.json"];
     const recipeSource = "datas/ITEM_CREATE_RECIPE.json";
     const upgradeSource = "datas/ITEM_UPGRADE.json";
+    const collectSource = "datas/COLLECT_ITEM.json";
+    const achieveMissionSource = "datas/ACHIEVE_MISSION.json";
 
     function ItemSearch() {
       const [items, setItems] = useState([]);
       const [recipes, setRecipes] = useState([]);
       const [upgrades, setUpgrades] = useState([]);
+      const [collections, setCollections] = useState([]);
+      const [missions, setMissions] = useState([]);
       const [query, setQuery] = useState("");
       const [loading, setLoading] = useState(true);
       const [loadError, setLoadError] = useState("");
@@ -59,17 +63,27 @@
                 return res.json();
               })
             );
-            const recipeRes = await fetch(recipeSource);
-            const upgradeRes = await fetch(upgradeSource);
-            if (!recipeRes.ok || !upgradeRes.ok) {
-              throw new Error("조합/강화 데이터를 불러오지 못했습니다.");
+            const [recipeRes, upgradeRes, collectRes, missionRes] = await Promise.all([
+              fetch(recipeSource),
+              fetch(upgradeSource),
+              fetch(collectSource),
+              fetch(achieveMissionSource),
+            ]);
+            if (![recipeRes, upgradeRes, collectRes, missionRes].every((res) => res.ok)) {
+              throw new Error("조합/강화/도감/업적 데이터를 불러오지 못했습니다.");
             }
-            const recipeJson = await recipeRes.json();
-            const upgradeJson = await upgradeRes.json();
+            const [recipeJson, upgradeJson, collectJson, missionJson] = await Promise.all([
+              recipeRes.json(),
+              upgradeRes.json(),
+              collectRes.json(),
+              missionRes.json(),
+            ]);
 
             const merged = payloads.flatMap((entry) => (Array.isArray(entry?.datas) ? entry.datas : []));
             setRecipes(Array.isArray(recipeJson?.datas) ? recipeJson.datas : []);
             setUpgrades(Array.isArray(upgradeJson?.datas) ? upgradeJson.datas : []);
+            setCollections(Array.isArray(collectJson?.datas) ? collectJson.datas : []);
+            setMissions(Array.isArray(missionJson?.datas) ? missionJson.datas : []);
             setItems(merged);
           } catch (err) {
             console.error(err);
@@ -90,6 +104,25 @@
         });
         return map;
       }, [items]);
+
+      const collectibleIds = useMemo(() => {
+        const set = new Set();
+        collections.forEach((c) => {
+          if (c && typeof c._ItemID !== "undefined") set.add(c._ItemID);
+        });
+        return set;
+      }, [collections]);
+
+      const missionsByItemId = useMemo(() => {
+        const map = new Map();
+        missions.forEach((m) => {
+          if (!m || typeof m._Mission_ID === "undefined") return;
+          if (!itemsById.has(m._Mission_ID)) return;
+          if (!map.has(m._Mission_ID)) map.set(m._Mission_ID, []);
+          map.get(m._Mission_ID).push(m);
+        });
+        return map;
+      }, [missions, itemsById]);
 
       const recipesByResult = useMemo(() => {
         const map = new Map();
@@ -248,8 +281,58 @@
         );
       };
 
+      const renderRecipeUpgradeRow = (item) => {
+        return (
+          <div
+            style={{
+              display: "flex",
+              gap: 12,
+              overflowX: "auto",
+              paddingBottom: 8,
+            }}
+          >
+            <div style={{ minWidth: 280 }}>{renderRecipes(item)}</div>
+            <div style={{ minWidth: 280 }}>{renderUpgrades(item)}</div>
+          </div>
+        );
+      };
+
+      const renderCollectionAchievement = (item) => {
+        const isCollectible = collectibleIds.has(item._Id);
+        const relatedMissions = missionsByItemId.get(item._Id) || [];
+        if (!isCollectible && relatedMissions.length === 0) return <Text type="secondary">정보 없음</Text>;
+        return (
+          <Space direction="vertical" size="small">
+            <div>
+              <Tag color={isCollectible ? "green" : "default"}>{isCollectible ? "도감 등록 대상" : "도감 없음"}</Tag>
+            </div>
+            {relatedMissions.length > 0 && (
+              <Space direction="vertical" size={4}>
+                {relatedMissions.map((m) => (
+                  <div key={m._Id}>
+                    <Text>{m._Mission_String || `업적 ${m._Id}`}</Text>
+                    {m._Mission_Count ? (
+                      <Text type="secondary" style={{ marginLeft: 6 }}>
+                        {m._Mission_Count}회
+                      </Text>
+                    ) : null}
+                  </div>
+                ))}
+              </Space>
+            )}
+          </Space>
+        );
+      };
+
       const columns = [
-        { title: "아이템명", dataIndex: "_Name", key: "name", render: (text) => text || "-" },
+        {
+          title: "아이템명",
+          dataIndex: "_Name",
+          key: "name",
+          width: 220,
+          onCell: () => ({ style: { minWidth: 220 } }),
+          render: (text) => text || "-",
+        },
         {
           title: "설명",
           dataIndex: "_Description",
@@ -259,16 +342,16 @@
         },
         { title: "ID", dataIndex: "_Id", key: "id", width: 120 },
         {
-          title: "조합(레시피)",
-          key: "recipe",
-          width: "24%",
-          render: (_, record) => renderRecipes(record),
+          title: "도감 / 업적",
+          key: "collect-achieve",
+          width: 340,
+          onCell: () => ({ style: { minWidth: 340 } }),
+          render: (_, record) => renderCollectionAchievement(record),
         },
         {
-          title: "강화",
-          key: "upgrade",
-          width: "24%",
-          render: (_, record) => renderUpgrades(record),
+          title: "조합 / 강화",
+          key: "recipe-upgrade",
+          render: (_, record) => renderRecipeUpgradeRow(record),
         },
       ];
 
