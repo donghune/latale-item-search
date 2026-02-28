@@ -24,8 +24,8 @@ jobs:
             latale-item-search:latest
       - name: Health check
         run: |
-          sleep 3
-          curl -sf http://127.0.0.1:3012 || exit 1
+          sleep 5
+          docker exec latale-item-search wget -q --spider http://127.0.0.1:3000 || exit 1
       - name: Notify Discord (Success)
         if: success()
         run: |
